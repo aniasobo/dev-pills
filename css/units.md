@@ -1,9 +1,13 @@
 # CSS units
 
+### Good practice
+
 | Media | Recommended | Occasional use | Infrequent use | Not recommended |  
 | --- | --- | --- | --- | --- |  
 | Screen | em, rem, % | px | ch, ex, vw, vh, vmin, vmax | cm, mm, in, pt, pc |  
 | Print | em, rem, % | cm, mm, in, pt, pc | ch, ex | px, vw, vh, vmin, vmax |  
+
+### Unit list
 
 | Unit | Description |
 | --- | --- |  
