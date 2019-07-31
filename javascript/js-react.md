@@ -7,47 +7,47 @@ The below list by [@colepeters](https://github.com/colepeters)
 
 ### var/let/const: 
 
-[https://www.youtube.com/watch?v=3DsjyJBL5fkp8&list=3DPL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=3D5&t=3D0s](https://www.youtube.com/watch?v=3DsjyJBL5fkp8&list=3DPL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm&index=3D5&t=3D0s=)
+[https://www.youtube.com/embed/sjyJBL5fkp8](https://www.youtube.com/embed/sjyJBL5fkp8)
 
 ### Block scope: 
 
-[https://www.youtube.com/watch?v=3DiJKkZA215tQ](https://www.youtube.com/watch?v=3DiJKkZA215tQ)
+[https://www.youtube.com/watch?v=iJKkZA215tQ](https://www.youtube.com/watch?v=iJKkZA215tQ)
 
 ### Higher order functions, and filter: 
 
-[https://www.youtube.com/watch?v=3DBMUiFMZr7vk](https://www.youtube.com/watch?v=3DBMUiFMZr7vk)  
+[https://www.youtube.com/watch?v=BMUiFMZr7vk](https://www.youtube.com/watch?v=BMUiFMZr7vk)  
 
 ### Map: 
 
-[https://www.youtube.com/watch?v=3DbCqtb-Z5YGQ&list=3DPL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3D3&t=3D0s](https://www.youtube.com/watch?v=3DbCqtb-Z5YGQ&list=3DPL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3D3&t=3D0s)
+[https://www.youtube.com/embed/bCqtb-Z5YGQ](https://www.youtube.com/embed/bCqtb-Z5YGQ)
 
 ### Reduce: 
 
-[https://www.youtube.com/watch?v=3DWl98eZpkp-c&list=3DPL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3D4&t=3D0s](https://www.youtube.com/watch?v=3DWl98eZpkp-c&list=3DPL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3D4&t=3D0s)
+[https://www.youtube.com/embed/Wl98eZpkp-c](https://www.youtube.com/embed/Wl98eZpkp-c)
 
 ### Closures: 
 
-[https://www.youtube.com/watch?v=3DCQqwU2Ixu-U&list=3DPL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3D6&t=3D0s](https://www.youtube.com/watch?v=3DCQqwU2Ixu-U&list=3DPL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3D6&t=3D0s)
+[https://www.youtube.com/embed/CQqwU2Ixu-U](https://www.youtube.com/embed/CQqwU2Ixu-U)
 
 ### Arrow functions: 
 
-[https://www.youtube.com/watch?v=3D6sQDTgOqh-I](https://www.youtube.com/watch?v=3D6sQDTgOqh-I)
+[https://www.youtube.com/watch?v=6sQDTgOqh-I](https://www.youtube.com/watch?v=6sQDTgOqh-I)
 
 ### Destructuring: 
 
-[https://www.youtube.com/watch?v=3DRJaRRS27100](https://www.youtube.com/watch?v=3DRJaRRS27100)
+[https://www.youtube.com/watch?v=RJaRRS27100](https://www.youtube.com/watch?v=RJaRRS27100)
 
 ### Rest/spread:  
-[https://cod=eburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831](https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831)
+[https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831](https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831)
 
 ### Promises: 
 
-[https://www.youtube.com/watch?v=3D2d7s3spWAzo](https://www.youtube.com/watch?v=3D2d7s3spWAzo)  
+[https://www.youtube.com/watch?v=2d7s3spWAzo](https://www.youtube.com/watch?v=2d7s3spWAzo)  
 
 ### async/await: 
 
-[https://www.youtube.com/watch?v=3D568g8hxJJp4](https://www.youtube.com/watch?v=3D568g8hxJJp4)
+[https://www.youtube.com/watch?v=568g8hxJJp4](https://www.youtube.com/watch?v=568g8hxJJp4)
 
 ### Modules, import/export (this is pretty in depth): 
 
-[https://www.youtube.com/watch?v=3DqJWALEoGge4](https://www.youtube.com/watch?v=3DqJWALEoGge4)
+[https://www.youtube.com/watch?v=qJWALEoGge4](https://www.youtube.com/watch?v=qJWALEoGge4)
