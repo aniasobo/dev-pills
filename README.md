@@ -40,6 +40,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Commit messages](git/commit-messages.md)
 * [Git resources](git/git-resources.md)
+* [.gitignore](git/gitignore.md)
 * to add: working on branches
 
 ---
