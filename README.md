@@ -14,7 +14,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * Editors
 * JavaScript
 * Ruby
-* Misc
+* [Misc](#misc)
 * [Tech interviews](#tech-interviews)
 
 ---
@@ -31,6 +31,11 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Commit messages](git/commit-messages.md)
 
+---
+
+# Misc
+
+* [Markdown](misc/markdown-cheatsheet.md)
 ---
 
 # Tech interviews
