@@ -58,6 +58,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # JavaScript
 
 * coming up: Functional programming sample in pseudocode
+* [TypeScript](javascript/typescript.md)
+* [JS resources](javascript/js-resources.md)
 
 ---
 
