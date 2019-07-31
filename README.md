@@ -6,13 +6,34 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-## Categories
+# Categories
 
-* Testing
-* Git
+* [Testing](#testing)
+* [Git](#git)
 * Command line
 * Editors
 * JavaScript
 * Ruby
 * Misc
-* Tech interviews
+* [Tech interviews](#tech-interviews)
+
+---
+
+# Testing
+
+* [RSpec setup](testing/rspec-setup.md)
+* [RSpec syntax](testing/rspec-syntax.md)
+* [RSpec mocking](testing/rspec-mocks.md)
+
+---
+
+# Git
+
+* [Commit messages](git/commit-messages.md)
+
+---
+
+# Tech interviews
+
+* [Tech interview questions](tech-interviews/questions.md)
+* [Tech test checklist](tech-interviews/tech-test-checklist.md)
