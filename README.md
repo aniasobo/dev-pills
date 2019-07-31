@@ -13,6 +13,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Command line](#command-line)
 * [Editors](#editors)
 * [JavaScript](#javascript)
+* [React](#react)
 * [Ruby](#ruby)
 * [Project setup checklists](#setup)
 * [DevOps](#devops)
@@ -38,6 +39,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Git
 
 * [Commit messages](git/commit-messages.md)
+* [Git resources](git/git-resources.md)
 * to add: working on branches
 
 ---
@@ -60,6 +62,13 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * coming up: Functional programming sample in pseudocode
 * [TypeScript](javascript/typescript.md)
 * [JS resources](javascript/js-resources.md)
+* [JS for React](javascript/js-react.md)
+
+---
+
+# React
+
+* [React resources](react/react-resources.md)
 
 ---
 
