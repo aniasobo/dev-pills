@@ -107,6 +107,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Markdown](misc/markdown-cheatsheet.md)
 * [Naming good practice](misc/naming.md)
+* [Environment fixes](misc/environment-fixes.md)
 
 ---
 
