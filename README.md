@@ -15,9 +15,10 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [JavaScript](#javascript)
 * [React](#react)
 * [Vue](#vue)
+* [Gatsby](#gatsby)
 * [Ruby](#ruby)
 * [CSS](#css)
-* [Project setup checklists](#project-setup)
+* [Project setup instructions](#project-setups)
 * [DevOps](#devops)
 * [Misc](#misc)
 * [Tech interviews](#tech-interviews)
@@ -81,6 +82,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
+# Gatsby
+
+* [Gatsby resources](gatsby/gatsby.resources.md)
+
+---
+
 # Ruby  
 
 * [Sinatra](ruby/sinatra.md)
@@ -101,6 +108,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Sinatra project with Capybara and Rspec](setup/sinatra-capybara-rspec.md)
 * [Node project with Express server](setup/node-express.md)
 * [Vue and Rails single-page app](setup/vue-rails.md)
+* [Node web app boilerplate](setup/node-boilerplate.md)
+* [MVC app in plain JS](setup/mvc-plain-js.md)
 
 ---
 

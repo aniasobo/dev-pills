@@ -26,7 +26,7 @@ specify command to run your tests:
 3. write your tests
 4. in command line: `jasmine` to run the tests
 
-alternatively: `node_modules/jasmine-node/bin/jasmine-node --verbose --junitreport --noColor spec`
+in detail: `node_modules/jasmine-node/bin/jasmine-node --verbose --junitreport --noColor spec`
 
 ### With SpecRunner.html
 
