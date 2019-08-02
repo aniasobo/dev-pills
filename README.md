@@ -30,9 +30,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [RSpec syntax](testing/rspec-syntax.md)
 * [RSpec mocking](testing/rspec-mocks.md)
 * to add: Capybara
-* to add: Jasmine
+* [Jasmine](testing/jasmine.md)
 * to add: ESLint
-* to add: Rubocop
+* [Rubocop scaffold](testing/rubocop.yml)
 * to add: RubyCritic
 * to add: FactoryBot
 
