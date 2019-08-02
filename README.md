@@ -92,6 +92,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # CSS
 
 * [CSS units](css/units.md)
+* [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
 
 ---
 
