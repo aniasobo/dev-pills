@@ -67,6 +67,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [TypeScript](javascript/typescript.md)
 * [JS resources](javascript/js-resources.md)
 * [JS for React](javascript/js-react.md)
+* [ES6 higher order functions](javascript/es6-fun.md)
 
 ---
 
@@ -104,6 +105,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [CSS ruleset](css/css-ruleset.md)
 * [CSS font sizing](css/css-font-sizing.md)
 * [CSS centering](css/css-centering.md)
+* [Default mobile first layout](css/mobile-default-layout.md)
+* [Simple CSS grid](css/simple-grid.css)
 
 ---
 

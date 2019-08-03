@@ -15,7 +15,7 @@ body {
 
 Target font size in `px` divided by the font size of parent element:
 
-        `target / context = result`
+> target / context = result
 
 **To set an `h1` to `24px`:** `24 / 16 = 1.5`, therefore: 
 
