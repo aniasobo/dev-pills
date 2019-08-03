@@ -10,4 +10,5 @@ div {
 
 `auto` -> forces the browser to adjust sides so that content is centred  
 
-_Must_ be used with the `width` attribute added - not possible to center a div within an element that fills the page - it can only be centred relative to its width 
+
+**Must** be used with the `width` attribute added - not possible to center a div within an element that fills the page - it can only be centred relative to its width 
