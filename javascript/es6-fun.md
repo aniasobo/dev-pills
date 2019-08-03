@@ -1,6 +1,6 @@
-# 😍 Higher order functions in ES6 🤯
+# 😍 ES6 🤯
 
-## 🦄 Filter and Reject
+## Higher order functions - 🦄 Filter and Reject
 
 ```
 var animals = [

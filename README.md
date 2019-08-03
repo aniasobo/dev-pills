@@ -67,7 +67,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [TypeScript](javascript/typescript.md)
 * [JS resources](javascript/js-resources.md)
 * [JS for React](javascript/js-react.md)
-* [ES6 higher order functions](javascript/es6-fun.md)
+* [ES6 functions and destructuring](javascript/es6-fun.md)
+* [ES6 Rest & Spread](javascript/rest-spread.md)
 
 ---
 
