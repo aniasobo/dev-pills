@@ -45,6 +45,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Commit messages](git/commit-messages.md)
 * [Git resources](git/git-resources.md)
 * [.gitignore](git/gitignore.md)
+* [Git Basics](git/basics.md)
 * to add: working on branches
 
 ---
@@ -115,6 +116,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [CSS centering](css/css-centering.md)
 * [Default mobile first layout](css/mobile-default-layout.md)
 * [Simple CSS grid](css/simple-grid.css)
+* [CSS transitions](css/transitions.md)
+* [Flexbox or grid?](css/flexbox-or-grid.md)
 
 ---
 
