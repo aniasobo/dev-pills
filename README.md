@@ -16,6 +16,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React](#react)
 * [Vue](#vue)
 * [Gatsby](#gatsby)
+* [Python](#python)
 * [Ruby](#ruby)
 * [CSS](#css)
 * [Project setup instructions](#project-setups)
@@ -87,6 +88,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Gatsby
 
 * [Gatsby resources](gatsby/gatsby.resources.md)
+
+---
+
+# Python
+
+* [Syntax: underscore](python/underscore.md)
 
 ---
 
