@@ -19,6 +19,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Python](#python)
 * [Ruby](#ruby)
 * [CSS](#css)
+* [Postgres](#postgres)
 * [Project setup instructions](#project-setups)
 * [DevOps](#devops)
 * [Misc](#misc)
@@ -120,6 +121,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Flexbox or grid?](css/flexbox-or-grid.md)
 
 ---
+
+# Postgres
+
+* [Command line postgres](postgres/commands.md)
+
+--- 
 
 # Project setups
 
