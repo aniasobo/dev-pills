@@ -20,6 +20,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Ruby](#ruby)
 * [CSS](#css)
 * [Postgres](#postgres)
+* [Rust](#rust)
 * [Project setup instructions](#project-setups)
 * [DevOps](#devops)
 * [Misc](#misc)
@@ -127,6 +128,13 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Command line postgres](postgres/commands.md)
 
 --- 
+
+# Rust
+
+* [Cargo](rust/cargo.md)
+* [Rustup tool](rust/rustup.md)
+
+---
 
 # Project setups
 
