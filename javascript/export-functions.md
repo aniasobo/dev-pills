@@ -1,4 +1,4 @@
-# Exporting functions in JS
+# Pure functions vs class methods in JS
 
 Standard module pattern example:  
 
