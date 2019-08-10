@@ -66,17 +66,11 @@ Functional programming refactor of the above:
 ```
 // file transformText.js
 
-export const capitalize = (text) {
-  return text.charAt(0).toUpperCase() + text.slice(1);
-}
+export const capitalize = (text) => return text.charAt(0).toUpperCase() + text.slice(1);
 
-export const uppercase = (text) {
-  return text.toUpperCase();
-}
+export const uppercase = (text) => return text.toUpperCase();
 
-export lowercase = (text) {
-  return text.toLowerCase();
-}
+export const lowercase = (text) => return text.toLowerCase();
 ```
 
 👆 Every public method converted to an exported function to be used anywhere.
