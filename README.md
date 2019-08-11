@@ -144,6 +144,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Vue and Rails single-page app](setup/vue-rails.md)
 * [Node web app boilerplate](setup/node-boilerplate.md)
 * [MVC app in plain JS](setup/mvc-plain-js.md)
+* [Nest.js CRUD with Postgres and TypeORM](setup/nest-crud.md)
 
 ---
 
