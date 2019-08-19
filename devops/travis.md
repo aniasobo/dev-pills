@@ -19,3 +19,5 @@ before_script:
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
 ```
+
+* [Setting up Travis for a Rails app](https://medium.com/full-taxx/how-to-setup-travis-ci-for-a-rails-application-78a453963300)

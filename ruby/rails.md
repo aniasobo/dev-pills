@@ -35,3 +35,6 @@ push your local db to production (overwrites prod db): `heroku db:push`
 
 initialise heroku db: `heroku run rake db:schema:load`
 
+---
+
+* [Setting up Travis for a Rails app](https://medium.com/full-taxx/how-to-setup-travis-ci-for-a-rails-application-78a453963300)
