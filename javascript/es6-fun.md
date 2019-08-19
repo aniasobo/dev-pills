@@ -77,4 +77,12 @@ var [year, make, model, description] = csv.split(', ');
 ```
 
 ---
-all examples loosely adapted from videos by [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+all the above examples loosely adapted from videos by [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+**more Desctructuring:** 
+
+[5 Interesting Uses of JS Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
+
+**more first-class functions:**
+
+[First-Class Functions in JS](https://nick.scialli.me/first-class-functions-in-javascript/)
