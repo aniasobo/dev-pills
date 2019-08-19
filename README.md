@@ -37,7 +37,6 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Jasmine](testing/jasmine.md)
 * to add: ESLint
 * [Rubocop scaffold](testing/rubocop.yml)
-* to add: RubyCritic
 * to add: FactoryBot
 
 ---
@@ -161,6 +160,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Markdown](misc/markdown-cheatsheet.md)
 * [Naming good practice](misc/naming.md)
 * [Environment fixes](misc/environment-fixes.md)
+* [READMEs](misc/readmes.md)
 
 ---
 
