@@ -1,6 +1,8 @@
 # JavaScript closures
 
-[Good tutorial on closures from FCC](https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/)
+* [Good tutorial on closures from FCC](https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/)
+* [Closures on HackMD](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
+
 
 **notes from Makers workshop:**
 

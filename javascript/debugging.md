@@ -27,3 +27,7 @@ Airport.prototype.land = function(plane) {
   console.log(plane);
 }
 ```
+
+### More resources
+
+* [Reasoning about async javascript using frames](https://hackmd.io/cnH7BqucQ7yzqnLiqmizXw)

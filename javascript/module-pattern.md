@@ -44,5 +44,7 @@ The variables that don't get included in the exports stay hidden/private.
 
 > The values of `this` in the browser (`window`) and `this` in Node.js (`exports`) are different. But they are similar enough that they can both be massaged by this pattern to let us write code that will work in both environments.
 
+### More resources
 
-[`This` keyword explainer](https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d)
+* [`This` keyword explainer](https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d)
+* [JS objects and prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
