@@ -42,6 +42,12 @@ to connect to your PG db and execute queries: `heroku pg:psql`
 
 `web:` is the process; `config/` denotes the config file passed to server; `puma.rb` is the server that runs it.
 
+`worker: bundle exec rake my:rake_task`
+
+`release: bundle exec rake db:migrate`
+
+`worker` and `release` are Heroku processes (dyno-dependent)
+
 **[Notes on running Rails apps on Heroku](https://github.com/aniasobo/dev-pills/blob/master/ruby/rails.md)**
 
 
