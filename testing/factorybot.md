@@ -1,0 +1,1 @@
+## good [FactoryBot cheatsheet](https://devhints.io/factory_bot)

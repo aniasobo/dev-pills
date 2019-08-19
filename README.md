@@ -38,7 +38,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Jasmine](testing/jasmine.md)
 * to add: ESLint
 * [Rubocop scaffold](testing/rubocop.yml)
-* to add: FactoryBot
+* [FactoryBot](testing/factorybot.md)
 * [London vs Chicago schools of TDD](testing/schools.md)
 
 ---
