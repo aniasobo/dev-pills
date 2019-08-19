@@ -12,5 +12,18 @@
 
 ### delete db with `DROP DATABASE dbname;`  
 
-[Postgres data types documentation](https://www.postgresql.org/docs/9.5/datatype.html)  
+[Postgres data types documentation](https://www.postgresql.org/docs/9.5/datatype.html)
+
+---
+
+**Fix for killing postgres process that blocks the default port**
+
+(a.k.a. `FATAL database does not exist` - because postgres can't look into its default `5432` port due to old processes running)
+
+```
+$ brew services stop postgresql
+```
+
+using kill process functions (saved in `bash_profile`) and killing processes by PID in Activity Monitor or Terminal will not help, because Postgres process immediately respawns its children.  
+
 
