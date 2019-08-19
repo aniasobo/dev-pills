@@ -80,6 +80,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Arrow functions](javascript/arrow.md)
 * [Error handling](javascript/error-handling.md)
 * [Promises](javascript/promises.md)
+* [Module pattern & `this`](javascript/module-pattern.md)
 
 ---
 
