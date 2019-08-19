@@ -78,6 +78,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Debugging JS](javascript/debugging.md)
 * [Closures](javascript/closures.md)
 * [Arrow functions](javascript/arrow.md)
+* [Error handling](javascript/error-handling.md)
 
 ---
 
