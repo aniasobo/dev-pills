@@ -33,11 +33,13 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [RSpec setup](testing/rspec-setup.md)
 * [RSpec syntax](testing/rspec-syntax.md)
 * [RSpec mocking](testing/rspec-mocks.md)
+* [Pry](testing/pry.md)
 * to add: Capybara
 * [Jasmine](testing/jasmine.md)
 * to add: ESLint
 * [Rubocop scaffold](testing/rubocop.yml)
 * to add: FactoryBot
+* [London vs Chicago schools of TDD](testing/schools.md)
 
 ---
 
