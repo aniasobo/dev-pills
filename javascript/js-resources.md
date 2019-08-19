@@ -4,3 +4,7 @@
 * [Tyler McGinnis](https://tylermcginnis.com/)
 * [Wes Bos](https://wesbos.com/)
 * [Egghead.io](https://egghead.io/)
+
+## Conventions
+
+* [AirBnB JS style guide](https://github.com/airbnb/javascript)
