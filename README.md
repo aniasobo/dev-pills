@@ -164,6 +164,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Environment fixes](misc/environment-fixes.md)
 * [READMEs](misc/readmes.md)
 * [RESTful APIs](misc/rest.md)
+* [OOP](misc/oop.md)
 
 ---
 
