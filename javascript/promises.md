@@ -53,5 +53,6 @@ $.ajax('file.json').done(function(){
 
 * [Fun Fun Function Promises video](https://www.youtube.com/watch?v=2d7s3spWAzo)  
 * [Wes Bos JS30 tutorials](https://javascript30.com/)
+* [Promises in JS and Node video](https://www.youtube.com/watch?v=QujWZUYpeNk)
 
 
