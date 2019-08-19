@@ -50,3 +50,9 @@ Deleting a bookmark | transitions the machine to a new state of 35 bookmarks, re
 - Having 36 bookmarks (state)
 - Deleting a bookmark (state transition)
 - Having 35 bookmarks (state)
+
+### Other resources:
+
+Extracted from [this README](https://learn.co/lessons/sinatra-restful-routes-readme)
+
+For the initialize class, [refer to this](https://itnext.io/removing-argument-order-dependencies-c5e2482ba208)
