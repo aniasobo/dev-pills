@@ -46,5 +46,6 @@ The variables that don't get included in the exports stay hidden/private.
 
 ### More resources
 
+* [Tyler McGinnis JS modules video](https://www.youtube.com/watch?v=qJWALEoGge4)
 * [`This` keyword explainer](https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d)
 * [JS objects and prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
