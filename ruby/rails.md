@@ -4,6 +4,8 @@
 
 ### View all your routes with `bin/rails routes`
 
+---
+
 ## How to test in Rails
 
 * feature testing - the whole app; the most important testing to be done in a rails app
@@ -16,6 +18,8 @@ Controller, model & view - should have as little logic as possible and be v skin
 * `if` statements
 * loops
 * (ok not to unit test views as feature testing should cover the logic)
+
+---
 
 ## Rails on Heroku 
 
