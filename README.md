@@ -129,6 +129,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [CSS transitions](css/transitions.md)
 * [Flexbox or grid?](css/flexbox-or-grid.md)
 * [Debugging CSS grid](css/debug-grid.md)
+* [Gradients](css/gradients.md)
 
 ---
 

@@ -4,6 +4,8 @@
 
 ### View all your routes with `bin/rails routes`
 
+**view all your available rake and rails commands with `$ rails`**  
+
 ---
 
 ## How to test in Rails
