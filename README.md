@@ -30,6 +30,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # Testing
 
+* [ESLint setup](testing/eslint.md)
 * [RSpec setup](testing/rspec-setup.md)
 * [RSpec syntax](testing/rspec-syntax.md)
 * [RSpec mocking](testing/rspec-mocks.md)

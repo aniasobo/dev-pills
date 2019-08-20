@@ -15,3 +15,5 @@ Displaying all bookmarks in the bookmarks array in index:
 ```
 
 [Intro resource](https://www.stuartellis.name/articles/erb/)
+
+[My Sinatra and Rack notes from Makers](https://github.com/aniasobo/portfolio/blob/master/challenges/battle.md)
