@@ -2,7 +2,40 @@
 
 ## `console` methods:
 
-tba
+`console.log('%c some text', 'background: red;');` will apply this style to this string in console
+
+`console.warn('warning text');`  
+
+`console.error('error text');`  
+
+`console.info('info string');`  
+
+`console.assert(1 === 1, 'that is not ok');` - only displays the string if assertion is false  
+
+`console.assert(p.classList.contains('className'), 'it does not check out');`  will display nothing if class exeist in `p` element 
+
+`console.clear();`  
+
+`console.dir(p);` - opens up the `p` element  
+
+`console.group()` - grouping iterable objects with their properties  
+
+`console.count('stuff to count')` - good for flagging console printouts  
+
+**timing JS actions**  
+
+```
+console.time('fetching data');
+fetch('source url')
+  .then(data => data.json())
+  .then(data => {
+    console.timeEnd('fetching data');
+    console.log(data);
+  })
+```
+
+`console.table();` - displays an array of objects with properties as a table
+
 
 ## Notes from Makers 
 
