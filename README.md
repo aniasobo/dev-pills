@@ -108,6 +108,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Python
 
 * [Syntax: underscore](python/underscore.md)
+* [Web scraping in python](python/web-scraping.md)
 
 ---
 
