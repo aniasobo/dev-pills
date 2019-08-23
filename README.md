@@ -21,6 +21,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [CSS](#css)
 * [Postgres](#postgres)
 * [Rust](#rust)
+* [WebAssembly](#webassembly)
 * [Project setup instructions](#project-setups)
 * [DevOps](#devops)
 * [Misc](#misc)
@@ -145,6 +146,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Cargo](rust/cargo.md)
 * [Rustup tool](rust/rustup.md)
+
+---
+
+# WebAssembly
+
+* [WebAssembly resources](webassembly/resources.md)
 
 ---
 
