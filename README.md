@@ -102,6 +102,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Gatsby
 
 * [Gatsby resources](gatsby/gatsby.resources.md)
+* [Cheatsheet](gatsby/cheatsheet.md)
 
 ---
 
@@ -166,6 +167,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [MVC app in plain JS](setup/mvc-plain-js.md)
 * [Nest.js CRUD with Postgres and TypeORM](setup/nest-crud.md)
 * [Node.js with PyNode](setup/node-pynode.md)
+* [Gatsby on Now](setup/gatsby.md)
 
 ---
 
