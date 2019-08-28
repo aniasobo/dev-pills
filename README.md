@@ -168,6 +168,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Nest.js CRUD with Postgres and TypeORM](setup/nest-crud.md)
 * [Node.js with PyNode](setup/node-pynode.md)
 * [Gatsby on Now](setup/gatsby.md)
+* [Python setup - best practices](setup/python.md)
 
 ---
 
