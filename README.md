@@ -103,6 +103,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Gatsby resources](gatsby/gatsby.resources.md)
 * [Cheatsheet](gatsby/cheatsheet.md)
+* [Themes](gatsby/themes.md)
 
 ---
 
