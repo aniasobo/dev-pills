@@ -76,6 +76,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [JS for React](javascript/js-react.md)
 * [ES6 functions and destructuring](javascript/es6-fun.md)
 * [ES6 Rest & Spread](javascript/rest-spread.md)
+* [Nested functions](javascript/nested-functions.md)
 * [JS Date module](javascript/date.md)
 * [Debugging JS](javascript/debugging.md)
 * [Closures](javascript/closures.md)
