@@ -13,6 +13,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Command line](#command-line)
 * [Editors](#editors)
 * [JavaScript](#javascript)
+* [TypeScript](#typescript)
 * [React](#react)
 * [Vue](#vue)
 * [Gatsby](#gatsby)
@@ -71,7 +72,6 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # JavaScript
 
 * [Functional programming sample](javascript/export-functions.md)
-* [TypeScript](javascript/typescript.md)
 * [JS resources](javascript/js-resources.md)
 * [JS for React](javascript/js-react.md)
 * [ES6 functions and destructuring](javascript/es6-fun.md)
@@ -85,6 +85,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Promises](javascript/promises.md)
 * [Module pattern & `this`](javascript/module-pattern.md)
 * [Query selectors](javascript/query-selectors.md)
+
+---
+
+# Typescript
+
+* [What is TypeScript](typescript/typescript.md)
 
 ---
 
