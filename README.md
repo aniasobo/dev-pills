@@ -100,6 +100,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Node.js
 
 * [Node resources](node/resources.md)
+* [Node execution model](node/execution-model.md)
 
 ---
 
