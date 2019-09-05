@@ -185,6 +185,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Node.js with PyNode](setup/node-pynode.md)
 * [Gatsby on Now](setup/gatsby.md)
 * [Python setup - best practices](setup/python.md)
+* [Full-stack demo](setup/medium-demo.md)
 
 ---
 
