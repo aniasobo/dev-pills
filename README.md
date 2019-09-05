@@ -26,6 +26,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [WebAssembly](#webassembly)
 * [Project setup instructions](#project-setups)
 * [DevOps](#devops)
+* [Authentication](#authentication)
 * [Misc](#misc)
 * [Tech interviews](#tech-interviews)
 
@@ -197,6 +198,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [CI/CD setup](devops/ci-cd.md)
 * [CRC cards for db models](devops/db-modelling.md)
 * [Travis](devops/travis.md)
+
+---
+
+# Authentication
+
+* [OAuth resources](authentication/oauth.md)
 
 ---
 
