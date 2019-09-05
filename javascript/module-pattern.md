@@ -50,3 +50,4 @@ The variables that don't get included in the exports stay hidden/private.
 * [`This` keyword explainer](https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d)
 * [JS objects and prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 * [JS module pattern in depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+* [The Magic of `this` keyword](https://medium.com/@js_tut/the-magic-of-this-keyword-2ed897d6033b) by JavaScript Teacher/Medium
