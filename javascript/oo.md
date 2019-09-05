@@ -127,3 +127,7 @@ var tabbyCat = new Cat();
 tabbyCat.yawn(); // outputs "yawn!"
 tabbyCat.meow(); // outputs "meow"
 ```
+
+    
+         
+Source: Manuel Kiessling's [Node Craftsman](https://leanpub.com/nodecraftsman) book
