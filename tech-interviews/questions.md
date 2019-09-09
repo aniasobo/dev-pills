@@ -10,3 +10,4 @@
 * [STAR worksheet](https://docs.google.com/document/d/1FxGBtR3leh5hhn1lyBL3-l_TItn_9SUX9bXuV1nXNno/edit#)
 * [The Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 * [What questions should you ask at an engineering interview?](https://localghost.dev/2019/08/what-questions-should-you-ask-at-an-engineering-interview/)
+* [Questions to ask - reverse interview](https://github.com/viraptor/reverse-interview)
