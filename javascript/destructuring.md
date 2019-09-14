@@ -36,3 +36,22 @@ const response = {
 
 const {data: {user}} = response // user is { name: 'cat', title: 'CEO'}
 ```
+
+[5 Interesting Uses of JS Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
+
+## Array and string destructuring from Fun Fun Function
+
+```
+// array
+
+var user = ['Name Lastname', 'email@inbox.com', 'Location']
+
+var [name, handle, location] = user;
+
+// string
+
+var csv = "1997, Ford, F350, Must Sell!"
+
+var [year, make, model, description] = csv.split(', ');
+```
+

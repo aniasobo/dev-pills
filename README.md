@@ -223,6 +223,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [OOP](cs/oop.md)
 * [PWA pattern](cs/pwa.md)
+* [Algorithms](cs/algorithms.md)
 
 ---
 
