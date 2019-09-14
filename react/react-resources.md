@@ -5,6 +5,7 @@
 * [Tyler McGinnis](https://tylermcginnis.com/)
 * [Wes Bos](https://wesbos.com/)
 * [2019 React and Redux resources list](https://dev.to/javinpaul/my-favorite-courses-to-learn-react-and-redux-in-2019-c6c)
+* [React trivia](https://github.com/sudheerj/reactjs-interview-questions)
 
 ## 📱 React Native
 
