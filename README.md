@@ -88,6 +88,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Module pattern & `this`](javascript/module-pattern.md)
 * [OO and inheritance in JS](javascript/oo.md)
 * [Query selectors](javascript/query-selectors.md)
+* [Destructuring](javascript/destructuring.md)
 
 ---
 
