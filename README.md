@@ -26,7 +26,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [WebAssembly](#webassembly)
 * [Project setup instructions](#project-setups)
 * [DevOps](#devops)
+* [Machine learning](#machine-learning)
 * [Authentication](#authentication)
+* [Computer science](#computer-science)
 * [Misc](#misc)
 * [Tech interviews](#tech-interviews)
 
@@ -205,9 +207,22 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
+# Machine learning 
+
+* add notes from ML workshop
+
+---
+
 # Authentication
 
 * [OAuth resources](authentication/oauth.md)
+
+---
+
+# Computer science
+
+* [OOP](cs/oop.md)
+* [PWA pattern](cs/pwa.md)
 
 ---
 
@@ -218,8 +233,6 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Environment fixes](misc/environment-fixes.md)
 * [READMEs](misc/readmes.md)
 * [RESTful APIs](misc/rest.md)
-* [OOP](misc/oop.md)
-* [PWA pattern](misc/pwa.md)
 * [Get a list of browsers from npx](misc/browsers.md)
 
 ---
