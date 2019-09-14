@@ -191,6 +191,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Gatsby on Now](setup/gatsby.md)
 * [Python setup - best practices](setup/python.md)
 * [Full-stack demo](setup/medium-demo.md)
+* [React sample project with Webpack, tools and hooks](setup/react-webpack.md)
 
 ---
 
