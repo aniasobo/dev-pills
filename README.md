@@ -20,6 +20,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Gatsby](#gatsby)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Elixir](#elixir)
 * [CSS](#css)
 * [Postgres](#postgres)
 * [Rust](#rust)
@@ -142,6 +143,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Sinatra](ruby/sinatra.md)
 * [Rails](ruby/rails.md)
 * [Dependency injection](ruby/dependency-injection.md)
+
+---
+
+# Elixir
+
+* [Intro notes](elixir/elixir-intro.md)
 
 ---
 
