@@ -219,6 +219,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * add notes from ML workshop
 * [TensorFlow.js](ml/js-ml.md)
+* [Libraries](ml/libraries.md)
 
 ---
 
