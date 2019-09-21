@@ -218,6 +218,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Machine learning 
 
 * add notes from ML workshop
+* [TensorFlow with JS](ml/js-ml.md)
 
 ---
 
