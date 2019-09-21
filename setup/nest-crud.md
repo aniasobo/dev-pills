@@ -163,3 +163,7 @@ This sets up the follwing endpoints:
 (test the endpoints in Postman or curl)  
 (optional [integration with GraphQL](https://docs.nestjs.com/))
 
+--- 
+
+## More [awesome Nest resources](https://github.com/juliandavidmr/awesome-nestjs)
+
