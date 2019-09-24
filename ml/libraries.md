@@ -3,6 +3,7 @@
 * [Keras - the python deep learning library](https://keras.io/) (can run on TensorFlow)
 * [Tensorflow](https://www.tensorflow.org/tutorials)
 * [PyTorch](https://pytorch.org/) (_"better for fast moving research/learning"_)
+* [FastAI](https://github.com/fastai/fastai) - Linux only, works with PyTorch
 
 
 ## Keras tutorials
