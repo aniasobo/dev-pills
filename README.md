@@ -113,6 +113,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # React
 
 * [React resources](react/react-resources.md)
+* [React intro notes](react/react-intro-notes.md)
 
 ---
 
