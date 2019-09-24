@@ -167,3 +167,4 @@ This sets up the follwing endpoints:
 
 ## More [awesome Nest resources](https://github.com/juliandavidmr/awesome-nestjs)
 
+* [Another Nest.js CRUD template](https://github.com/nestjsx/crud)
