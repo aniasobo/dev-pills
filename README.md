@@ -99,6 +99,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Typescript
 
 * [What is TypeScript](typescript/typescript.md)
+* [Typescript resources](typescript/resources.md)
 
 ---
 
