@@ -1,5 +1,7 @@
 # Gatsby.js resources
 
+### [Awesome Gatsby resources](https://github.com/prayash/awesome-gatsby)
+    
 ## 🦉 Tutorials
 
 * [Frontend Masters introduction to Gatsby](https://frontendmasters.com/courses/gatsby/)
