@@ -16,6 +16,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [TypeScript](#typescript)
 * [Node.js](#node)
 * [React](#react)
+* [Redux](#redux)
 * [Vue](#vue)
 * [Gatsby](#gatsby)
 * [Python](#python)
@@ -116,6 +117,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React resources](react/react-resources.md)
 * [React intro notes](react/react-intro-notes.md)
 * [Intro to testing React](react/react-intro-testing.md)
+
+---
+
+# Redux
+
+* [Redux intro notes](redux/redux-intro-notes.md)
 
 ---
 
