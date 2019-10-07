@@ -6,6 +6,7 @@
 
 * [Frontend Masters introduction to Gatsby](https://frontendmasters.com/courses/gatsby/)
 * [egghead.io](https://egghead.io/)
+* [Understanding the Gatsby lifecycle](https://novela.narative.co/understanding-the-gatsby-lifecycle-with-narative)
 
 ---
 
