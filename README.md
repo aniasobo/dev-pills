@@ -174,7 +174,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Simple CSS grid](css/simple-grid.css)
 * [CSS transitions](css/transitions.md)
 * [Flexbox or grid?](css/flexbox-or-grid.md)
-* [Debugging CSS grid](css/debug-grid.md)
+* [CSS grid resources](css/debug-grid.md)
 * [Gradients](css/gradients.md)
 * [Libraries](css/libraries.md)
 

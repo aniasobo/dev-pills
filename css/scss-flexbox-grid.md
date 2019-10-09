@@ -1,5 +1,7 @@
 # Basic flexbox grid in SCSS from [this source](https://product.voxmedia.com/2017/5/22/15655480/building-the-vox-media-video-microsite)
 
+* [alternative simple grid](https://github.com/zachacole/Simple-Grid/blob/master/simple-grid.css)
+
 ```
 $m: 700px;
 
