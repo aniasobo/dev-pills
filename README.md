@@ -12,6 +12,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Git](#git)
 * [Command line](#command-line)
 * [Editors](#editors)
+* [APIs](#apis)
 * [JavaScript](#javascript)
 * [TypeScript](#typescript)
 * [Node.js](#node)
@@ -72,6 +73,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [VSCode extensions](editors/vscode-extensions.md)
 * [VSCode tricks](editors/vscode-tricks.md)
+
+---
+
+# APIs
+
+* [List of cool APIs](api/list.md)
 
 ---
 
