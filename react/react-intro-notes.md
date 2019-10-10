@@ -10,3 +10,4 @@
 * **JSX** adds XML-like syntax to JavaScript, and is the primary way to define component structure in React
 * **Props**: The concept of props (properties) in React components refers to data received from parent components
 * **Lifecycle hooks** including `componentDidMount` refer to methods that fire throughout specific times in the life of a React component
+* **Stateless functional components** provide a shorter syntax to creating React components. They offer benefits like easier testing, less imported code, and much greater clarity; syntax: `export const App = () => {}` and needs no `render` function - only `return`; any stateless component (without a `constructor`) can/should be refactored in this manner

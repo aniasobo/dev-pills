@@ -1,4 +1,4 @@
-# List of cool APIs
+# List of cool RESTful APIs
 
 ## Random APIs to use for fun side projects
 
