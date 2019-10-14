@@ -131,3 +131,112 @@ tabbyCat.meow(); // outputs "meow"
     
          
 Source: Manuel Kiessling's [Node Craftsman](https://leanpub.com/nodecraftsman) book
+
+---
+
+# OO in ES6 syntax
+
+for classic MVC:
+
+```
+class Model {
+  constructor() {}
+}
+
+class View {
+  constructor() {}
+}
+
+class Controller {
+  constructor(model, view) {
+    this.model = model;
+    this.view = view;
+  }
+}
+
+const app = new Controller(new Model(), new View());
+```
+
+Initializing a constructor function:
+
+```
+function Hero(name, level) {
+  this.name = name
+  this.level = level
+}
+```
+
+## Defining methods
+
+**In ES6 notation**
+
+```
+class Hero {
+  constructor(name, level) {
+    this.name = name
+    this.level = level
+  }
+
+  // Adding a method to the constructor
+  greet() {
+    return `${this.name} says hello.`
+  }
+}
+```
+
+**non-ES6**
+
+By assigning them directly to the prototype:
+
+```
+function Hero(name, level) {
+  this.name = name
+  this.level = level
+}
+
+// Adding a method to the constructor
+Hero.prototype.greet = function() {
+  return `${this.name} says hello.`
+}
+```
+
+## Extending a class
+
+In this example, Mage is a more specific instance of Hero, and inherits its properties and methods.
+
+**In ES6 notation**
+
+Using the `super` keyword + `extends`:
+
+```
+// Creating a new class from the parent
+class Mage extends Hero {
+  constructor(name, level, spell) {
+    // Chain constructor with super instead of call()
+    super(name, level)
+
+    // Add a new property
+    this.spell = spell
+  }
+}
+```
+**non-ES6**
+
+Using the `call()` method:
+
+```
+// Creating a new constructor from the parent
+function Mage(name, level, spell) {
+  // Chain constructor with call
+  Hero.call(this, name, level)
+
+  this.spell = spell
+}
+
+// Creating a new object using Hero's prototype as the prototype for the newly created object.
+Mage.prototype = Object.create(Hero.prototype)
+```
+
+Both are instantiated using the `new` keyword.
+
+Source: [Tania Rascia](https://www.taniarascia.com/understanding-classes-in-javascript/)

@@ -6,3 +6,16 @@
 * Action creators construct action objects
 * **Reducers** respond to actions and provide ways to update the store
 * `React-Router` uses components like the `BrowserRouter`, `Switch`, and `Route` to set up endpoints on the application that link to specific components
+
+
+## What is Redux
+
+```
+Action => Reducer(s) => Store => View => User Interaction => Action ...
+```
+
+Redux is a state container (object) which holds state; with an API that enables you to:
+
+* manipulate the state
+* receive the state
+* listen to state changes

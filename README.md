@@ -87,6 +87,10 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Functional programming sample](javascript/export-functions.md)
 * [JS resources](javascript/js-resources.md)
 * [JS for React](javascript/js-react.md)
+* [Prototyping and inheritance](javascript/inheritance.md)
+* [OO and inheritance in JS](javascript/oo.md)
+* [Module pattern & `this`](javascript/module-pattern.md)
+* [Destructuring](javascript/destructuring.md)
 * [ES6 functions and destructuring](javascript/es6-fun.md)
 * [ES6 Rest & Spread](javascript/rest-spread.md)
 * [Nested functions](javascript/nested-functions.md)
@@ -97,10 +101,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Arrow functions](javascript/arrow.md)
 * [Error handling](javascript/error-handling.md)
 * [Promises](javascript/promises.md)
-* [Module pattern & `this`](javascript/module-pattern.md)
-* [OO and inheritance in JS](javascript/oo.md)
 * [Query selectors](javascript/query-selectors.md)
-* [Destructuring](javascript/destructuring.md)
 
 ---
 
