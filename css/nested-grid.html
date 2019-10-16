@@ -1,0 +1,70 @@
+<!doctype html>
+  <title>Example</title>
+    <style>
+      #outer-grid {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 8px;
+        grid-auto-flow: column;
+      }
+
+      #outer-grid > div {
+        background-color: limegreen;
+        color: white;
+        font-size: 4vw;
+        padding: 8px;
+      }
+
+      #inner-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 5px;
+      }
+
+      #inner-grid > div {
+        background: lightgreen;
+        padding: 8px;
+      }
+
+/* NEW FEATURE - make each list item a subgrid */
+      ul {
+        display: grid;
+        grid: auto-flow / auto 1fr;
+      }
+
+      li {
+        grid-column: span 2;
+        display: grid;
+        grid: subgrid;
+        border: solid;
+      }
+
+      label {
+        grid-column: 1;
+      }
+
+      input {
+        grid-column: 2;
+      }  
+
+    </style>
+
+<div id="outer-grid">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div id="inner-grid">
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div>8</div>
+  </div>
+</div>
+
+<!-- each of those list items will be a subgrid of the ul grid-->
+<ul>
+  <li><label>Name:</label> <input name=fn>
+  <li><label>Address:</label> <input name=address>
+  <li><label>Phone:</label> <input name=phone>
+</ul>
