@@ -3,8 +3,8 @@
 **Functional CSS/ulitity-focused**
 
 * [Tachyons](http://tachyons.io/) `<link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>` 
-* [BassCSS](https://basscss.com/)  
-* [Tailwind](https://tailwindcss.com/)  
+* [BassCSS](https://basscss.com/) `<link href="https://unpkg.com/basscss@8.0.2/css/basscss.min.css" rel="stylesheet">` 
+* [Tailwind](https://tailwindcss.com/) `<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">` - **recommended installation via npm** 
 
 **other**
 

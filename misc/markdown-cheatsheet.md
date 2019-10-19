@@ -26,6 +26,12 @@ code snippet
 
 `inline code snippet` 
 
+```diff
+code with edits highlighted
+- bad code
++ good code
+```
+
 > blockquote
 
 ~strikethrough~
