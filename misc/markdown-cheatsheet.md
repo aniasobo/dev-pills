@@ -6,18 +6,16 @@ line break with 2 returns
 
 _italic_
 
-__underline?__
-
 table | column | anothercol
 ------ | ------ | ---------
 text in col 1 | text in col 2 | text in col 3
 
 links!  
 
-[link to](url)  
-![link to](my.img)  
-[link to](#anchor)  
-[link to](local-folder/file.txt)
+[link to url](url)  
+![link to image](my.img)  
+[link to anchor](#anchor)  
+[link to local file](local-folder/file.txt)
 
 
 ```
@@ -35,6 +33,11 @@ code with edits highlighted
 > blockquote
 
 ~strikethrough~
+
+* nice list
+* with dots
+
+- [ ] checkbox
 
 ---
 
