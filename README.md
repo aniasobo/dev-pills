@@ -213,15 +213,16 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Sinatra project with Capybara and Rspec](setup/sinatra-capybara-rspec.md)
 * [Node project with Express server](setup/node-express.md)
-* [Vue and Rails single-page app](setup/vue-rails.md)
+* [React app with Node and Express backend plus webpack](setup/react-node-express-webpack.md)
+* [React sample project with Webpack, tools and hooks](setup/react-webpack.md)
 * [Node web app boilerplate](setup/node-boilerplate.md)
 * [MVC app in plain JS](setup/mvc-plain-js.md)
 * [Nest.js CRUD with Postgres and TypeORM](setup/nest-crud.md)
 * [Node.js with PyNode](setup/node-pynode.md)
+* [Vue and Rails single-page app](setup/vue-rails.md)
 * [Gatsby on Now](setup/gatsby.md)
 * [Python setup - best practices](setup/python.md)
 * [Full-stack demo](setup/medium-demo.md)
-* [React sample project with Webpack, tools and hooks](setup/react-webpack.md)
 
 ---
 

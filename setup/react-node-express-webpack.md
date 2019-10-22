@@ -1,0 +1,1 @@
+## [Boilerplate to build a full stack web application using React, Node.js, Express and Webpack](https://github.com/crsandeep/simple-react-full-stack)
