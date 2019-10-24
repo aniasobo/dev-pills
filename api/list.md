@@ -7,6 +7,7 @@
 * [List of animal APIs](https://www.programmableweb.com/category/animals/api)
 * [Jservice](http://jservice.io/) (Jeopardy trivia)
 * [Studio Ghibli API](https://ghibliapi.herokuapp.com/)
+* [Aggregator of public APIs](https://public-apis.xyz/)
 
 ## Cool API repos to check out for API creation
 
