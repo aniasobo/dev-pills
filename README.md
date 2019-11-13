@@ -1,4 +1,4 @@
-# Today I learned
+# Today I learned <!-- omit in toc -->
 
 Following the practice of [@jbranchaud](https://github.com/jbranchaud/til), [thoughtbot](https://github.com/thoughtbot/til) and [@charliegerard](https://github.com/charliegerard/dev-notes). 
 
@@ -6,10 +6,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# Categories
+# Categories <!-- omit in toc -->
 
-- [Today I learned](#today-i-learned)
-- [Categories](#categories)
 - [Testing](#testing)
 - [Git](#git)
 - [Command line](#command-line)
@@ -128,6 +126,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React intro notes](react/react-intro-notes.md)
 * [Intro to testing React](react/react-intro-testing.md)
 * [React hooks](react/hooks.md)
+* [React testing libraries](react/testing-libraries.md)
 
 ---
 
