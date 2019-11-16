@@ -12,3 +12,9 @@
 * [The Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 * [What questions should you ask at an engineering interview?](https://localghost.dev/2019/08/what-questions-should-you-ask-at-an-engineering-interview/)
 * [Questions to ask - reverse interview](https://github.com/viraptor/reverse-interview)
+
+## System design
+
+* [Good guide within this essay](https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/)
+* [System Design youtube channel](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [Videos by Tushar Roy](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
