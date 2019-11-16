@@ -1,5 +1,6 @@
 # Tech interviews - questions to expect, questions to ask
 
+* [LeetCode](https://leetcode.com/) has a good database of interview questions
 * [this list of questions](https://github.com/charliegerard/mock-interview-questions)  
 * [That JS Dude questions for frontend devs](http://www.thatjsdude.com/interview/)
 * [JS interview questions](https://github.com/sudheerj/javascript-interview-questions)
