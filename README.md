@@ -1,4 +1,4 @@
-# Today I learned
+# Today I learned <!-- omit in toc -->
 
 Following the practice of [@jbranchaud](https://github.com/jbranchaud/til), [thoughtbot](https://github.com/thoughtbot/til) and [@charliegerard](https://github.com/charliegerard/dev-notes). 
 
@@ -6,34 +6,34 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# Categories
+# Categories <!-- omit in toc -->
 
-* [Testing](#testing)
-* [Git](#git)
-* [Command line](#command-line)
-* [Editors](#editors)
-* [APIs](#apis)
-* [JavaScript](#javascript)
-* [TypeScript](#typescript)
-* [Node.js](#node)
-* [React](#react)
-* [Redux](#redux)
-* [Vue](#vue)
-* [Gatsby](#gatsby)
-* [Python](#python)
-* [Ruby](#ruby)
-* [Elixir](#elixir)
-* [CSS](#css)
-* [Postgres](#postgres)
-* [Rust](#rust)
-* [WebAssembly](#webassembly)
-* [Project setup instructions](#project-setups)
-* [DevOps](#devops)
-* [Machine learning](#machine-learning)
-* [Authentication](#authentication)
-* [Computer science](#computer-science)
-* [Misc](#misc)
-* [Tech interviews](#tech-interviews)
+- [Testing](#testing)
+- [Git](#git)
+- [Command line](#command-line)
+- [Editors](#editors)
+- [APIs](#apis)
+- [JavaScript](#javascript)
+- [Typescript](#typescript)
+- [Node.js](#nodejs)
+- [React](#react)
+- [Redux](#redux)
+- [Vue](#vue)
+- [Gatsby](#gatsby)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Elixir](#elixir)
+- [CSS](#css)
+- [Postgres](#postgres)
+- [Rust](#rust)
+- [WebAssembly](#webassembly)
+- [Project setups](#project-setups)
+- [DevOps](#devops)
+- [Machine learning](#machine-learning)
+- [Authentication](#authentication)
+- [Computer science](#computer-science)
+- [Misc](#misc)
+- [Tech interviews](#tech-interviews)
 
 ---
 
@@ -126,6 +126,10 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React intro notes](react/react-intro-notes.md)
 * [Intro to testing React](react/react-intro-testing.md)
 * [React hooks](react/hooks.md)
+* [Enzyme vs React Testing Library](react/testing-libraries.md)
+* [`prop-types` library](react/prop-types.md)
+* [Conditional rendering in component](react/conditional-rendering.md)
+* [React.Fragment](react/fragments.md)
 
 ---
 
@@ -173,6 +177,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # CSS
 
+* [Syntax](css/syntax.md)
 * [CSS units](css/units.md)
 * [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
 * [CSS box model](css/css-box-model.md)
@@ -200,6 +205,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Cargo](rust/cargo.md)
 * [Rustup tool](rust/rustup.md)
+* [Resources](rust/rust-resources.md)
 
 ---
 
