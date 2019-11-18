@@ -2,7 +2,7 @@
 
 ## Creating functions that render elements and calling them with standard `if-else` statement
 
-* Use handler functions
+* Use handler functions that get called if a prop points one way
   
 ## Inline `if` with logical `&&` operator
 

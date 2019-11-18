@@ -130,6 +130,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [`prop-types` library](react/prop-types.md)
 * [Conditional rendering in component](react/conditional-rendering.md)
 * [React.Fragment](react/fragments.md)
+* [Using `props` in `constructor`](react/constructor.md)
 
 ---
 
