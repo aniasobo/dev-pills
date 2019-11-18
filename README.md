@@ -131,6 +131,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Conditional rendering in component](react/conditional-rendering.md)
 * [React.Fragment](react/fragments.md)
 * [Using `props` in `constructor`](react/constructor.md)
+* [React lifecycyle methods](react/lifecycle-methods.md)
+* [Functional vs class components](react/functional-components.md)
 
 ---
 
