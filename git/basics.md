@@ -27,6 +27,13 @@
 
 ### 🔫 Delete branch: `git branch -d branch-name`  
 
+## On a feature branch branched out of a higher level feature branch:
+
+`git pull` = `git fetch` + `git merge` against tracking upstream branch
+
+`git pull --rebase` = `git fetch` + `git rebase` against tracking upstream branch
+
+
 ---
 ## Notes from a git workshop
 
