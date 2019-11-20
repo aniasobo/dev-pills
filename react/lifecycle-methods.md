@@ -1,7 +1,5 @@
 # Using React lifecycle methods <!-- omit in toc -->
 
-INDEX:
-
 - [`componentWillMount()`](#componentwillmount)
 - [`componentDidMount()`](#componentdidmount)
 - [`componentWillReceiveProps()`](#componentwillreceiveprops)
