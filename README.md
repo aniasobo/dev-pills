@@ -20,6 +20,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Redux](#redux)
 - [Vue](#vue)
 - [Gatsby](#gatsby)
+- [Ramda](#ramda)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Elixir](#elixir)
@@ -155,6 +156,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Gatsby resources](gatsby/gatsby.resources.md)
 * [Cheatsheet](gatsby/cheatsheet.md)
 * [Themes](gatsby/themes.md)
+
+---
+
+# Ramda
+
+* [Using Ramda](ramda/using-ramda.md)
 
 ---
 
