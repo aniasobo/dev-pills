@@ -1,5 +1,6 @@
 # Arrow functions basics
 
+Arrow functions have an implicit `return`!
 ```
 var funcName = (params) => params + 2
 funcName(2);
