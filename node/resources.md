@@ -16,3 +16,14 @@
 ## Communities
 
 * [Node Girls](https://nodegirls.com/)
+
+## Libraries to use with node CLIs
+
+* [Yargs](https://github.com/yargs/yargs) - generates a user interface, parses arguments
+* [Prompts](https://github.com/terkelg/prompts) - a promise-based library that generates interactive prompts
+* [Signale](https://github.com/klaussinani/signale) - a logging tool
+* [Chalk](https://github.com/chalk/chalk) - an API to colorise logs
+* [Node Progress](https://github.com/visionmedia/node-progress) - an elegant progress bar for asyncs
+* [Configstore](https://github.com/yeoman/configstore) - a data persister for user stdin input
+* [envinfo](https://github.com/tabrindle/envinfo) - development environment reporter
+* [Commander](https://github.com/tj/commander.js/) - user interface
