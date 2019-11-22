@@ -12,3 +12,9 @@ All functions are curried by default:
 > `const alsoMapped = coolMapFnIWantToReuse(array2)`
 
 Some of Ramda is as performant or faster than using native ES6 functions. Mapping over arrays is faster with native functions but other implementations of Ramda might be more performant.
+
+Distinguishing features of Ramda compared to other libraries like lodash:
+
+* R takes the function first and the data last
+* all functions of 2 or more arguments are automatically curried - making it easy to compose functions to create new functions
+* 
