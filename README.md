@@ -20,6 +20,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Redux](#redux)
 - [Vue](#vue)
 - [Gatsby](#gatsby)
+- [Ramda](#ramda)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Elixir](#elixir)
@@ -79,6 +80,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # APIs
 
 * [List of cool APIs](api/list.md)
+* [Axios](api/axios.md)
+* [Remote data fetching in React](api/react-fetching.md)
 
 ---
 
@@ -131,6 +134,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [`prop-types` library](react/prop-types.md)
 * [Conditional rendering in component](react/conditional-rendering.md)
 * [React.Fragment](react/fragments.md)
+* [Using `props` in `constructor`](react/constructor.md)
+* [React lifecycyle methods](react/lifecycle-methods.md)
+* [Functional vs class components](react/functional-components.md)
 
 ---
 
@@ -151,6 +157,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Gatsby resources](gatsby/gatsby.resources.md)
 * [Cheatsheet](gatsby/cheatsheet.md)
 * [Themes](gatsby/themes.md)
+
+---
+
+# Ramda
+
+* [Using Ramda](ramda/using-ramda.md)
 
 ---
 
