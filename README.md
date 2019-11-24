@@ -102,6 +102,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Error handling](javascript/error-handling.md)
 * [Promises](javascript/promises.md)
 * [Query selectors](javascript/query-selectors.md)
+* [Pure functions](cs/pure-functions.md)
 
 ---
 
@@ -158,6 +159,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Syntax: underscore](python/underscore.md)
 * [Web scraping in python](python/web-scraping.md)
 * [Setup best practices](setup/python.md)
+* [Python resources](python/resources.md)
 
 ---
 
@@ -177,6 +179,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # CSS
 
+* [CSS resources](css/resources.md)
 * [Syntax](css/syntax.md)
 * [CSS units](css/units.md)
 * [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
@@ -211,7 +214,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # WebAssembly
 
+* [Intro to WebAssembly](webassembly/intro.md)
 * [WebAssembly resources](webassembly/resources.md)
+* [AssemblyScript](webassembly/intro.md)
 
 ---
 
@@ -263,6 +268,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [FP](cs/fp.md)
 * [PWA pattern](cs/pwa.md)
 * [Algorithms](cs/algorithms.md)
+* [Pure functions](cs/pure-functions.md)
 
 ---
 
@@ -282,3 +288,4 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Tech interview questions](tech-interviews/questions.md)
 * [Tech test checklist](tech-interviews/tech-test-checklist.md)
 * [Tech test tips](tech-interviews/tech-test-tips.md)
+* [Negotiating strategy](tech-interviews/negotiating.md)

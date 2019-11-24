@@ -4,6 +4,7 @@
 * [Tyler McGinnis](https://tylermcginnis.com/)
 * [Wes Bos](https://wesbos.com/)
 * [Egghead.io](https://egghead.io/)
+* [30 seconds of code - JS snippets](https://www.30secondsofcode.org/)
 
 ## Conventions
 
