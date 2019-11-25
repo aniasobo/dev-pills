@@ -106,6 +106,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Promises](javascript/promises.md)
 * [Query selectors](javascript/query-selectors.md)
 * [Pure functions](cs/pure-functions.md)
+* [Export-import cheatsheet](javascript/exports-cheatsheet.md)
 
 ---
 
