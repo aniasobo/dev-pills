@@ -3,6 +3,8 @@
 ## Creating functions that render elements and calling them with standard `if-else` statement
 
 * Use handler functions that get called if a prop points one way
+* use `null` to prevent `render` - though this doens't affect the component lifecycle
+* 
   
 ## Inline `if` with logical `&&` operator 
 
@@ -27,6 +29,34 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+
+Another example:
+
+```
+!view && (
+  <p>
+    <input
+      onChange={this.handleChange}
+      value={this.state.inputText} />
+  </p>
+)
+
+// as opposed to the bad:
+
+{
+  view
+  ? null
+  : (
+    <p>
+      <input
+        onChange={this.handleChange}
+        value={this.state.inputText} />
+    </p>
+  )
+}
+```
+
+[Source](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e/)
 
 * Embed expression in JSX by wrapping it in `{}`
 * Works based on the fact that in JS, `true && expression` always evaluates to `expression` and `false && expression` always evaluates to `false`
@@ -60,6 +90,25 @@ render() {
       )}
     </div>
   );
+}
+```
+
+Conditional rendering using an IIFE:
+
+```
+{
+  (() => {
+    const handler = view 
+                ? this.handleEdit 
+                : this.handleSave;
+    const label = view ? 'Edit' : 'Save';
+          
+    return (
+      <button onClick={handler}>
+        {label}
+      </button>
+    );
+  })()
 }
 ```
 
@@ -110,3 +159,8 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+
+## Common antipatterns
+
+* if a random 0 appears, it might be because 0 is returned as a string and not a falsy value in React. to guard against this, use `!!varName` for the variable assigned 0 to force it into a boolean (this commonly happens when `&&` operator is used and the left-hand value ends up a 0)
+* handling nulls?

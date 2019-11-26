@@ -15,6 +15,7 @@
 - [`useReducer()`](#usereducer)
 - [Custom hooks](#custom-hooks)
 - [Sources](#sources)
+- [Tools](#tools)
 
 ---
 
@@ -58,3 +59,7 @@
 * [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
 * [State hook docs](https://reactjs.org/docs/hooks-state.html)
 * [Intro video](https://reactjs.org/docs/hooks-intro.html)
+
+## Tools
+
+* [SWR - React hooks for remote data fetching](https://swr.now.sh/)
