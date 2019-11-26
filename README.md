@@ -107,6 +107,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Query selectors](javascript/query-selectors.md)
 * [Pure functions](cs/pure-functions.md)
 * [Export-import cheatsheet](javascript/exports-cheatsheet.md)
+* [Fetching data with axios vs fetch()](javascript/axios-fetch.md)
 
 ---
 
