@@ -36,6 +36,9 @@
 * effects have access to the props and state of the component
 * option to tell effects how to clean up post-render
 * can be used for multiple effects within the component
+* pass an empty array in as second argument to stop the effect getting called again on component update
+* non-empty array: contains variables to watch, becasue the hook depends on them; the hook will run again if one of those changes (for example, `[query]` when you're using an input for a search query that gets called - see link below)
+* [fetch data inside useEffect()](https://www.robinwieruch.de/react-hooks-fetch-data)
 
 ## `useContext()`
 
@@ -45,6 +48,24 @@
 ## `useReducer()`
 
 * lets you manage local state of complex components with a reducer
+* a reducer is a pure function that takes a state and returns a new state:
+
+```
+const dataFetchReducer = (state, action) => {
+  switch (action.type) {
+    case 'FETCH_INIT':
+      return { ...state };
+    case 'FETCH_SUCCESS':
+      return { ...state };
+    case 'FETCH_FAILURE':
+      return { ...state };
+    default:
+      throw new Error();
+  }
+};
+```
+
+* provide action types and optional payloads to end up with predictable state changes ([as explained here](https://www.robinwieruch.de/react-hooks-fetch-data))
 
 ## Custom hooks
 
