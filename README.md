@@ -20,6 +20,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Redux](#redux)
 - [Vue](#vue)
 - [Gatsby](#gatsby)
+- [Next.js](#nextjs)
 - [Ramda](#ramda)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -139,6 +140,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Using `props` in `constructor`](react/constructor.md)
 * [React lifecycyle methods](react/lifecycle-methods.md)
 * [Functional vs class components](react/functional-components.md)
+* [React Context API and hook](react/context-api.md)
 
 ---
 
@@ -159,6 +161,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Gatsby resources](gatsby/gatsby.resources.md)
 * [Cheatsheet](gatsby/cheatsheet.md)
 * [Themes](gatsby/themes.md)
+
+---
+
+# Next.js
+
+* [Next.js Resources](next/resources.md)
 
 ---
 
