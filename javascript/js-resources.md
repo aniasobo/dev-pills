@@ -9,3 +9,7 @@
 ## Conventions
 
 * [AirBnB JS style guide](https://github.com/airbnb/javascript)
+
+## Cheatsheets
+
+* [Array cheatsheet](https://dmitripavlutin.com/operations-on-arrays-javascript/)

@@ -7,6 +7,7 @@
 * [Frontend Masters introduction to Gatsby](https://frontendmasters.com/courses/gatsby/)
 * [egghead.io](https://egghead.io/)
 * [Understanding the Gatsby lifecycle](https://novela.narative.co/understanding-the-gatsby-lifecycle-with-narative)
+* [Tips on setting up a markdown blog](https://madewithlove.be/gatsby-and-the-new-era-of-site-generators/)
 
 ---
 
@@ -15,3 +16,9 @@
 * [Prismic](https://prismic.io/)
 * [Sanity](https://www.sanity.io/)
 * [Forestry](https://forestry.io/)
+
+---
+
+## Alternatives to Gatsby:
+
+* [Gridsome - a Vue-based framework](https://gridsome.org/)
