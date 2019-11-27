@@ -83,6 +83,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [List of cool APIs](api/list.md)
 * [Axios](api/axios.md)
 * [Remote data fetching in React](api/react-fetching.md)
+* [RESTful APIs](misc/rest.md)
 
 ---
 
@@ -141,6 +142,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React lifecycyle methods](react/lifecycle-methods.md)
 * [Functional vs class components](react/functional-components.md)
 * [React Context API and hook](react/context-api.md)
+* [Firing events in React](react/events.md)
 
 ---
 
@@ -297,6 +299,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Misc
 
 * [Markdown](misc/markdown-cheatsheet.md)
+* [Accessibility tools](misc/accessibility.md)
 * [Naming good practice](misc/naming.md)
 * [Environment fixes](misc/environment-fixes.md)
 * [READMEs](misc/readmes.md)

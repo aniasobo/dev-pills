@@ -20,7 +20,21 @@ render() {
 }
 ```
 
-Short syntax:
+Regular syntax (requires `import React, { Fragment } from 'react'`):
+
+```
+render() {
+  return (
+    <Fragment>
+      <ChildA />
+      <ChildB />
+      <ChildC />
+    </Fragment>
+  );
+}
+```
+
+Short syntax (babel 7 or higher):
 
 ```
 render() {

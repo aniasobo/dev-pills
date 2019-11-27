@@ -11,6 +11,11 @@
 * [Grommet](https://v2.grommet.io/)
 * [Emotion](https://emotion.sh/docs/introduction)
 * [Glamorous](https://glamorous.rocks/)
+* [Primitive](https://taniarascia.github.io/primitive/) (minimalist, Sass) (CDN: `<link rel="stylesheet" href="https://unpkg.com/primitive-ui/dist/css/main.css" />`)
+* [Paper CSS](https://www.getpapercss.com/) (paper-like aesthetic) `<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css">`
+
+**great with React:**
+
 * [styled-components](https://www.styled-components.com/)
-* [Primitive](https://taniarascia.github.io/primitive/) (minimalist, Sass) (embeddable link: `<link rel="stylesheet" href="https://unpkg.com/primitive-ui/dist/css/main.css" />`)
-* [Paper CSS](https://www.getpapercss.com/) `<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css">`
+* [CSS modules](https://github.com/css-modules/css-modules) [React how to for CSS modules](https://www.robinwieruch.de/react-css-modules)
+
