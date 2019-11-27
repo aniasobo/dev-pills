@@ -21,3 +21,25 @@ Greeting.propTypes = {
 ```
 
 [Docs](https://reactjs.org/docs/typechecking-with-proptypes.html)
+
+`PropTypes.shape()` can be used to validate all attributes from an object; it needs to receive and object with all attributes as param, like so:
+
+```
+import React from 'react'
+import PropTypes from 'prop-types'
+
+const User = ({ user }) =>
+  <div>
+    My name is: {user.name}
+    I am {user.age} years old
+  </div>
+
+User.propTypes = {
+  user: PropTypes.shape({
+    name: PropTypes.string.isRequired,
+    age: PropTypes.number.isRequired
+  })
+}
+
+export default User
+```
