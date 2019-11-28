@@ -16,6 +16,7 @@
 * [Prismic](https://prismic.io/)
 * [Sanity](https://www.sanity.io/)
 * [Forestry](https://forestry.io/)
+* possibly [Strapi](https://strapi.io/)
 
 ---
 
