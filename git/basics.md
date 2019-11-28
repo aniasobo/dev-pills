@@ -33,6 +33,17 @@
 
 `git pull --rebase` = `git fetch` + `git rebase` against tracking upstream branch
 
+To stop a rebase do a `git rebase -a` abort ??
+
+Procedure:
+
+1. switch from own branch to feature branch
+2. pull latest changes to feature branch
+3. switch back to own branch
+4. `git rebase feature/branch`
+5. solve each conflict, then force push
+
+### To check what's been changed before writing a commit message: `git diff`
 
 ---
 ## Notes from a git workshop

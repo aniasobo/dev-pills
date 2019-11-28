@@ -263,6 +263,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # DevOps
 
+* [Basics of network engineering](devops/network.md)
 * [Heroku](devops/heroku.md)
 * [Rake](devops/rake.md)
 * [CI/CD setup](devops/ci-cd.md)
