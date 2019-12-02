@@ -143,6 +143,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Functional vs class components](react/functional-components.md)
 * [React Context API and hook](react/context-api.md)
 * [Firing events in React](react/events.md)
+* [Custom `data-` and `aria-` attributes](react/data-aria.md)
 
 ---
 
