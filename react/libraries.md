@@ -5,6 +5,11 @@
 * [zustand](https://github.com/react-spring/zustand)
 
 
+**Animations**
+
+* [react-spring](https://www.react-spring.io/)
+
+
 **Data fetching**
 
 * [`axios`](../api/axios.md)

@@ -2,8 +2,6 @@
 
 **[Node developer roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)**  
           
-[Node.js web crawlers mega-resource](https://potentpages.com/web-crawler-development/tutorials/nodejs/)
-
 ## Background/non-specific:
 
 * [Node.js Under the Hood #1](https://dev.to/khaosdoctor/node-js-under-the-hood-1-getting-to-know-our-tools-1465)
@@ -28,3 +26,12 @@
 * [Configstore](https://github.com/yeoman/configstore) - a data persister for user stdin input
 * [envinfo](https://github.com/tabrindle/envinfo) - development environment reporter
 * [Commander](https://github.com/tj/commander.js/) - user interface
+
+
+## Web scraping in Node.js
+
+**[Node.js web crawlers mega-resource](https://potentpages.com/web-crawler-development/tutorials/nodejs/)**
+
+* [spider](https://github.com/mikeal/spider) - node and jquery
+* [crawler](https://github.com/bda-research/node-crawler) - node and jquery
+* [simplecrawler](https://github.com/simplecrawler/simplecrawler) - node event-based
