@@ -209,7 +209,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [CSS resources](css/resources.md)
 * [Syntax](css/syntax.md)
-* [CSS units](css/units.md)
+* [Units](css/units.md)
+* [Selectors](css/selectors.md)
 * [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
 * [CSS box model](css/css-box-model.md)
 * [CSS ruleset](css/css-ruleset.md)
