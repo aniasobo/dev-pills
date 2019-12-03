@@ -1,3 +1,3 @@
 # Remote data fetching in React
 
-[This library from `zeit`](https://swr.now.sh/)
+* [This library from `zeit`](https://swr.now.sh/)
