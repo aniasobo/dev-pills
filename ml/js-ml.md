@@ -13,3 +13,4 @@
 * [brain.js](https://github.com/BrainJS/brain.js)
 * [keras.js](https://github.com/transcranial/keras-js)
 * [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+* [face-api.js](https://github.com/justadudewhohacks/face-api.js) (face recognition API in tensorflow.js)
