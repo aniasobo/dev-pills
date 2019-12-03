@@ -220,6 +220,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Simple CSS grid example](css/simple-grid.css)
 * [Nested grid example](css/nested-grid.html)
 * [CSS transitions](css/transitions.md)
+* [Flexbox](css/flexbox.md)
 * [Flexbox or grid?](css/flexbox-or-grid.md)
 * [CSS grid resources](css/debug-grid.md)
 * [Gradients](css/gradients.md)
