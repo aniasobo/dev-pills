@@ -2,6 +2,7 @@
 
 **[Node developer roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)**  
           
+[Node.js web crawlers mega-resource](https://potentpages.com/web-crawler-development/tutorials/nodejs/)
 
 ## Background/non-specific:
 
