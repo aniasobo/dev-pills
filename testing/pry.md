@@ -2,6 +2,8 @@
 
 (raw notes from usage in Ruby and Rails projects)
 
+**Exit pry with `!!!`**
+
 * add to gem file, bundle etc
 * it's like irb for the spec
 * add `binding.pry` to spec file inside the it block where you want to pick up (stuff before will be executed like in irb with require but without the full file)
