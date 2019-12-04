@@ -213,6 +213,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Selectors](css/selectors.md)
 * [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
 * [CSS box model](css/css-box-model.md)
+* [`border-box` vs `content-box`](css/boxes.md)
 * [CSS ruleset](css/css-ruleset.md)
 * [CSS font sizing](css/css-font-sizing.md)
 * [CSS centering](css/css-centering.md)
