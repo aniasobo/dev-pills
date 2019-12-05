@@ -313,6 +313,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [READMEs](misc/readmes.md)
 * [RESTful APIs](misc/rest.md)
 * [Get a list of browsers from npx](misc/browsers.md)
+* [Documenting projects](misc/documentation.md)
 
 ---
 

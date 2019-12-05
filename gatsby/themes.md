@@ -8,3 +8,6 @@
 ## Documentation themes
 
 * [Document by Code Bushi](https://gatsby-theme-document.netlify.com/)
+* [docz.site](https://www.docz.site/) - [Docz GitHub](https://github.com/doczjs/docz)
+
+[also here](../misc/documentation.md)
