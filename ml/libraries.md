@@ -14,3 +14,21 @@
 ## Tensorflow tutorials
 
 * [Udemy course](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/)
+
+
+## For NLP, Computer Vision and Audio
+
+* Object detection: [Detectron](https://github.com/facebookresearch/Detectron)
+* computer vision: [SimpleCV](http://simplecv.org/)
+* optical language recognition: [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+
+
+## For reinforcement learning and training models
+
+* [Open AI Gym](https://gym.openai.com/)
+* [Unity ML Agents](https://unity3d.com/how-to/unity-machine-learning-agents)
+
+
+## Misc sources
+
+* [https://hackernoon.com/10-must-know-open-source-tools-for-machine-learning-rb1wc34ce](https://hackernoon.com/10-must-know-open-source-tools-for-machine-learning-rb1wc34ce)
