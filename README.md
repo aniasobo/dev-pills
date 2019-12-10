@@ -301,6 +301,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [PWA pattern](cs/pwa.md)
 * [Algorithms](cs/algorithms.md)
 * [Pure functions](cs/pure-functions.md)
+* [RegEx](cs/regex.md)
 
 ---
 

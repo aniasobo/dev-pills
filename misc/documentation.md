@@ -9,3 +9,8 @@
 ## Other ways to document
 
 * [GitBook](https://www.gitbook.com/)
+
+
+## Examples of good documentation:
+
+* [the guardian dotcom-rendering library](https://github.com/guardian/dotcom-rendering/tree/master/docs)
