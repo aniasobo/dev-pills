@@ -5,20 +5,21 @@
 ## Background/non-specific:
 
 * [Node.js Under the Hood #1](https://dev.to/khaosdoctor/node-js-under-the-hood-1-getting-to-know-our-tools-1465)
-     
+
+---
+
+# Tooling
 
 ## Express: 
 
 * [Three useful Express middleware](https://dev.to/zellwk/three-useful-express-middleware-1di)
-     
-     
+* [Best alternative to Express - Nest.js](https://nestjs.com/) - Express == minimal; Nest.js == modular, opinionated framework
+ 
+---
+
 ## Communities
 
 * [Node Girls](https://nodegirls.com/)
-
-## Tooling
-
-* [Best alternative to Express - Nest.js](https://nestjs.com/) - Express == minimal; Nest.js == modular, opinionated framework
 
 ## Libraries to use with node CLIs
 
@@ -39,3 +40,8 @@
 * [spider](https://github.com/mikeal/spider) - node and jquery
 * [crawler](https://github.com/bda-research/node-crawler) - node and jquery
 * [simplecrawler](https://github.com/simplecrawler/simplecrawler) - node event-based
+
+## Node security
+
+* [NodeGoat - tutorial on Node security, with examples](https://nodegoat.herokuapp.com/tutorial)
+* [Node security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
