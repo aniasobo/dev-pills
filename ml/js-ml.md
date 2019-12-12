@@ -9,7 +9,7 @@
 **Other tools and frameworks**  
     
 * [ML5js](https://github.com/ml5js/ml5-library)
-* [ml.js](https://github.com/mljs)
+* [ml.js](https://github.com/mljs/ml)
 * [brain.js](https://github.com/BrainJS/brain.js)
 * [keras.js](https://github.com/transcranial/keras-js)
 * [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
