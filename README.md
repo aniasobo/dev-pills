@@ -258,6 +258,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React app with Node and Express backend plus webpack](setup/react-node-express-webpack.md)
 * [React sample project with Webpack, tools and hooks](setup/react-webpack.md)
 * [Node web app boilerplate](setup/node-boilerplate.md)
+* [Full stack app in Vue and Node/Express](setup/vue-node-fullstack.md)
 * [MVC app in plain JS](setup/mvc-plain-js.md)
 * [Nest.js CRUD with Postgres and TypeORM](setup/nest-crud.md)
 * [Node.js with PyNode](setup/node-pynode.md)
