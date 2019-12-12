@@ -16,6 +16,6 @@
 
 **great with React:**
 
-* [styled-components](https://www.styled-components.com/)
+* [styled-components](https://www.styled-components.com/) and its design system [styled-system](https://styled-system.com/)
 * [CSS modules](https://github.com/css-modules/css-modules) [React how to for CSS modules](https://www.robinwieruch.de/react-css-modules)
 
