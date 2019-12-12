@@ -85,6 +85,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Remote data fetching in React](api/react-fetching.md)
 * [RESTful APIs](misc/rest.md)
 * [REST clients](api/clients.md)
+* [GraphQL resources](api/graphql.md)
 
 ---
 
