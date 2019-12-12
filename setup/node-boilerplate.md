@@ -1,3 +1,5 @@
-# Node.js web app boilerplate
+# Node.js boilerplates
 
-[@YasharF's hackathon starter](https://github.com/sahat/hackathon-starter)
+[Node.js web app boilerplate - @YasharF's hackathon starter](https://github.com/sahat/hackathon-starter)
+
+[Node APIs boilerplate](https://github.com/talyssonoc/node-api-boilerplate)
