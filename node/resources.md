@@ -16,6 +16,10 @@
 
 * [Node Girls](https://nodegirls.com/)
 
+## Tooling
+
+* [Best alternative to Express - Nest.js](https://nestjs.com/) - Express == minimal; Nest.js == modular, opinionated framework
+
 ## Libraries to use with node CLIs
 
 * [Yargs](https://github.com/yargs/yargs) - generates a user interface, parses arguments

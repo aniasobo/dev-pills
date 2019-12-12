@@ -21,6 +21,38 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Vue](#vue)
 - [Gatsby](#gatsby)
 - [Next.js](#nextjs)
+- [Nest.js](#nestjs)
+- [Ramda](#ramda)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Elixir](#elixir)
+- [CSS](#css)
+- [Postgres](#postgres)
+- [Rust](#rust)
+- [WebAssembly](#webassembly)
+- [Project setups](#project-setups)
+- [DevOps](#devops)
+- [Machine learning](#machine-learning)
+- [Authentication](#authentication)
+- [Computer science](#computer-science)
+- [Misc](#misc)
+- [Tech interviews](#tech-interviews)
+<li></li>
+</ul>](#ul-lili-ul)
+- [Testing](#testing)
+- [Git](#git)
+- [Command line](#command-line)
+- [Editors](#editors)
+- [APIs](#apis)
+- [JavaScript](#javascript)
+- [Typescript](#typescript)
+- [Node.js](#nodejs)
+- [React](#react)
+- [Redux](#redux)
+- [Vue](#vue)
+- [Gatsby](#gatsby)
+- [Next.js](#nextjs)
+- [Nest.js](#nestjs)
 - [Ramda](#ramda)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -174,6 +206,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Next.js
 
 * [Next.js Resources](next/resources.md)
+
+---
+
+# Nest.js
+
+* [Nest.js resources](nest/resources.md)
 
 ---
 
