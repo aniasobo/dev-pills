@@ -14,3 +14,4 @@ Run with `npm run asbuild`
 * [AssemblyScript types](https://docs.assemblyscript.org/basics/types)
 * [Sample project](https://github.com/aniasobo/assemblyscript-demo)
 * [Tutorial for the sample project](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
+* [Getting started with AssemblyScript](https://www.sitepen.com/blog/getting-started-with-assemblyscript/)
