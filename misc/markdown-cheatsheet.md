@@ -41,4 +41,25 @@ code with edits highlighted
 
 ---
 
+```
+project structure
+│   README.md
+│   .env
+│   .gitignore
+│   demo.png
+│   package.json
+│   yarn.lock
+└───public
+│   │   index.html
+└───src
+│   │  App.js
+│   │  index.js
+│   └───tests
+│   │      App.spec.js  
+│   └───components
+│   │      Component.js  
+│   └───anotherNestedFolder
+│   │      nestedFile.js  
+```
+
 
