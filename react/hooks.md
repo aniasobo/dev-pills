@@ -9,10 +9,11 @@
 * only call hooks on the top level - never inside loops, conditions or nested functions
 * never call hooks from non-react-component JS functions
 
-- [`useState()`](#usestate)
-- [`useEffect()`](#useeffect)
-- [`useContext()`](#usecontext)
-- [`useReducer()`](#usereducer)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
 - [Custom hooks](#custom-hooks)
 - [Sources](#sources)
 - [Tools](#tools)
@@ -66,6 +67,18 @@ const dataFetchReducer = (state, action) => {
 ```
 
 * provide action types and optional payloads to end up with predictable state changes ([as explained here](https://www.robinwieruch.de/react-hooks-fetch-data))
+
+## `useMemo()`
+
+* [good example use with API](https://github.com/karlhadwen/newsreader)
+* returns a memoized value
+* takes a 'create' function and an array of dependencies
+* the memoized value only gets recomputed on change to one of the passed dependencies
+* helps avoid expensive recalculations on render
+* the function passed into it runs on render; side effects belong in `useEffect()`
+* ifno array is given, a new value will be computed on every render
+* use it to optimise performace of code that should run ok without it
+
 
 ## Custom hooks
 
