@@ -136,6 +136,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [React resources](react/react-resources.md)
 * [React intro notes](react/react-intro-notes.md)
 * [Intro to testing React](react/react-intro-testing.md)
+* [Strict Mode](react/strict-mode.md)
 * [React hooks](react/hooks.md)
 * [Enzyme vs React Testing Library](react/testing-libraries.md)
 * [`prop-types` library](react/prop-types.md)
