@@ -8,6 +8,7 @@
 **Animations**
 
 * [react-spring](https://www.react-spring.io/)
+* [Framer Motion](https://www.framer.com/motion/) - [Intro](https://react.christmas/2019/3)
 
 
 **Data fetching**
