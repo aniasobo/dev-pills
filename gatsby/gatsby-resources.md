@@ -23,3 +23,4 @@
 ## Alternatives to Gatsby:
 
 * [Gridsome - a Vue-based framework](https://gridsome.org/)
+* [eleventy](https://www.11ty.dev/)

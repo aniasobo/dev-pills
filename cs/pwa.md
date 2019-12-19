@@ -16,3 +16,6 @@
 | easy personalisation | |  
 | good SEO performance | |  
 | little to no downtime with easy cacheing | |  
+
+
+* [Intro to PWAs](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
