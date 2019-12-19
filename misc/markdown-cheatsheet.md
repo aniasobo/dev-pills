@@ -49,9 +49,9 @@ code with edits highlighted
       - that list can have its own child list
       - with n items
    2. this one can have a todo list like so:
-       [x] make a list
-       [x] add some levels to it
-       [ ] don't make it meta
+      - [x] make a list
+      - [x] add some levels to it
+      - [ ] don't make it meta
 
 
 ---
