@@ -14,7 +14,7 @@
 ## Headless CMS
 
 * [Prismic](https://prismic.io/)
-* [Sanity](https://www.sanity.io/)
+* [Sanity](https://www.sanity.io/) - [Intro](https://react.christmas/2019/6)
 * [Forestry](https://forestry.io/)
 * possibly [Strapi](https://strapi.io/)
 

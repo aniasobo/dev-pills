@@ -3,6 +3,7 @@
 **State management**
 
 * [zustand](https://github.com/react-spring/zustand)
+* [Global State](https://react.christmas/2019/7)
 
 
 **Animations**

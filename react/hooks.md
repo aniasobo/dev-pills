@@ -45,6 +45,7 @@
 
 * lets you subscribe to React context without introducing nesting or passing down props
 * context seems to have to be set with `React.setContext()` and then imported?
+* [intro for how to use](https://react.christmas/2019/7)
 
 ## `useReducer()`
 
