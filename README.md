@@ -318,7 +318,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # Misc
 
-* [Markdown](misc/markdown-cheatsheet.md)
+* [Markdown cheatsheet](misc/markdown-cheatsheet.md)
 * [Accessibility tools](misc/accessibility.md)
 * [Naming good practice](misc/naming.md)
 * [Environment fixes](misc/environment-fixes.md)
