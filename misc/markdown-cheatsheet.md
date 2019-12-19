@@ -39,6 +39,21 @@ code with edits highlighted
 
 - [ ] checkbox
 
+### How to make a nested list
+
+* start with your top-level list item
+   * indent the nested item
+   * and the next one
+* now you have a nested list, but
+   1. you can also have a numbered nested list 
+      - that list can have its own child list
+      - with n items
+   2. this one can have a todo list like so:
+      [x] make a list
+      [x] add some levels to it
+      [ ] don't make it meta
+
+
 ---
 
 ```
