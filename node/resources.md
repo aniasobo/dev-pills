@@ -1,7 +1,15 @@
 # Good resources on Node.js
 
 **[Node developer roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)**  
-          
+
+    
+## Architecture
+
+* [Bulletproof Node.js project architecture](https://softwareontheroad.com/ideal-nodejs-project-structure)
+* [The perfect architecture flow for a Node project](https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/)
+
+---
+
 ## Background/non-specific:
 
 * [Node.js Under the Hood #1](https://dev.to/khaosdoctor/node-js-under-the-hood-1-getting-to-know-our-tools-1465)
