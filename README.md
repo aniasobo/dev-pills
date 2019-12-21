@@ -30,6 +30,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Postgres](#postgres)
 - [Rust](#rust)
 - [WebAssembly](#webassembly)
+- [Flutter &amp; Dart](#flutter-amp-dart)
 - [Project setups](#project-setups)
 - [DevOps](#devops)
 - [Machine learning](#machine-learning)
@@ -256,6 +257,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Intro to WebAssembly](webassembly/intro.md)
 * [WebAssembly resources](webassembly/resources.md)
 * [AssemblyScript](webassembly/intro.md)
+
+---
+
+# Flutter & Dart
+
+* [Flutter resources](flutter/resources.md)
 
 ---
 
