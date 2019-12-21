@@ -2,3 +2,7 @@
 
 * [30 seconds of CSS - code snippets](https://css.30secondsofcode.org/)
 * [Overview of CSS concepts by Tania Rascia](https://www.taniarascia.com/overview-of-css-concepts/)
+
+## Laying stuff out 
+
+* [This collection of 70+ popular layouts and patterns made with CSS](https://github.com/phuoc-ng/csslayout)

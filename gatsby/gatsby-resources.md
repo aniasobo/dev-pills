@@ -14,7 +14,7 @@
 ## Headless CMS
 
 * [Prismic](https://prismic.io/)
-* [Sanity](https://www.sanity.io/)
+* [Sanity](https://www.sanity.io/) - [Intro](https://react.christmas/2019/6)
 * [Forestry](https://forestry.io/)
 * possibly [Strapi](https://strapi.io/)
 
@@ -23,3 +23,4 @@
 ## Alternatives to Gatsby:
 
 * [Gridsome - a Vue-based framework](https://gridsome.org/)
+* [eleventy](https://www.11ty.dev/)
