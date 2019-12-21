@@ -16,13 +16,14 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [JavaScript](#javascript)
 - [Typescript](#typescript)
 - [Node.js](#nodejs)
-- [React](#react)
-- [Redux](#redux)
-- [Vue](#vue)
-- [Gatsby](#gatsby)
-- [Next.js](#nextjs)
-- [Nest.js](#nestjs)
-- [Ramda](#ramda)
+- [JavaScript frameworks and libraries](#javascript-frameworks-and-libraries)
+  - [React](#react)
+  - [Redux](#redux)
+  - [Vue](#vue)
+  - [Gatsby](#gatsby)
+  - [Next.js](#nextjs)
+  - [Nest.js](#nestjs)
+  - [Ramda](#ramda)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Elixir](#elixir)
@@ -30,14 +31,18 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Postgres](#postgres)
 - [Rust](#rust)
 - [WebAssembly](#webassembly)
-- [Flutter &amp; Dart](#flutter-amp-dart)
+- [Mobile developent](#mobile-developent)
+  - [Flutter &amp; Dart](#flutter-amp-dart)
 - [Project setups](#project-setups)
 - [DevOps](#devops)
 - [Machine learning](#machine-learning)
 - [Authentication](#authentication)
 - [Computer science](#computer-science)
+- [Electrical engineering](#electrical-engineering)
+  - [Raspberry Pi](#raspberry-pi)
 - [Misc](#misc)
 - [Tech interviews](#tech-interviews)
+
 
 ---
 
@@ -131,8 +136,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Event Emitters](node/event-emitters.md)
 
 ---
+# JavaScript frameworks and libraries
 
-# React
+## React
 
 * [React resources](react/react-resources.md)
 * [React intro notes](react/react-intro-notes.md)
@@ -154,20 +160,20 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# Redux
+## Redux
 
 * [Redux intro notes](redux/redux-intro-notes.md)
 * [Alternatives to Redux](redux/alternatives.md)
 
 ---
 
-# Vue
+## Vue
 
 * [Vue resources](vue/vue-resources.md)
 
 ---
 
-# Gatsby
+## Gatsby
 
 * [Gatsby resources](gatsby/gatsby.resources.md)
 * [Cheatsheet](gatsby/cheatsheet.md)
@@ -175,19 +181,19 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# Next.js
+## Next.js
 
 * [Next.js Resources](next/resources.md)
 
 ---
 
-# Nest.js
+## Nest.js
 
 * [Nest.js resources](nest/resources.md)
 
 ---
 
-# Ramda
+## Ramda
 
 * [Using Ramda](ramda/using-ramda.md)
 
@@ -262,7 +268,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# Flutter & Dart
+# Mobile developent 
+
+## Flutter & Dart
 
 * [Flutter resources](flutter/resources.md)
 
@@ -320,6 +328,15 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Algorithms](cs/algorithms.md)
 * [Pure functions](cs/pure-functions.md)
 * [RegEx](cs/regex.md)
+
+---
+
+# Electrical engineering
+
+## Raspberry Pi
+
+* [Hardware links](hardware/resources.md)
+
 
 ---
 
