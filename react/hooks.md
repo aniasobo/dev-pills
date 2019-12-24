@@ -80,15 +80,38 @@ const dataFetchReducer = (state, action) => {
 * ifno array is given, a new value will be computed on every render
 * use it to optimise performace of code that should run ok without it
 
+---
 
 ## Custom hooks
 
 * replace higher-order components and `render props`
 * reuse stateful logic, not state itself
-* never use the same custom hook twice in a component - because each call to a custom hook has a completely isolated state
+* abstract the implementation of something frequently used in your application
+* naming convention: start the name of your hook with `use` to distinguish them from other functions in your app
+* > a function containing other hooks and/or some additional logic
+* NOTE: never use the same custom hook twice in a component - because each call to a custom hook has a completely isolated state
 * > Custom Hooks are more of a convention than a feature. If a function’s name starts with ”use” and it calls other Hooks, we say it is a custom Hook.
 * [Custom Hooks explainer from React Christmas 2019](https://react.christmas/2019/13)
+* [react-use](https://github.com/streamich/react-use) - good library of custom hooks to use with sensors and other stuff  
+    
+**Example custom hook:**
+    
+```
+import React, { useState, useEffect } from 'react';
 
+function useLocalStorage = (key, initialValue) => {
+  const [value, setValue] = useState(
+    () => window.localStorage.getItem(key) || initialValue
+  );
+
+  useEffect(() => {
+    window.localStorage.setItem(key, value);
+  }, [key, value]);
+
+  return { value, setValue };
+};
+```
+    
 ## Sources
 
 * [Docs](https://reactjs.org/docs/hooks-overview.html)
