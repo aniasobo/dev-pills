@@ -87,6 +87,7 @@ const dataFetchReducer = (state, action) => {
 * reuse stateful logic, not state itself
 * never use the same custom hook twice in a component - because each call to a custom hook has a completely isolated state
 * > Custom Hooks are more of a convention than a feature. If a function’s name starts with ”use” and it calls other Hooks, we say it is a custom Hook.
+* [Custom Hooks explainer from React Christmas 2019](https://react.christmas/2019/13)
 
 ## Sources
 
