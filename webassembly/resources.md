@@ -10,3 +10,8 @@
 ## Tools and frameworks
 
 * [Yew](https://github.com/yewstack/yew) - a Rust / Wasm framework for building client web apps - [Docs](https://yew.rs/docs/)
+
+## Other languages with wasm
+
+* [Porting a JavaScript App to WebAssembly with Rust](https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html)
+

@@ -16,4 +16,4 @@
 * risk of not causing bugs with reassignment
 * no performance benefits
 
-[Source](https://overreacted.io/on-let-vs-const/)
+[Source - Dan Abramov](https://overreacted.io/on-let-vs-const/)

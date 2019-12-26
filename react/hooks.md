@@ -14,6 +14,84 @@
 - [useContext()](#usecontext)
 - [useReducer()](#usereducer)
 - [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li>good example use of the useRef() hook</li>
+</ul>](#ul-ligood-example-use-of-the-useref-hookli-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li>good example use of the `useRef()</li>
+</ul>](#ul-ligood-example-use-of-the-userefli-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li>good example use</li>
+</ul>](#ul-ligood-example-useli-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li>good example use</li>
+</ul>](#ul-ligood-example-useli-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li>good example use</li>
+</ul>](#ul-ligood-example-useli-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li>[good example use]</li>
+</ul>](#ul-ligood-example-useli-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
+- [Custom hooks](#custom-hooks)
+- [Sources](#sources)
+- [Tools](#tools)
+<li></li>
+</ul>](#ul-lili-ul)
+- [useState()](#usestate)
+- [useEffect()](#useeffect)
+- [useContext()](#usecontext)
+- [useReducer()](#usereducer)
+- [useMemo()](#usememo)
+- [useRef()](#useref)
 - [Custom hooks](#custom-hooks)
 - [Sources](#sources)
 - [Tools](#tools)
@@ -79,6 +157,15 @@ const dataFetchReducer = (state, action) => {
 * the function passed into it runs on render; side effects belong in `useEffect()`
 * ifno array is given, a new value will be computed on every render
 * use it to optimise performace of code that should run ok without it
+
+## `useRef()`
+
+* [good example use of the `useRef()` hook](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
+* > `useRef` returns a mutable ref object whose `.current` property is initialized to the passed argument (`initialValue`). The returned object will persist for the full lifetime of the component
+* > handy for keeping any mutable value around similar to how you’d use instance fields in classes
+* > `useRef()` creates a plain JavaScript object. The only difference between `useRef()` and creating a `{current: ...}` object yourself is that `useRef` will give you the same ref object on every render
+* mutating the `.current` property doens't cause a re-render - no notification that the value stored by `useRef()` changes
+
 
 ---
 

@@ -98,6 +98,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # JavaScript
 
+* [JS basics and overview](javascript/js-basics.md)
 * [Functional programming sample](javascript/export-functions.md)
 * [JS resources](javascript/js-resources.md)
 * [JS for React](javascript/js-react.md)
