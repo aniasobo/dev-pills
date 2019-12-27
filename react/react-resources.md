@@ -8,6 +8,13 @@
 * [React trivia](https://github.com/sudheerj/reactjs-interview-questions)
 * [30 seconds of React](https://react.30secondsofcode.org/)
 
+---    
 ## 📱 React Native
 
 * [this 6h tutorial](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+
+---
+
+## With TypeScript
+
+[React + TypeScript resources](../typescript/resources.md)
