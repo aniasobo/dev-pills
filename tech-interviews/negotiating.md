@@ -69,7 +69,7 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 
 * Having more options is not always good.
 
-**Four major obstacles that prevent the creation of multiple options:**
+### Four major obstacles that prevent the creation of multiple options: <!-- omit in toc -->
 
 1. **Premature judgement**
      - inventing options does not come naturally
@@ -87,7 +87,7 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
      - psychological reluctance to accord any legitimacy to the other side
      - fear of appearing "disloyal"
 
-**How to invent creative options**
+### How to invent creative options <!-- omit in toc -->
 
 1. **Separate inventing from deciding**
    - separate the creative act from the critical act so that the former is not hindered by the latter
