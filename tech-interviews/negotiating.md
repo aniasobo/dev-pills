@@ -195,10 +195,76 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 2. Improve the more promising ideas and convert them into practical alternatives.
 3. Tentatively select the best of the alternatives.
 
+
 ## What if they won't play? <!-- omit in toc -->
 
-**Use _Negotiation Jitsu_**
+* change the game by initiating the play on merit, or
+* counter the positional bargaining moves - this is called the _negotiation jitsu_
+* third approach: _third party mediation_
 
+### Use _Negotiation Jitsu_  <!-- omit in toc -->
 
+* do not push back
+* do not reject their position
+* do not defend your ideas when the other party attacks them
+* step aside and use your strength to: explore common interests, invent options of mutual gain and find independent standards
 
+**Diffusing the three most common attacks with _Negotiation Jitsu_**
+
+* most common attack maneuvers are: asserting a forceful position, attacking your ideas and attacking you
+      
+1. Don't attack their position - look behind it
+    - treat their position as one possible option
+    - ask them how they think their proposition addresses the problem at hand
+    - discuss the principles underlying their position
+    - discuss hypotheticals of accepting their position
+2. Don't defend your ideas - invite criticism and advice
+    - ask them to specify what is wrong with your idea
+    - find interests underlying their negative judgements
+    - rework your ideas so that they address those interests
+    - turn the situation around and ask their advice for addressing your interests
+3. Reframe the attack on you as an attack on the problem
+    - allow them to vent by attacking you
+    - don't defend yourself
+    - express your understanding while reframing what's been said into an attack on the problem
+4. Use the Negotiation Jitsu tools:
+    - use quesions instead of statements
+    - use silence as a weapon: if the answer to your question is insufficient, sit back and wait for them to fill the silence
+    - use silence after you ask the question - don't fall into temptation to specify, rephrase or narrow down your question in order to fill the silence
+
+### The one-text procedure <!-- omit in toc -->
+
+* the one-text procedure involves getting a third party to mediate
+* the mediator asks each party about their interests, not their position; the mediator makes a list of those and the list gets critiqued by each party
+* the list is finalised and presented to each party for a yes or no decision
+* you don't need either party's consent to act as a mediator - simply start combining their interests into a list and seek criticism from both
+
+### Getting them to play <!-- omit in toc -->
+
+**"_Please correct me if I'm wrong_"** - present your analysis; establish dialogue based on reason; open yourself up to correction.
+
+**"_We appreciate what you've done for us._"** - defuse any threats to their self-image; disentangle poeple from the problem at hand; imply that the person will continue to provide the support you're grateful for. 
+
+**"_Our concern is fairness._"** - express intention to stick to principle; express being open to persuasion along the lines of this principle.  
+
+**"_We would like to settle this on the basis of independent standards, not of who can do what to whom._"** - if the other party tries to pull the discussion back to positioned bargaining, let them vent, then reaffirm your commitment to principled bargaining.  
+
+**"_Trust is a separate issue._"** - direct the discussion back to the principle; it would be poor strategy to acknowledge lack of trust on either side. 
+
+**"_Could I ask you a few questions to see whether my facts are right?_"** - ask questions instead of stating facts to seem less threathening; less provocative method of communicating; creating a foundation of agreed-upon facts helps find principles on which the solution can be built. 
+
+**"_What's the principle behind your action?_"** - neither accept nor reject the other party's position; assumes their reasons are good.
+
+**"_Let me see if I understand what you're saying._"** - once the other party feels understood, they can relax and negotiate on principle; the other party can't dismiss your arguments on the basis that you don't understand their position; establishes a cooperative game. 
+
+**"_Let me get back to you._"** - it's hard to make a good decision on the spot; agree to resume the discussion at a given point; consult your constituency; too much time at the negotiation table might weaken your principled stance - take a break when you see that on the horizon, and return with a renewed resolve.
+
+**"_Let me show you where I have trouble following some of your reasoning._"** - you present your reasons first before offering a proposal - otherwise your principles might seem like a justification.
+
+**"_One fair solution might be..._"** - present the proposal not as yours, but as one of several fair solutions; not the only fair solution - you're open to their interpretations of fairness.
+
+**"_If we agree... If we disagree..._"** - make it sound convenient to agree sooner rather than later; express your reluctance to the pessimistic scenario; make the solution sound like a joint gain, convenient to both sides; come up with a solution that lets the other party save face.
+
+**_"It's been a pleasure dealing with you."_** - end the negotiation on a concilliatory note; neither party will be tempted to sabotage the agreement; a working relationship is maintained for the future.
+     
 ## What if they use dirty tricks? <!-- omit in toc -->
