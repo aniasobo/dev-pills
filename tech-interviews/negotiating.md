@@ -175,6 +175,30 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 
 **Develop your BATNA - Best Alternative To a Negotiated Agreement**
 
+* sometimes your position will be significantly weaker and no amount of skillfull negotiation strategy will give you leverage
+* **Protect yourself** 
+    - don't end up too accomodating
+    - establish the worst acceptable outcome - the bottom line
+    - be mindful that having a bottom line makes you rigid and closes you off to creative solutions
+    - be mindful that a bottom line is likely to be set too high
+* **Enter BATNA**
+    - BATNA is the alternative to the bottom line
+    - the better your BATNA, the greater your power - the relative negotiating power lies in how attractive to each the option of not reaching an agreement is
+* judge every offer against the BATNA
+* disclosing: if your BATNA is very attractive, disclose
+* never disclose if your BATNA is likely worse than they think
+* consider the other party's BATNA - try to find out their alternatives, think if you can present them as unrealistic
+
+### Generating BATNA: <!-- omit in toc -->
+
+1. Make a list of actions you could feasibly take if no agreement is reached.
+2. Improve the more promising ideas and convert them into practical alternatives.
+3. Tentatively select the best of the alternatives.
+
 ## What if they won't play? <!-- omit in toc -->
+
+**Use _Negotiation Jitsu_**
+
+
 
 ## What if they use dirty tricks? <!-- omit in toc -->
