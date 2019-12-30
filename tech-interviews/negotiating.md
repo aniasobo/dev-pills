@@ -133,6 +133,15 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 
 ## Insist on using Objective Criteria
 
+* trying to reconcile differences on the basis of will is constly
+* preferable to base the negotiation not on individual wills but on objective criteria
+* focus on the merits of the problem, not feelings of either party
+* agreement consistent with precedent is less vulnerable to attack
+* look for independent standards - market rates, industry practice, regulations, fair standards, efficiency, cost, scientific way of evaluating impact, scientific model etc
+* ideally, objective criteria should apply to both sides
+* > classic cake dividing method: one person cuts, the other person chooses their slice
+* application of the above: both parties agree on a fair arrangement before choosing their roles within it
+
 ---
 
 ## How to conduct brainstorming sessions <!-- omit in toc -->
@@ -157,3 +166,15 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 1. Star the most promising ideas (start relaxing the no-criticism rule).
 2. Invent improvements for promising ideas.
 3. Set up a time frame for evaluating the ideas and deciding which ones to advance to the negotiation.
+
+---
+
+# Troubleshooting difficult negotiations <!-- omit in toc -->
+
+## What if they are more powerful? <!-- omit in toc -->
+
+**Develop your BATNA - Best Alternative To a Negotiated Agreement**
+
+## What if they won't play? <!-- omit in toc -->
+
+## What if they use dirty tricks? <!-- omit in toc -->
