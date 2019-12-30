@@ -72,20 +72,20 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 **Four major obstacles that prevent the creation of multiple options:**
 
 1. **Premature judgement**
-  - inventing options does not come naturally
-  - judgement hinders imagination
-  - fear of disclosing information that will jeopardise your position
+     - inventing options does not come naturally
+     - judgement hinders imagination
+     - fear of disclosing information that will jeopardise your position
 2. **Searching for the single answer**
-  - seeing your job as negotiator as to narrow down the amount of options, not expand it
-  - fear of pettyfogging the process
-  - understanding the desired outcome as a single solution
-  - risks premature closure that ignores better multiple solutions
+     - seeing your job as negotiator as to narrow down the amount of options, not expand it
+     - fear of pettyfogging the process
+     - understanding the desired outcome as a single solution
+     - risks premature closure that ignores better multiple solutions
 3. **The assumption of a fixed pie**
-  - seeing the dispute as an either/or fixed sum game
+     - seeing the dispute as an either/or fixed sum game
 4. **Thinking that "solving the problem is their problem"**
-  - each side is concerned only with its immediate interest
-  - psychological reluctance to accord any legitimacy to the other side
-  - fear of appearing "disloyal"
+     - each side is concerned only with its immediate interest
+     - psychological reluctance to accord any legitimacy to the other side
+     - fear of appearing "disloyal"
 
 **How to invent creative options**
 
