@@ -268,3 +268,30 @@ Based on _Getting to Yes_ by Roger Fisher & William Ury
 **_"It's been a pleasure dealing with you."_** - end the negotiation on a concilliatory note; neither party will be tempted to sabotage the agreement; a working relationship is maintained for the future.
      
 ## What if they use dirty tricks? <!-- omit in toc -->
+
+1. Recognise the fact that the other side is being deceptive.
+2. Raise the issue explicitly.
+3. Question the desireability of this tactic and negotiate over it.
+
+### Common dirty tactics <!-- omit in toc -->
+
+1. Deliberate deception:
+   - phony facts
+   - ambiguous authority
+   - dubious intentions
+   - less than full disclosure (not a form of deception)
+2. Psychological warfare
+   - tactics designed to make you uncomfortable
+   - conducting the negotiation in a stressful environment
+   - ad hominem attacks
+   - the good cop/bad cop routine
+   - threats
+3. Positional pressure tactics
+   - refusal to negotiate
+   - extreme demands
+   - escalating demands
+   - lock-in tactics
+   - having a hardhearter partner who would not agree to your proposal
+   - calculated delay
+   - "Take it or leave it."
+
