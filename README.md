@@ -347,12 +347,13 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Markdown cheatsheet](misc/markdown-cheatsheet.md)
 * [Accessibility tools](misc/accessibility.md)
 * [Naming good practice](misc/naming.md)
+* [Documenting projects](misc/documentation.md)
+* [Folder structure conventions](misc/folder-structure-conventions.md)
+* [Web Design](misc/design.md)
 * [Environment fixes](misc/environment-fixes.md)
 * [READMEs](misc/readmes.md)
 * [RESTful APIs](misc/rest.md)
 * [Get a list of browsers from npx](misc/browsers.md)
-* [Documenting projects](misc/documentation.md)
-* [Folder structure conventions](misc/folder-structure-conventions.md)
 
 ---
 
