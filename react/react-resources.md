@@ -9,6 +9,12 @@
 * [30 seconds of React](https://react.30secondsofcode.org/)
 
 ---    
+## Practical applications of React
+
+* [Scaling React server-side rendering](https://arkwright.github.io/scaling-react-server-side-rendering.html)
+
+
+---
 ## 📱 React Native
 
 * [this 6h tutorial](https://www.youtube.com/watch?v=qSRrxpdMpVc)
