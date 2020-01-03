@@ -159,6 +159,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Firing events in React](react/events.md)
 * [Custom `data-` and `aria-` attributes](react/data-aria.md)
 * [Libraries - cool libs to use with React](react/libraries.md)
+* [Security vulnerabilities in React](react/security-vulnerabilities.md)
 
 ---
 
@@ -340,6 +341,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 ## Raspberry Pi
 
 * [Hardware links](hardware/resources.md)
+* [Building a WiFi-connected camera system](hardware/cameras.md)
 
 
 ---
