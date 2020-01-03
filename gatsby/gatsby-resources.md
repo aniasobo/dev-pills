@@ -17,6 +17,7 @@
 * [Sanity](https://www.sanity.io/) - [Intro](https://react.christmas/2019/6)
 * [Forestry](https://forestry.io/)
 * possibly [Strapi](https://strapi.io/)
+* [Netlify](https://www.netlifycms.org/)
 
 ---
 
