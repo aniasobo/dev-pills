@@ -18,6 +18,7 @@
 * [Forestry](https://forestry.io/)
 * possibly [Strapi](https://strapi.io/)
 * [Netlify](https://www.netlifycms.org/)
+* [ButterCMS](https://buttercms.com/) - [How to use with Gatsby by HackerNoon](https://hackernoon.com/how-to-use-gatsby-with-a-headless-cms-ba365bb77733)
 * [more in official Gatsby docs](https://www.gatsbyjs.org/docs/headless-cms/)
 
 ---
