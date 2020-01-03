@@ -18,6 +18,7 @@
 * [Forestry](https://forestry.io/)
 * possibly [Strapi](https://strapi.io/)
 * [Netlify](https://www.netlifycms.org/)
+* [more in official Gatsby docs](https://www.gatsbyjs.org/docs/headless-cms/)
 
 ---
 
