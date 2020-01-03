@@ -215,6 +215,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Sinatra](ruby/sinatra.md)
 * [Rails](ruby/rails.md)
 * [Dependency injection](ruby/dependency-injection.md)
+* [Date API](ruby/date-time.md)
 
 ---
 
