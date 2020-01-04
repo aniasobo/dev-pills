@@ -208,6 +208,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Web scraping in python](python/web-scraping.md)
 * [Setup best practices](setup/python.md)
 * [Python resources](python/resources.md)
+* [Pipenv and package dependencies solutions](python/pipenv.md)
 
 ---
 
