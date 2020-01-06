@@ -60,3 +60,9 @@ src
 ```
 
 [Source](https://softwareontheroad.com/ideal-nodejs-project-structure/#folder)
+
+---
+
+## Rails
+
+[Use the convention](../ruby/rails.md)
