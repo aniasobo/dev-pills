@@ -248,6 +248,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Flexbox or grid?](css/flexbox-or-grid.md)
 * [CSS grid resources](css/debug-grid.md)
 * [Gradients](css/gradients.md)
+* [CSS variables/custom properties](css/variables.md)
 * [Libraries](css/libraries.md)
 
 ---
