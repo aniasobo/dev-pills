@@ -79,16 +79,10 @@ Make a standout section of special styles:
 
 You can now wrap anything that you want to stand out in this class:
 
-```
-<section>
+```diff
+- <section>
++ <section class="popout-section">
   <p class="paragraph">This will be black text on white background</p>
-  <label for="some-value" class="label">What's your value?
-    <input type="number" max="10" min="1">
-  </label>
-</section>
-
-<section class="popout-section">
-  <p class="paragraph">This will be white text on black background</p>
   <label for="some-value" class="label">What's your value?
     <input type="number" max="10" min="1">
   </label>
