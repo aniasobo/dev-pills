@@ -92,3 +92,13 @@ end
 
 4. add validations to your models
 5. add associations between models (`has_one`, `belongs_to` etc)
+
+**Adding static pages**
+
+1. generate a new rails app 
+2. `rails generate controller StaticPages home help` - adds `home` and `help` pages on top of the controller
+3. (to roll back: `rails destroy  controller StaticPages home help`, `rails destroy model User` etc - no need to add the properties of the model being destroyed)
+4. routes added to `routes.rb` automatically generate helpers for their redirects, so `get 'static_pages/about'` automatically creates the helper `static_pages_about_url`
+
+in `routes.rb`, the `root` route is what serves the index page
+
