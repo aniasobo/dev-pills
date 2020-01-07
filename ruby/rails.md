@@ -71,3 +71,24 @@ initialise heroku db: `heroku run rake db:schema:load`
 ---
 
 * [Setting up Travis for a Rails app](https://medium.com/full-taxx/how-to-setup-travis-ci-for-a-rails-application-78a453963300)
+
+---
+
+## Order of actions:
+
+1. `rails generate scaffold resource_name`
+2. `rails db:migrate`
+3. add to `routes.rb` (added automatically by Rails)
+
+```
+# config/routes.rb
+
+Rails.application.routes.draw do
+  resources :resource_name
+  resources :users
+  root 'users#index'
+end
+```
+
+4. add validations to your models
+5. add associations between models (`has_one`, `belongs_to` etc)
