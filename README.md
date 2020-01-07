@@ -40,6 +40,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Computer science](#computer-science)
 - [Electrical engineering](#electrical-engineering)
   - [Raspberry Pi](#raspberry-pi)
+  - [JavaScript-controlled bots](#javascript-controlled-bots)
 - [Misc](#misc)
 - [Tech interviews](#tech-interviews)
 
@@ -346,6 +347,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Hardware links](hardware/resources.md)
 * [Building a WiFi-connected camera system](hardware/cameras.md)
+
+---
+
+## JavaScript-controlled bots
+
+* [JS bots resources](hardware/javascript-hardware.md)
 
 
 ---
