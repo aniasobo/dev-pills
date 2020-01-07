@@ -33,6 +33,17 @@ GET /bookmarks/1
 GET /index.html
 ```
 
+http request | url | action | purpose  
+------ | ------ | ------ | ------   
+`GET`	| `/users`	| `index`	| page to list all users   
+`GET` |	`/users/1`	| `show`	| page to show user with id 1  
+`GET`	| `/users/new`	| `new`	| page to make a new user  
+`POST` |	`/users` |	`create`	| create a new user   
+`GET`	| `/users/1/edit`	| `edit`	| page to edit user with id 1   
+`PATCH`	| `/users/1` |	`update`	| update user with id 1  
+`DELETE`	| `/users/1`	| `destroy`	| delete user with id 1  
+
+    
 **Web applications are state machines and REST defines their interface**
 
 RESTful routing exposes the nature of your web app - a state machine capable of a certain variety of states.  
