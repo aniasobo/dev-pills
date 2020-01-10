@@ -60,6 +60,8 @@ const damagaToHorse = dragonEvents
     .reduce(reduceTotal);
 ```
 
+[Animation of how `Array.reduce` works](https://twitter.com/jacobmparis/status/1213887721799913479?s=19)  
+   
 ## 🧙🏻‍♀️ Array and string destructuring
 
 ```
