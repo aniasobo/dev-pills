@@ -18,3 +18,17 @@
 * [Good guide within this essay](https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/)
 * [System Design youtube channel](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [Videos by Tushar Roy](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
+
+
+## Data structures and algorithms
+
+* [How to pass a programming interview from Triple Bite](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
+* [graph basics](http://shlegeris.com/2016/07/02/graph)
+* > useful working set of data structures: arrays, hash tables, queue/stack, graph. most tree problems can be approximated with either nested hash tables or a graph, it won't be as efficient
+* [this list of common problems](https://github.com/crimx/leetcope/tree/master/problems)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+## General/misc
+
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
