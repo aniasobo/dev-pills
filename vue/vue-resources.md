@@ -20,6 +20,8 @@ _resources sourced from [this tutorial](https://product.voxmedia.com/2018/3/1/16
 
 * [A friendly introduction to Vue](https://appendto.com/2016/11/a-friendly-introduction-to-vue-js/)
 * [Exploring Data with Serverless and Vue by Sarah Drasner](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-i/)
+* [Vue.js Essentials - 3 Course Bundle on Udemy](https://www.udemy.com/course/vuejs-2-essentials/)
+* [Vue JS Essentials with Vuex and Vue Router on Udemy](https://www.udemy.com/course/vue-js-course/)
 
 
 ## Libraries and frameworks:
