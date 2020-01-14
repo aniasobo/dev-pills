@@ -1,6 +1,7 @@
 # TypeScript resources
 
 * [All the types you need in TS](https://github.com/pirix-gh/ts-toolbelt)
+* [Understanding TypeScript - 2020 Edition on Udemy](https://www.udemy.com/course/understanding-typescript/)
 
 --- 
 # React + TypeScript
