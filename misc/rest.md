@@ -2,7 +2,9 @@
 
 * [JengaAPI](https://www.jengaapi.io/)
 * [Postman](https://www.getpostman.com/)
-* [Insomnia REST client](https://insomnia.rest/)
+* [Insomnia](https://insomnia.rest/)
+* [REST client VSCode extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 
 [also here >](api/../../api/clients.md)
 ---
