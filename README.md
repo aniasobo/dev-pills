@@ -211,6 +211,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Setup best practices](setup/python.md)
 * [Python resources](python/resources.md)
 * [Pipenv and package dependencies solutions](python/pipenv.md)
+* [Dictionaries](python/dict.md)
 
 ---
 
