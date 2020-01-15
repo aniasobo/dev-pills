@@ -16,6 +16,12 @@
 
 ---
 
+## Testing
+
+* [Node testing essentials](https://dev.to/ielgohary/node-testing-essentials-a-node-developer-s-guide-to-testing-m16)
+
+---
+
 ## Middleware
 
 * [Three useful Express middleware](https://dev.to/zellwk/three-useful-express-middleware-1di)
@@ -29,6 +35,8 @@
 
 * [Node Girls](https://nodegirls.com/)
 
+---
+
 ## Libraries to use with node CLIs
 
 * [Yargs](https://github.com/yargs/yargs) - generates a user interface, parses arguments
@@ -40,6 +48,7 @@
 * [envinfo](https://github.com/tabrindle/envinfo) - development environment reporter
 * [Commander](https://github.com/tj/commander.js/) - user interface
 
+---
 
 ## Web scraping in Node.js
 
@@ -48,6 +57,9 @@
 * [spider](https://github.com/mikeal/spider) - node and jquery
 * [crawler](https://github.com/bda-research/node-crawler) - node and jquery
 * [simplecrawler](https://github.com/simplecrawler/simplecrawler) - node event-based
+* [web scraping with Node and Cheerio - video](https://www.youtube.com/watch?v=M2edy0vDovo)
+
+---
 
 ## Node security
 
