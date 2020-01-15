@@ -53,6 +53,9 @@ code with edits highlighted
       - [x] add some levels to it
       - [ ] don't make it meta
 
+## Index / table of contents
+
+Is populated automatically - just start adding anchor links to your headers as a list; add `<!-- omit in toc -->` to headline to omit it from the index
 
 ---
 
