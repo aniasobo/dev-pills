@@ -6,6 +6,15 @@
 
 **Referential Transparency** means that you can replace any function call with the value it returns. It also means that no function can have a side effect.
 
+## FP no-nos:
+
+* assignment statements (see above)
+* loops
+* mutating data
+* impure functions
+
+---
+
 ## Resources
 
 * [Composing Software by Eric Elliott](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
@@ -14,5 +23,8 @@
 
 ### FP libraries and languages
 
+* [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land/tree/v4.0.1) - aka "Algebraic JavaScript Specification"
 * [Ramda](../ramda/using-ramda.md)
+* [Sanctuary - a JavaScript functional programming library inspired by Haskell and PureScript](https://sanctuary.js.org/); stricter than Ramda
+* [Crocks](https://crocks.dev/) - a library/collection of Algebraic Data Types
 * [Elixir](../elixir/elixir-intro.md)
