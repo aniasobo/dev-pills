@@ -33,4 +33,7 @@
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Coding Cheat Sheets](https://github.com/aspittel/coding-cheat-sheets)
+   
+## Behavioural 😒
 
+* [45 behavioural interview questions](https://www.pathrise.com/guides/45-behavioral-interview-questions/)
