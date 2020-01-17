@@ -27,8 +27,10 @@
 * > useful working set of data structures: arrays, hash tables, queue/stack, graph. most tree problems can be approximated with either nested hash tables or a graph, it won't be as efficient
 * [this list of common problems](https://github.com/crimx/leetcope/tree/master/problems)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Coding Cheat Sheets](https://github.com/aspittel/coding-cheat-sheets)
 
 ## General/misc
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Coding Cheat Sheets](https://github.com/aspittel/coding-cheat-sheets)
 
