@@ -32,7 +32,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Rust](#rust)
 - [WebAssembly](#webassembly)
 - [Mobile developent](#mobile-developent)
-  - [Flutter &amp; Dart](#flutter-amp-dart)
+  - [Flutter & Dart](#flutter--dart)
 - [Project setups](#project-setups)
 - [DevOps](#devops)
 - [Machine learning](#machine-learning)
@@ -90,6 +90,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # APIs
 
 * [List of cool APIs](api/list.md)
+* [Web APIs](api/web-apis.md)
 * [Axios](api/axios.md)
 * [Remote data fetching in React](api/react-fetching.md)
 * [RESTful APIs](misc/rest.md)
