@@ -2,20 +2,34 @@
 
 line break with 2 returns  
 
-**bold**
+**Two ways to bold**
+__This is the other way__
+   
+_The two ways to italic_
+*Also like this*
 
-_italic_
+***There are THREE ways to both***
+**_second way_**
+*__THIRD WAY__*
+
+
 
 table | column | anothercol
 ------ | ------ | ---------
 text in col 1 | text in col 2 | text in col 3
 
+KEYBOARD
+<kbd>Ctrl</kbd>
+`⌘`
+        
 links!  
 
 [link to url](url)  
 ![link to image](my.img)  
 [link to anchor](#anchor)  
 [link to local file](local-folder/file.txt)
+autolink: <http://testwebsite.com/> (equivalent to `[http://testwebsite.com/](http://testwebsite.com/)`)
+autolink email addresses like so: <foo@bar.com>
 
 
 ```
@@ -30,14 +44,23 @@ code with edits highlighted
 + good code
 ```
 
-> blockquote
+> this is a blockquote
+> > OMG a nested blockquote!  
+> and back to what I was just quoting
 
 ~strikethrough~
+~~another way to strikethrough~~
 
 * nice list
 * with dots
 
-- [ ] checkbox
++ another way to list
++ with plus signs
+
+- also hyphens
+- can make lists
+- [ ] any list can have a checkbox
+- [x] tick it once done 
 
 ### How to make a nested list
 
@@ -59,6 +82,18 @@ Is populated automatically - just start adding anchor links to your headers as a
 
 ---
 
+horizontal rules:
+
+***
+
+or:
+
+- - - 
+
+also:
+
+*********
+     
 ```
 project structure
 │   README.md
@@ -80,4 +115,7 @@ project structure
 │   │      nestedFile.js  
 ```
 
+[MORE HERE](https://learnxinyminutes.com/docs/markdown/)
+
+[EVEN MORE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
