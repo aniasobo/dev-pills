@@ -11,3 +11,11 @@
 ## Best practices and style guides
 
 * [Clean CSS at CSS Christmas 2019](https://css.christmas/2019/7)
+
+## Tooling
+
+* [Tiny Helpers - lots of tools and CSS generators](https://tiny-helpers.dev/css/)
+
+## Performance and testing
+
+* [Frontend performance checklist](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)

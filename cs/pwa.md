@@ -19,3 +19,6 @@
 
 
 * [Intro to PWAs](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
+* [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
+* [Service workers](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [curated list of web APIs for browsers](https://github.com/luruke/browser-2020)
