@@ -27,7 +27,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Python](#python)
 - [Ruby](#ruby)
 - [Elixir](#elixir)
-- [CSS](#css)
+- [Front-end](#front-end)
+  - [CSS](#css)
 - [Postgres](#postgres)
 - [Rust](#rust)
 - [WebAssembly](#webassembly)
@@ -231,7 +232,13 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# CSS
+# Front-end
+
+* [General front-end resource list](misc/fe-resources.md)
+
+---
+
+## CSS
 
 * [CSS resources](css/resources.md)
 * [Syntax](css/syntax.md)
