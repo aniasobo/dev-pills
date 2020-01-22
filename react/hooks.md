@@ -9,89 +9,16 @@
 * only call hooks on the top level - never inside loops, conditions or nested functions
 * never call hooks from non-react-component JS functions
 
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li>good example use of the useRef() hook</li>
-</ul>](#ul-ligood-example-use-of-the-useref-hookli-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li>good example use of the `useRef()</li>
-</ul>](#ul-ligood-example-use-of-the-userefli-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li>good example use</li>
-</ul>](#ul-ligood-example-useli-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li>good example use</li>
-</ul>](#ul-ligood-example-useli-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li>good example use</li>
-</ul>](#ul-ligood-example-useli-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li>[good example use]</li>
-</ul>](#ul-ligood-example-useli-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
-- [Custom hooks](#custom-hooks)
-- [Sources](#sources)
-- [Tools](#tools)
-<li></li>
-</ul>](#ul-lili-ul)
-- [useState()](#usestate)
-- [useEffect()](#useeffect)
-- [useContext()](#usecontext)
-- [useReducer()](#usereducer)
-- [useMemo()](#usememo)
-- [useRef()](#useref)
+- [`useState()`](#usestate)
+- [`useEffect()`](#useeffect)
+- [`useContext()`](#usecontext)
+- [`useReducer()`](#usereducer)
+- [`useMemo()`](#usememo)
+- [`useRef()`](#useref)
+- [`useParams()`](#useparams)
+- [`useDispatch()`](#usedispatch)
+- [`useSelector()`](#useselector)
+- [`useStore()`](#usestore)
 - [Custom hooks](#custom-hooks)
 - [Sources](#sources)
 - [Tools](#tools)
@@ -167,6 +94,41 @@ const dataFetchReducer = (state, action) => {
 * mutating the `.current` property doens't cause a re-render - no notification that the value stored by `useRef()` changes
 
 
+## `useParams()`
+
+* used in React Router
+* `import useParams from 'react-router-dom'`
+* you can use regular child elements to get the params
+* no need to manually pass params around
+
+## `useDispatch()`
+
+* returns a reference to the `dispatch` function from the Redux store
+* common use: `const dispatch = useDispatch()`
+* when passing a callback using `dispatch` to a child component, it is recommended to memoize it with `useCallback` to avoid re-render
+
+## `useSelector()`
+
+* allows you to extract data from the Redux store state using a selector function
+* the selector function should be pure since it is potentially executed multiple times and at arbitrary points in time
+* similar to `mapStateToProps` connect; notable differences:
+  * selector may return any value, not just an object
+  * compares previous selector return value and re-renders if different
+  * selector does not receive `ownProps` argument (props can still be used as closure or curried function)
+  * extra care must be taken with memoising selectors
+  * uses strict `===` comparison, not shallow equality (import `shallowEqual` function to use that instead)
+* selector will be called with the entire Redux store state as its only argument
+* selector will be run whenever the function component renders
+* `useSelector()` will also subscribe to the Redux store, and run your selector whenever an action is dispatched
+* can be used multiple times within a component
+
+## `useStore()`
+
+* import from `react-redux`; then `const store = useStore()`
+* returns a reference to the same Redux store that was passed in to the `<Provider>` component
+* use `useSelector()` over `useStore()` where possible
+* 
+
 ---
 
 ## Custom hooks
@@ -205,6 +167,7 @@ function useLocalStorage = (key, initialValue) => {
 * [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
 * [State hook docs](https://reactjs.org/docs/hooks-state.html)
 * [Intro video](https://reactjs.org/docs/hooks-intro.html)
+
 
 ## Tools
 
