@@ -340,6 +340,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [OAuth resources](authentication/oauth.md)
 * [OAuth vs Auth0](authentication/oauth-auth0.md)
+* [Omniauth](authentication/omniauth.md)
 
 ---
 

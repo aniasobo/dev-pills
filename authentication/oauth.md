@@ -22,3 +22,16 @@ Notes from the OAuth intro meeting:
 * two connections to each entity that requires authorisation (external service API etc)
 
 [Omniauth](https://github.com/omniauth/omniauth-oauth2) - Ruby library for OAuth.
+
+## Basic auth flow
+
+> Application is registered with intended provider(i.e. Google, Facebook, GitHub, etc) and a `client_id` and `client_secret` are obtained
+> Application sends out a request to the provider (i.e. Google, Facebook, GitHub, etc) including the application’s `client_id` and `client_secret`
+> Provider asks the user if they’d like to authorize the application to access their personal info
+> If yes, the provider sends back a token/code to `/auth/:provider/callback`, a route found in the application
+> The application sends out a 2nd request to the provider with the token/code
+> The provider sends a response back with a user’s information
+> The application parses the response to create a hash of user info
+
+[Source - also includes good Omniauth info](https://medium.com/@ali_schlereth/omniauth-is-not-a-scary-monster-a23b21c4f739)
+
