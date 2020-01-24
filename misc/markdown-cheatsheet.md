@@ -49,7 +49,7 @@ code with edits highlighted
 > and back to what I was just quoting
 
 ~strikethrough~
-~~another way to strikethrough~~
+~~another way to strikethrough with two tildes~~
 
 * nice list
 * with dots

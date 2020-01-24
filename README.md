@@ -114,6 +114,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [ES6 Rest & Spread](javascript/rest-spread.md)
 * [Nested functions](javascript/nested-functions.md)
 * [Currying](javascript/currying.md)
+* [Hoisting](javascript/hoisting.md)
 * [Closures](javascript/closures.md)
 * [JS Date module](javascript/date.md)
 * [Debugging JS](javascript/debugging.md)
