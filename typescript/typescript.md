@@ -10,3 +10,8 @@ function foo(someNum: number): number {
  return someNum + 5;
 }
 ```
+
+## Tooling
+
+* Runtime with TS enabled by default: [Deno](https://deno.land/) (in beta)
+

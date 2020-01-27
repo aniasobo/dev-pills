@@ -65,3 +65,9 @@
 
 * [NodeGoat - tutorial on Node security, with examples](https://nodegoat.herokuapp.com/tutorial)
 * [Node security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+
+---
+
+## Alternatives to Node
+
+[Deno - A secure runtime for JavaScript and TypeScript](https://deno.land/)
