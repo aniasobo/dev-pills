@@ -12,6 +12,7 @@
 * [The Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 * [What questions should you ask at an engineering interview?](https://localghost.dev/2019/08/what-questions-should-you-ask-at-an-engineering-interview/)
 * [Questions to ask - reverse interview](https://github.com/viraptor/reverse-interview)
+* [The Dev.to Interview Study Guide for Software Engineers](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764)
 
 ## System design
 

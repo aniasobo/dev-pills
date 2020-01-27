@@ -5,6 +5,7 @@ Example use of different Promise syntaxes in React:
 ```
 // async code; 'done' is logged after position data, even though 'done' is supposed
 // to be executed later in our code
+
 navigator.geolocation.getCurrentPosition(position => {
 	console.log(position);
 }, error => {
@@ -14,6 +15,7 @@ console.log("done");
 
 // async code handled with a promise; we get the result we want - position data
 // is logged, then 'done' is logged
+
 const promise = new Promise((resolve, reject) => {
 	navigator.geolocation.getCurrentPosition(resolve, reject);
 });
@@ -25,8 +27,11 @@ promise
 
 // async code with async/await looks like synchronous code; the most readable way 
 // of  working with promises
+
 async function getPosition() {
+	
 	// async/await works in functions only (for now)
+
 		const result = await new Promise((resolve, reject) => {
 	navigator.geolocation.getCurrentPosition(resolve, reject);
 	});
@@ -42,14 +47,18 @@ Using basic Promise syntax vs async-await:
 
 ```
 // fetching data from an API with basic promise syntax (notice the use of arrow functions)
+
 window.fetch('http://jsonplaceholder.typicode.com/posts')
 	.then(response => response.json())
 	.then(data => console.log(data));
 
 // fetching same data from API with async/await
+
 async function getPostData() {
 	const response = await window.fetch('http://jsonplaceholder.typicode.com/posts')
+
 		// we need to resolve two promises using await to get the final data
+
 	const data = await response.json();
 	console.log(data);
 }
