@@ -5,3 +5,8 @@
 * the `useContext()` hook and [React Context API](https://leewarrick.com/blog/the-problem-with-context/)
 * [Replacing Redux with Observables and React Hooks](https://blog.betomorrow.com/replacing-redux-with-observables-and-react-hooks-acdbbaf5ba80)
 * [Replacing Redux with React Hooks by Leigh Halliday](https://www.leighhalliday.com/replacing-redux-with-react-hooks)
+
+## Other frameworks
+
+* [Vuex for Vue](https://vuex.vuejs.org/)
+* [NgRx for Angular](https://ngrx.io/)

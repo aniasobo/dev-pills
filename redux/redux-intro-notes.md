@@ -22,6 +22,9 @@ Redux is a state container (object) which holds state; with an API that enables 
 
 [Hooks from react-redux](../react/hooks.md)
 
+[State management in Redux](state-management.md)
+
+
 ### Notes from the Redux meeting (unedited):
 
 * action, reducer, saga, selector - for each model?

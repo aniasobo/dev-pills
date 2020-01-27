@@ -172,6 +172,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Redux intro notes](redux/redux-intro-notes.md)
 * [Alternatives to Redux](redux/alternatives.md)
+* [State management in Redux](redux/state-management.md)
 
 ---
 
@@ -355,6 +356,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Algorithms](cs/algorithms.md)
 * [Pure functions](cs/pure-functions.md)
 * [RegEx](cs/regex.md)
+* [Finite State Machine pattern](cs/finite-state-machine.md)
 
 ---
 
