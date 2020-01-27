@@ -39,6 +39,7 @@
 
 * `react-testing-library`
 * [more testing libraries](react/../testing-libraries.md)
+* [Ava - test runner](https://github.com/avajs/ava/releases/tag/v3.0.0)
 
 
 ## Performance   
