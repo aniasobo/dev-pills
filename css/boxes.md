@@ -13,3 +13,9 @@ On the rare occasion something needs to be `content-box`, you can override it.
   box-sizing: border-box;
 }
 ```
+
+## More resources:
+
+* [Box Sizing on CSS Tricks](https://css-tricks.com/box-sizing/)
+* [Inheriting Box Sizing on CSS Tricks](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+
