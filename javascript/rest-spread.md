@@ -94,3 +94,5 @@ console.log(a); // { name: "Joe" }
  
 
 [Source](https://nick.scialli.me/object-assignment-for-beginners/)
+
+[Use the spread operator to pass props in react](../react/spread.md)

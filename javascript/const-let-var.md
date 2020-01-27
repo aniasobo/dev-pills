@@ -17,3 +17,12 @@
 * no performance benefits
 
 [Source - Dan Abramov](https://overreacted.io/on-let-vs-const/)
+
+## `let` and `const` have block scope; `var` gets hoisted
+
+---
+
+## In React:
+
+* `let` and `const` are used because of their block scope
+* `const` is used to declare components and in combination with arrow functions - components never change/get reassigned
