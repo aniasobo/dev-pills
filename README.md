@@ -246,6 +246,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Syntax](css/syntax.md)
 * [Units](css/units.md)
 * [Selectors](css/selectors.md)
+* [The CSS Cascade](css/cascade.md)
 * [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
 * [CSS box model](css/css-box-model.md)
 * [`border-box` vs `content-box`](css/boxes.md)
