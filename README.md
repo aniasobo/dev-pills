@@ -167,6 +167,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Custom `data-` and `aria-` attributes](react/data-aria.md)
 * [Libraries - cool libs to use with React](react/libraries.md)
 * [Security vulnerabilities in React](react/security-vulnerabilities.md)
+* [State in React](cs/state.md)
 
 ---
 
@@ -362,6 +363,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Pure functions](cs/pure-functions.md)
 * [RegEx](cs/regex.md)
 * [Finite State Machine pattern](cs/finite-state-machine.md)
+* [State as a concept](cs/state.md)
 
 ---
 

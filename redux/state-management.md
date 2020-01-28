@@ -1,5 +1,7 @@
 # State management in Redux
 
+More about [the concept of state in an app](../cs/state.md)
+    
 Redux pattern == the [finite state machine](../cs/finite-state-machine.md) 
 
 **Redux state management model** - `state + action = newState`
