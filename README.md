@@ -175,6 +175,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Redux intro notes](redux/redux-intro-notes.md)
 * [Alternatives to Redux](redux/alternatives.md)
 * [State management in Redux](redux/state-management.md)
+* [Action creators and `redux-thunk`](redux/action-creators.md)
 
 ---
 
