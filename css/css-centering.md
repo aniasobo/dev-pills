@@ -36,3 +36,20 @@ containing-element {
 Also: [centering using nested grid](https://www.quackit.com/css/grid/tutorial/create_a_nested_grid.cfm)
 
 Also: [Learn CSS Layout](http://learnlayout.com/)
+
+
+## Centering using flexbox
+
+```
+.vertical-container {
+  height: 300px;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+```
+
+[SOURCE - Learn CSS Layout](http://learnlayout.com/flexbox.html)
