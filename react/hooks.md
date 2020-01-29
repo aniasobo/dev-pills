@@ -19,6 +19,7 @@
 - [`useDispatch()`](#usedispatch)
 - [`useSelector()`](#useselector)
 - [`useStore()`](#usestore)
+- [`useCallback()`](#usecallback)
 - [Custom hooks](#custom-hooks)
 - [Sources](#sources)
 - [Tools](#tools)
@@ -33,28 +34,33 @@
 * takes one argument: initial state
 * state doesn't have to be an object
 * can be used more than once within a component, but the calls are made in the same order on every render
+* the update state function can accept a function. This function receives the previous state value, and returns an updated value
 
 ## `useEffect()`
 
 * lets you perform the side effects from a function component (ones that can't be done during rendering)
 * serves the same purpose as `componentDidMount()` and `componentDidUpdate()` and `componentWillUnmount()`
-* tells react to run the side-effect function after updating the DOM
+* tells react to run the side-effect function after updating the DOM, so after every re-render
 * effects have access to the props and state of the component
 * option to tell effects how to clean up post-render
 * can be used for multiple effects within the component
-* pass an empty array in as second argument to stop the effect getting called again on component update
+* takes a function as an argument
+* pass an empty array in as second argument to stop the effect getting called again on component update - runs only once
 * non-empty array: contains variables to watch, becasue the hook depends on them; the hook will run again if one of those changes (for example, `[query]` when you're using an input for a search query that gets called - see link below)
 * [fetch data inside useEffect()](https://www.robinwieruch.de/react-hooks-fetch-data)
 
 ## `useContext()`
 
 * lets you subscribe to React context without introducing nesting or passing down props
-* context seems to have to be set with `React.setContext()` and then imported?
+* the context still needs to be created by `React.createContext` and provided by a context `Provider` component
+* accepts as argument the context itself created by `React.createContext`
+* returns the current context value for that context
 * [intro for how to use](https://react.christmas/2019/7)
 
 ## `useReducer()`
 
 * lets you manage local state of complex components with a reducer
+* an alternative to `useState()`
 * a reducer is a pure function that takes a state and returns a new state:
 
 ```
@@ -82,11 +88,12 @@ const dataFetchReducer = (state, action) => {
 * the memoized value only gets recomputed on change to one of the passed dependencies
 * helps avoid expensive recalculations on render
 * the function passed into it runs on render; side effects belong in `useEffect()`
-* ifno array is given, a new value will be computed on every render
+* if no array is given, a new value will be computed on every render
 * use it to optimise performace of code that should run ok without it
 
 ## `useRef()`
 
+* lets you access DOM element
 * [good example use of the `useRef()` hook](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 * > `useRef` returns a mutable ref object whose `.current` property is initialized to the passed argument (`initialValue`). The returned object will persist for the full lifetime of the component
 * > handy for keeping any mutable value around similar to how you’d use instance fields in classes
@@ -127,7 +134,12 @@ const dataFetchReducer = (state, action) => {
 * import from `react-redux`; then `const store = useStore()`
 * returns a reference to the same Redux store that was passed in to the `<Provider>` component
 * use `useSelector()` over `useStore()` where possible
-* 
+  
+## `useCallback()`
+
+* returns a memoized version of a callback
+* accepts as arguments a callback and a dependencies array
+* the callback only changes if one of the dependencies has changed
 
 ---
 
@@ -167,6 +179,7 @@ function useLocalStorage = (key, initialValue) => {
 * [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
 * [State hook docs](https://reactjs.org/docs/hooks-state.html)
 * [Intro video](https://reactjs.org/docs/hooks-intro.html)
+* [Really good cheatsheet](https://hackernoon.com/the-most-definitive-react-hooks-cheat-sheet-for-2020-19ed33on)
 
 
 ## Tools
