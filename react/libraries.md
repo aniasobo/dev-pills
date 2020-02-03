@@ -45,6 +45,7 @@
 ## Performance   
 
 * [electrode caching library](https://github.com/electrode-io/electrode-react-ssr-caching)
+* [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - monkey patches React to notify you about avoidable re-renders
 
 
 ## Events
