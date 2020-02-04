@@ -87,4 +87,5 @@ all the above examples loosely adapted from videos by [Fun Fun Function](https:/
 
 **more first-class functions:**
 
-[First-Class Functions in JS](https://nick.scialli.me/first-class-functions-in-javascript/)
+* [First-Class Functions in JS](https://nick.scialli.me/first-class-functions-in-javascript/)
+* [Higher order functions in functional JS by James Sinclair](https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/)

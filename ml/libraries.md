@@ -4,6 +4,7 @@
 * [Tensorflow](https://www.tensorflow.org/tutorials)
 * [PyTorch](https://pytorch.org/) (_"better for fast moving research/learning"_)
 * [FastAI](https://github.com/fastai/fastai) - Linux only, works with PyTorch
+* > PyTorch and FastAI are deeply connected—you can’t become really proficient at using fastai if you don’t know PyTorch well, too - [Source](https://course.fast.ai/)
 
 
 ## Keras tutorials
