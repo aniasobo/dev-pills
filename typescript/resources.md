@@ -10,3 +10,4 @@
 * [Official React TypeScript docs](https://reactjs.org/docs/static-type-checking.html#typescript)
 * [Official TypeScript docs](https://www.typescriptlang.org/docs/home.html)
 * [Neat React + TypeScript tricks on React Christmas 2019](https://react.christmas/2019/21)
+* [Intro to TS for React course](https://malcolmkee.com/typescript-for-react-developer/introduction)

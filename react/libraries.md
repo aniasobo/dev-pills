@@ -20,7 +20,7 @@
 
 ## Animations
 
-* [react-spring](https://www.react-spring.io/)
+* [react-spring](https://www.react-spring.io/) - [How to create micro-interactions with `react-spring` series](https://stackoverflow.blog/2020/01/16/how-to-create-micro-interactions-with-react-spring-part-1/)
 * [Framer Motion](https://www.framer.com/motion/) - [Intro](https://react.christmas/2019/3)
 
 
