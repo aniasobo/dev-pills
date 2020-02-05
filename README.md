@@ -28,7 +28,11 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Ruby](#ruby)
 - [Elixir](#elixir)
 - [Front-end](#front-end)
-  - [CSS](#css)
+- [CSS](#css)
+  - [CSS basics](#css-basics)
+  - [`flexbox`, `grid` and other layouts](#flexbox-grid-and-other-layouts)
+  - [Miscallaneous tips and tricks](#miscallaneous-tips-and-tricks)
+  - [CSS resources](#css-resources)
 - [Postgres](#postgres)
 - [Rust](#rust)
 - [WebAssembly](#webassembly)
@@ -244,29 +248,43 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-## CSS
+# CSS
 
-* [CSS resources](css/resources.md)
+## CSS basics
+
 * [Syntax](css/syntax.md)
 * [Units](css/units.md)
 * [Selectors](css/selectors.md)
 * [The CSS Cascade](css/cascade.md)
-* [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
 * [CSS box model](css/css-box-model.md)
 * [`border-box` vs `content-box`](css/boxes.md)
 * [CSS ruleset](css/css-ruleset.md)
 * [CSS font sizing](css/css-font-sizing.md)
 * [CSS centering](css/css-centering.md)
-* [Default mobile first layout](css/mobile-default-layout.md)
-* [Simple CSS grid example](css/simple-grid.css)
-* [Nested grid example](css/nested-grid.html)
 * [CSS transitions](css/transitions.md)
-* [Flexbox](css/flexbox.md)
-* [Flexbox or grid?](css/flexbox-or-grid.md)
-* [CSS grid resources](css/debug-grid.md)
 * [Gradients](css/gradients.md)
 * [CSS variables/custom properties](css/variables.md)
+
+
+## `flexbox`, `grid` and other layouts
+
+* [CSS grid resources](css/debug-grid.md)
+* [SCSS - basic flexbox grid](css/scss-flexbox-grid.md)
+* [Simple CSS grid example](css/simple-grid.css)
+* [Nested grid example](css/nested-grid.html)
+* [Flexbox](css/flexbox.md)
+* [Flexbox or grid?](css/flexbox-or-grid.md)
+* [Default mobile first layout](css/mobile-default-layout.md)
+
+## Miscallaneous tips and tricks
+
 * [`user-select-all`](css/user-select.md)
+* [`calc()`](css/calc.md)
+
+
+## CSS resources
+
+* [CSS resources](css/resources.md)
 * [Libraries](css/libraries.md)
 
 ---
