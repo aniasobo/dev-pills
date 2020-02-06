@@ -1,5 +1,7 @@
 # Cool libraries to use with React
 
+[THIS LIST CURATED BY R. WIERUCH - 2020](https://www.robinwieruch.de/react-libraries)
+
 - [Cool libraries to use with React](#cool-libraries-to-use-with-react)
   - [State management](#state-management)
   - [Animations](#animations)
