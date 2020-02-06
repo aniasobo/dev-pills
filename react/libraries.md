@@ -4,7 +4,7 @@
 
 - [Cool libraries to use with React](#cool-libraries-to-use-with-react)
   - [State management](#state-management)
-  - [Animations](#animations)
+  - [Animations and illustration](#animations-and-illustration)
   - [Data fetching](#data-fetching)
   - [Form handling](#form-handling)
   - [Testing](#testing)
@@ -20,10 +20,11 @@
 * [Global State](https://react.christmas/2019/7)
 
 
-## Animations
+## Animations and illustration
 
 * [react-spring](https://www.react-spring.io/) - [How to create micro-interactions with `react-spring` series](https://stackoverflow.blog/2020/01/16/how-to-create-micro-interactions-with-react-spring-part-1/)
 * [Framer Motion](https://www.framer.com/motion/) - [Intro](https://react.christmas/2019/3)
+* [React Kawaii](https://react-kawaii.now.sh/)
 
 
 ## Data fetching
