@@ -96,6 +96,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [List of cool APIs](api/list.md)
 * [Web APIs](api/web-apis.md)
+* [Webhooks](devops/webhooks.md)
 * [Axios](api/axios.md)
 * [Remote data fetching in React](api/react-fetching.md)
 * [RESTful APIs](misc/rest.md)
