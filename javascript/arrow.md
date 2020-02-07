@@ -7,6 +7,8 @@ funcName(2);
 // 4
 ```
 
+This is particularly useful in React components - when functional components just immediately `return`, use `()` to wrap your function; if additional `const`s or functions are needed inside the functional component, wrap the function in `{}`.
+
 if only one parameter:
 
 ```
@@ -68,3 +70,5 @@ function Counter() {
   }, 1000);
 }
 ```
+
+[Old school but thorough article about arrow functions](https://2ality.com/2012/04/arrow-functions.html)
