@@ -342,6 +342,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [Basics of network engineering](devops/network.md)
 * [HTTP](devops/http.md)
+* [Webhooks](devops/webhooks.md)
 * [Servers](devops/servers.md)
 * [Heroku](devops/heroku.md)
 * [Rake](devops/rake.md)
