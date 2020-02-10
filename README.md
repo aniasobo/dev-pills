@@ -26,6 +26,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
   - [Ramda](#ramda)
 - [Python](#python)
 - [Ruby](#ruby)
+  - [Rails](#rails)
 - [Elixir](#elixir)
 - [Front-end](#front-end)
 - [CSS](#css)
@@ -231,9 +232,14 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Ruby  
 
 * [Sinatra](ruby/sinatra.md)
-* [Rails](ruby/rails.md)
 * [Dependency injection](ruby/dependency-injection.md)
 * [Date API](ruby/date-time.md)
+
+
+## Rails
+
+* [Rails basics](rails/rails.md)
+* [`.present?` vs `.any?` vs `.exists?`](rails/present-exists-any.md)
 
 ---
 
