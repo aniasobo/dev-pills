@@ -19,6 +19,6 @@
 
 **great with React:**
 
-* [styled-components](https://www.styled-components.com/) and its design system [styled-system](https://styled-system.com/)
+* [styled-components](https://www.styled-components.com/) and its design system [styled-system](https://styled-system.com/), add features with the[Polished library](https://github.com/styled-components/polished)
 * [CSS modules](https://github.com/css-modules/css-modules) [React how to for CSS modules](https://www.robinwieruch.de/react-css-modules)
 
