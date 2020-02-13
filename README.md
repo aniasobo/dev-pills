@@ -236,6 +236,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Sinatra](ruby/sinatra.md)
 * [Dependency injection](ruby/dependency-injection.md)
 * [Date API](ruby/date-time.md)
+* [Method access control](ruby/method-access-control.md)
 
 
 ## Rails
