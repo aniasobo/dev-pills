@@ -132,6 +132,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Export-import cheatsheet](javascript/exports-cheatsheet.md)
 * [Fetching data with axios vs fetch()](javascript/axios-fetch.md)
 * [`const`, `let` and `var`](javascript/const-let-var.md)
+* [`Set` object](javascript/set.md)
 
 ---
 
