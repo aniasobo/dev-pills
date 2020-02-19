@@ -9,6 +9,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Categories <!-- omit in toc -->
 
 - [Testing](#testing)
+  - [RSpec & testing Ruby](#rspec--testing-ruby)
+  - [JavaScript testing](#javascript-testing)
 - [Git](#git)
 - [Command line](#command-line)
 - [Editors](#editors)
@@ -56,17 +58,24 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Testing
    
 * [Chrome dev tools](testing/chrome-dev-tools.md)
-* [ESLint setup](testing/eslint.md)
+* [London vs Chicago schools of TDD](testing/schools.md)
+
+
+## RSpec & testing Ruby
+
 * [RSpec setup](testing/rspec-setup.md)
 * [RSpec syntax](testing/rspec-syntax.md)
 * [RSpec mocking](testing/rspec-mocks.md)
 * [Pry](testing/pry.md)
 * to add: Capybara
-* [Jasmine](testing/jasmine.md)
-* to add: ESLint
 * [Rubocop scaffold](testing/rubocop.yml)
 * [FactoryBot](testing/factorybot.md)
-* [London vs Chicago schools of TDD](testing/schools.md)
+* [Factories: `build` vs `create`](testing/factory-build-create.md)
+
+## JavaScript testing
+
+* [ESLint setup](testing/eslint.md)
+* [Jasmine](testing/jasmine.md)
 
 ---
 
