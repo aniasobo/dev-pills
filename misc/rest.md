@@ -45,6 +45,18 @@ http request | url | action | purpose
 `PATCH`	| `/users/1` |	`update`	| update user with id 1  
 `DELETE`	| `/users/1`	| `destroy`	| delete user with id 1  
 
+
+| **URL** | **HTTP Verb** |  **Action**|
+|------------|-------------|------------|
+| /photos/         | GET       | index  
+| /photos/new         | GET       | new   
+| /photos          | POST      | create   
+| /photos/:id      | GET       | show       
+| /photos/:id/edit | GET       | edit       
+| /photos/:id      | PATCH/PUT | update    
+| /photos/:id      | DELETE    | destroy  
+
+[source](https://gist.github.com/alexpchin/09939db6f81d654af06b)
     
 **Web applications are state machines and REST defines their interface**
 
