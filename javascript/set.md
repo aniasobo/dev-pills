@@ -37,6 +37,7 @@ new Set([1, 2, 3]).forEach(el => {
 
 ## `Set` is good for:
 
+* [removing duplicates values (that aren't objects) from an array](../tech-interviews/remove-duplicates-from-array.md)
 * as it's required to be implemented using hash tables, it has superior performance to arrays - lookup is instantaneous, while array needs to be traversed to find the item
 * keeping track of binary state associated with an object (for example, state of an accordion slide being closed/open):
 

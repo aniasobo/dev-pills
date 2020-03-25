@@ -444,3 +444,4 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Tech test checklist](tech-interviews/tech-test-checklist.md)
 * [Tech test tips](tech-interviews/tech-test-tips.md)
 * [Negotiating strategy](tech-interviews/negotiating.md)
+* [How to remove duplicate values from an array?](tech-interviews/remove-duplicates-from-array.md)
