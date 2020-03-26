@@ -85,6 +85,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 * [Git resources](git/git-resources.md)
 * [.gitignore](git/gitignore.md)
 * [Git Basics](git/basics.md)
+* [GitHub: find historic file](git/history.md)
 * to add: working on branches
 
 ---
