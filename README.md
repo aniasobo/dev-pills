@@ -100,6 +100,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 * [VSCode extensions](editors/vscode-extensions.md)
 * [VSCode tricks](editors/vscode-tricks.md)
+* [Vim + VSC](editors/vim.md)
 
 ---
 
