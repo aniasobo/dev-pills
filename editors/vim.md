@@ -1,9 +1,5 @@
 # VSC + Vim
 
-* works in **modal fashion**: separate modes for inserting text, editing text, selecting text etc
-* integrating Vim with VSC balance out the user experience of the latter, such as code completion, code navigation, in-editor error messages etc, with the performance of Vim
-* default mode is normal mode for editing and moving stuff around, not insert mode
-
 ## Insert mode
 
 Enter insert mode with `i` for typing.
@@ -13,6 +9,8 @@ If it doesn't work, `esc` will exit current mode.
 ## Back to normal mode
 
 `Esc` or `Ctrl` + `c`
+
+---
 
 ## Move around
 
@@ -29,7 +27,7 @@ Navigate cursor with `hjkl`
 `k` is for KOSMOS
 
 `l` is for LAW IS RIGHT
-    
+
 ### Word motions
 
 Horizontally WORD by WORD with `w` forward and `b` backward.
@@ -76,6 +74,33 @@ Run your last search with `/Enter` forwards and `?Enter` backwards.
 
 Search for the word under the cursor with `*`.
 
+### Add counts to movement commands
+
+`{count}motion` so `2w` moves the cursor 2 words forward.
+
+Good to combine with `j` and `k`
+
+### Move semantically
+
+Jump to definition of word under cursor `gd`
+
+Jump to file in an import `gf`
+
+### Core motions
+
+Top of file `gg`
+
+Specific line `{line}gg`
+
+End of file `G`
+
+Jump to closing bracket with `%`
+
+---
+
+# Operators
+
+coming up
 
 
 [Source](https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim)
