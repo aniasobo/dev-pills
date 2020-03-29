@@ -102,5 +102,6 @@ Jump to closing bracket with `%`
 
 coming up
 
-
 [Source](https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim)
+
+Learn in shell with `vimtutor`
