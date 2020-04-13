@@ -377,6 +377,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 - add notes from ML workshop
 - [TensorFlow.js](ml/js-ml.md)
+- [TensorFlow 2.0 with Keras](ml/tensorflowjs.md)
 - [Libraries](ml/libraries.md)
 - [ML tutorials](ml/tutorials.md)
 - [3D machine learning](ml/3d.md)
