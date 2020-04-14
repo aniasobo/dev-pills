@@ -256,6 +256,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Rails basics](rails/rails.md)
 - [`.present?` vs `.any?` vs `.exists?`](rails/present-exists-any.md)
 - [`respond_to format.js` API](rails/respond-to.md)
+- [Active Record - `scope`](rails/active-record-scope.md)
 
 ---
 
