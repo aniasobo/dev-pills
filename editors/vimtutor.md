@@ -8,6 +8,13 @@
         v
 ```
 
+| Mode              | Trigger keys                    |
+| ----------------- | ------------------------------- |
+| Normal mode       | <kbd>ESC</kbd>                  |
+| Insert mode       | `i`, `a`, `c`                   |
+| Visual mode       | `v`, `V`, <kbd>CTRL</kbd> + `v` |
+| Command-line mode | `:`, `/`                        |
+
 <kbd>ESC</kbd> to exit vim modes.
 Exit without save: `:q!` <kbd>ENTER</kbd>.
 

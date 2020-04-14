@@ -1,5 +1,12 @@
 # VSC + Vim
 
+| Mode              | Trigger keys                    |
+| ----------------- | ------------------------------- |
+| Normal mode       | <kbd>ESC</kbd>                  |
+| Insert mode       | `i`, `a`, `c`                   |
+| Visual mode       | `v`, `V`, <kbd>CTRL</kbd> + `v` |
+| Command-line mode | `:`, `/`                        |
+
 ## Insert mode
 
 Enter insert mode with `i` for typing.
