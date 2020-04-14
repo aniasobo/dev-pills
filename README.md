@@ -14,6 +14,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Git](#git)
 - [Command line](#command-line)
 - [Editors](#editors)
+  - [VSCode](#vscode)
+  - [Vim](#vim)
 - [APIs](#apis)
 - [JavaScript](#javascript)
 - [Typescript](#typescript)
@@ -96,10 +98,16 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # Editors
 
+## VSCode
+
 - [VSCode extensions](editors/vscode-extensions.md)
 - [VSCode tricks](editors/vscode-tricks.md)
+
+## Vim
+
 - [`vimtutor` notes](editors/vimtutor.md)
 - [Vim + VSC cheatsheet](editors/vim.md)
+- [Notes from Vim talks](editors/vim-talks.md)
 
 ---
 
