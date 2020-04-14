@@ -122,6 +122,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Functional programming sample](javascript/export-functions.md)
 - [JS resources](javascript/js-resources.md)
 - [JS for React](javascript/js-react.md)
+- [Logical operators in JS](javascript/logical-operators.md)
 - [Prototyping and inheritance](javascript/inheritance.md)
 - [OO and inheritance in JS](javascript/oo.md)
 - [Module pattern & `this`](javascript/module-pattern.md)
