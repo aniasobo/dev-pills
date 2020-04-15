@@ -13,7 +13,7 @@
 | Visual mode       | `v`, `V`, <kbd>CTRL</kbd> + `v` |
 | Command-line mode | `:`, `/`                        |
 
-**Example: [count][operator][text object / motion] samples**
+**Example: [count][operator][text object/motion] samples**
 
 `6+` = 6x go down to line start
 `gUaW` = capitalize a WORD
@@ -84,7 +84,9 @@
 **Using buffers**
 
 > Tabs for window containers
+>
 > Windows for buffer viewports
+>
 > Buffers for file proxies (and the arglist)
 
 Use the buffer-centric workflow instead of traditional tabs.

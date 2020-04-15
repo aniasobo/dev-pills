@@ -1,6 +1,6 @@
 # The `Set` object
 
-The `Set` object is a collection of values in which you can store _unique_ primitive values or object references. 
+The `Set` object is a collection of values in which you can store _unique_ primitive values or _object references_ (not object values).
 
 Create a new instance with `const mySet = new Set();`
 
@@ -37,9 +37,10 @@ new Set([1, 2, 3]).forEach(el => {
 
 ## `Set` is good for:
 
-* [removing duplicates values (that aren't objects) from an array](../tech-interviews/remove-duplicates-from-array.md)
-* as it's required to be implemented using hash tables, it has superior performance to arrays - lookup is instantaneous, while array needs to be traversed to find the item
-* keeping track of binary state associated with an object (for example, state of an accordion slide being closed/open):
+- [removing duplicate values (that aren't objects) from an array](../tech-interviews/remove-duplicates-from-array.md) - if you initialize a set as an array of values with duplicates, it will remove the duplicates
+- finding the union, intersection and difference between two sets of data
+- as it's required to be implemented using hash tables, it has superior performance to arrays - lookup is instantaneous, while array needs to be traversed to find the item
+- keeping track of binary state associated with an object (for example, state of an accordion slide being closed/open):
 
 ```
 const isOpen = new Set();
@@ -53,6 +54,14 @@ function toggle(menuItem) {
 }
 ```
 
-[Source: TypeOfNaN newsletter](https://buttondown.email/typeofnan/archive/the-javascript-set-object/)  
+## Tradeoffs:
+
+- lacks Array's data manipulation methods such as `sort()`, `map()`, `filter()` and `reduce()`
+- set does not have a way to access a value by a key or index
+  - `keys()` and `values()` will return the same iterator
+  - `entries()` will return the values twice
+  - it's customary to only use `values()` for sets
+
+[Source: TypeOfNaN newsletter](https://buttondown.email/typeofnan/archive/the-javascript-set-object/)
 
 [ECMA Set object specification](https://tc39.es/ecma262/?utm_source=typeofnan&utm_medium=email#sec-set-objects)
