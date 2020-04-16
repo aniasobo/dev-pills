@@ -1,42 +1,39 @@
 # MD formatting - view me raw!
 
-line break with 2 returns  
+line break with 2 returns
 
 **Two ways to bold**
-__This is the other way__
-   
+**This is the other way**
+
 _The two ways to italic_
-*Also like this*
+_Also like this_
 
-***There are THREE ways to both***
+**_There are THREE ways to both_**
 **_second way_**
-*__THIRD WAY__*
+_**THIRD WAY**_
 
-
-
-table | column | anothercol
------- | ------ | ---------
-text in col 1 | text in col 2 | text in col 3
+| table         | column        | anothercol    |
+| ------------- | ------------- | ------------- |
+| text in col 1 | text in col 2 | text in col 3 |
 
 KEYBOARD
-<kbd>Ctrl</kbd>
+<kbd>↵</kbd>
 `⌘`
-        
-links!  
 
-[link to url](url)  
-![link to image](my.img)  
-[link to anchor](#anchor)  
+links!
+
+[link to url](url)
+![link to image](my.img)
+[link to anchor](#anchor)
 [link to local file](local-folder/file.txt)
 autolink: <http://testwebsite.com/> (equivalent to `[http://testwebsite.com/](http://testwebsite.com/)`)
 autolink email addresses like so: <foo@bar.com>
-
 
 ```
 code snippet
 ```
 
-`inline code snippet` 
+`inline code snippet`
 
 ```diff
 code with edits highlighted
@@ -45,33 +42,34 @@ code with edits highlighted
 ```
 
 > this is a blockquote
-> > OMG a nested blockquote!  
-> and back to what I was just quoting
+>
+> > OMG a nested blockquote!
+> > and back to what I was just quoting
 
 ~strikethrough~
 ~~another way to strikethrough with two tildes~~
 
-* nice list
-* with dots
+- nice list
+- with dots
 
-+ another way to list
-+ with plus signs
+* another way to list
+* with plus signs
 
 - also hyphens
 - can make lists
 - [ ] any list can have a checkbox
-- [x] tick it once done 
+- [x] tick it once done
 
 ### How to make a nested list
 
-* start with your top-level list item
-   * indent the nested item
-   * and the next one
-* now you have a nested list, but
-   1. you can also have a numbered nested list 
+- start with your top-level list item
+  - indent the nested item
+  - and the next one
+- now you have a nested list, but
+  1.  you can also have a numbered nested list
       - that list can have its own child list
       - with n items
-   2. this one can have a todo list like so:
+  2.  this one can have a todo list like so:
       - [x] make a list
       - [x] add some levels to it
       - [ ] don't make it meta
@@ -84,16 +82,16 @@ Is populated automatically - just start adding anchor links to your headers as a
 
 horizontal rules:
 
-***
+---
 
 or:
 
-- - - 
+---
 
 also:
 
-*********
-     
+---
+
 ```
 project structure
 │   README.md
@@ -108,14 +106,13 @@ project structure
 │   │  App.js
 │   │  index.js
 │   └───tests
-│   │      App.spec.js  
+│   │      App.spec.js
 │   └───components
-│   │      Component.js  
+│   │      Component.js
 │   └───anotherNestedFolder
-│   │      nestedFile.js  
+│   │      nestedFile.js
 ```
 
 [MORE HERE](https://learnxinyminutes.com/docs/markdown/)
 
 [EVEN MORE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
