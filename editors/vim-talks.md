@@ -47,19 +47,17 @@
 
 **Search**
 
-`*` search forward for word under cursor
-
-`#` search back for word under cursor
-
-`gd` go to local declaration
-
-`/` <kbd>ENTER</kbd> - search for last used pattern
-
-`?` <kbd>ENTER</kbd> - search back for last used pattern
-
-`[count]n` repeat last search `[count]` times
-
-`[count]N` repeat last search back `[count]` times
+| Trigger                   | Search action                           |
+| ------------------------- | --------------------------------------- |
+| `/{patt}[/]`<kbd>↵</kbd>  | search for `{patt}`                     |
+| `/` <kbd>↵</kbd>          | search for last used pattern            |
+| `?{patt}[?]` <kbd>↵</kbd> | search back for `{patt}`                |
+| `?` <kbd>↵</kbd>          | search back for last used pattern       |
+| `[count]n`                | repeat last search `[count]` times      |
+| `[count]N`                | repeat last search back `[count]` times |
+| `*`                       | search forward for word under cursor    |
+| `#`                       | search back for word under cursor       |
+| `gd`                      | go to local declaration                 |
 
 **Tags**
 
@@ -83,6 +81,8 @@
 
 **Using buffers**
 
+> Creating buffers for all files you use should be your first step in vim.
+
 > Tabs for window containers
 >
 > Windows for buffer viewports
@@ -103,10 +103,22 @@ Use the buffer-centric workflow instead of traditional tabs.
 | `:argl {files}`    | make a local arg copy via `{files}` |
 | `:args`            | print out all args                  |
 
-**Buffers** - every single file you've opened in vim
+**Buffers** = every single file you've opened in vim
 
-**Arguments** - exactly the files you opened when you started vim
-
-add windows commands here
+**Arguments** = exactly the files you opened when you started vim
 
 TABS ARE FOR WINDOW COLLECTIONS
+
+<kbd>CTRL</kbd> `Ww` directories?
+
+<kbd>CTRL</kbd> `W` close preview window?
+
+<kbd>CTRL</kbd> `Wo` - make current window the only window
+
+`:vert_sf` - split vertically
+
+`:vert_sall` - vertically split all
+
+`:sall` - split all??
+
+`gt` navigate through tabs
