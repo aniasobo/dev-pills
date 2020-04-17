@@ -122,3 +122,42 @@ TABS ARE FOR WINDOW COLLECTIONS
 `:sall` - split all??
 
 `gt` navigate through tabs
+
+---
+
+## Mastering the Vim language by Chris Toomey
+
+[LINK](https://www.youtube.com/watch?v=wlR5gYd6um0&feature=youtu.be)
+
+**SYNTAX of the Vim language**
+
+- commands are repeatable & undoable
+
+Verb + Noun
+
+`dw` = delete (v) + word (n)
+
+**Verbs**
+
+| VERBS in Vim | Action          |
+| ------------ | --------------- |
+| `d`          | Delete          |
+| `c`          | Change          |
+| `>`          | Indent          |
+| `v`          | Visually select |
+| `y`          | Yank (copy)     |
+| `f`          | Find            |
+| `t`          | Find            |
+
+**Nouns/Motions/Text objects**
+
+| NOUNS in Vim | Action           | Type     |
+| ------------ | ---------------- | -------- |
+| `w`          | Word             | noun     |
+| `b`          | Back             | motion   |
+| `2j`         | down 2 lines     | motion   |
+| `iw`         | inner word       | text obj |
+| `it`         | inner tag (html) | text obj |
+| `i`          | inner quotes     | text obj |
+| `ip`         | inner paragraph  | text obj |
+| `as`         | a sentence       | text obj |
