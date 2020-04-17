@@ -49,6 +49,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Authentication](#authentication)
 - [Computer science](#computer-science)
 - [Electrical engineering](#electrical-engineering)
+  - [Misc hardware](#misc-hardware)
   - [Raspberry Pi](#raspberry-pi)
   - [JavaScript-controlled bots](#javascript-controlled-bots)
 - [Misc](#misc)
@@ -419,6 +420,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 ---
 
 # Electrical engineering
+
+## Misc hardware
+
+- [Sleep hacking projects](hardware/sleep-sensor.md)
+
+---
 
 ## Raspberry Pi
 
