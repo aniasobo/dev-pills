@@ -72,6 +72,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Rubocop scaffold](testing/rubocop.yml)
 - [FactoryBot](testing/factorybot.md)
 - [Factories: `build` vs `create`](testing/factory-build-create.md)
+- [Factories: `let` vs `let!`](testing/factorybot-let.md)
 
 ## JavaScript testing
 
