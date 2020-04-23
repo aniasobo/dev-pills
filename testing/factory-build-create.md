@@ -2,8 +2,7 @@
 
 `create` persists the instance of the model; less performant because writes to db; good for testing things with callbacks on creation; will call the Active Record validations.
 
-`build` only keeps the instance in memory; does not call `save!` so the Active Record validations won't run; no db access required.
-
+`build` is the equivalent of `Class.new` - it only keeps the instance in memory; does not call `save!` so the Active Record validations won't run; no db access required. To test after create callbacks, use `build`, then run `factory_instance.save` after the `expect`.
 
 ```
 before(:each) do
@@ -13,3 +12,17 @@ before(:each) do
 end
 ```
 
+## Testing after create callbacks with `build` and `save`:
+
+```
+describe '#send_emails' do
+  context 'when stuff happens' do
+    let(:person) { create :person }
+    it 'sends email to person' do
+      thing = build(:thing)
+      expect(Email).to receive(:send_thing_to_person)
+      thing.save
+    end
+  end
+end
+```
