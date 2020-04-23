@@ -41,7 +41,7 @@ end
 
 ---
 
-## Structuring and refactoring your suite
+## Refactoring
 
 Start with creating local variables.
 

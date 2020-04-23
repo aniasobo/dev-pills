@@ -1,8 +1,8 @@
 # FactoryBot - `let` vs `let!`
 
-Factories created with `let` only come to existence when they're **referred to**.
-
-Factories created with `let!` come into existence every time.
+- Factories created with `let` only come to existence when they're **referred to**.
+- Factories created with `let!` come into existence every time.
+- `let` and `let!` can only be called in a `context`/`describe` block and not an `it` block; create variables within `it` blocks with regular variable assignment - see [the refactoring section](../testing/factorybot.md#refactoring)
 
 ```
 context 'thing' do
