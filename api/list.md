@@ -17,3 +17,7 @@
 
 * [Breaking Bad API](https://github.com/timbiles/Breaking-Bad--API)
 * [Noops API](https://github.com/noops-challenge/)
+
+## Randomised/fake data
+
+* [Random user generator API](https://randomuser.me/documentation)
