@@ -133,3 +133,88 @@ for step in range(steps):
 - its value should keep reducing the longer the model trains
 - number of steps and the learning rate influence how long the model will run for
 - learning rate depends on the problem; independent of the number of steps, but you need both to get to the optimal solution
+
+---
+
+## Image processing & model training
+
+Adding Keras to project:
+
+```
+import tensorflow as tf
+from tensorflow import keras
+```
+
+- Keras has example datasets, like: `keras.datasets.boston_housing` , `keras.datasets.cifar` contains images, `keras.datasets.mnist` (also a fashion version)
+- stages: 1. training the model with input data from x and y, then 2. x test and y test to test the model
+- models use floating point numbers, not integers, to train `x_train = x_train/255.0 # cast ints into floating points`
+- use Keras APIs and sequentials to define your model:
+
+```
+from tensorflow.keras import Sequential # the class that describes the models
+# layers of the model will be added sequentially
+from tensorflow.keras.layers import Dense, Flatten
+# flatten the image out into a one dimensional array, connect all layers with Dense
+
+# specify the model type
+model = Sequential()
+
+# add input shape in px
+model.add(Flatten(input_shape=(28,28)))
+model.add(Dense(units=256,activation='relu')) # add 256 neurons to the layer, each neuron will see the whole picture
+# rectified limited unit
+model.add(Dense(units=10, activation='softmax')) # connect the 256 from the first layer to the 10 on this layer
+# softmax normalizes the output of the 10 units to 1
+
+model.summary() # what is going on in the model
+# no data, weigths or biases yet
+```
+
+- reLU is so fast because it only returns 0 or x depending on which one it's closer to; sigmoid takes more time because it finds the proper value and its exponents (CPU requires more iterations while reLU takes 1)
+- each neuron we add to the first layer will see each pixel, i.e. the whole picture
+- the Dense layer connects all the neurons to all the pixels
+- the second Dense layer connects all neurons from the previous layer to all of its neurons
+- 10\*256 weights + 10 biases - the numbers used to preserve the state
+
+### solver & loss function
+
+- solver - must contain the manner of getting to the solution and the loss function
+- keras and TS function can be mixed and matched, like in the loss func
+
+```
+model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+# the solver func
+# adam is a solver type
+# metrics takes an array of traits to measure by
+```
+
+### Training a model
+
+- `epoch` - event of showing the model the totality of the input data
+- to start the model training: `model.fit(x_train, y_train, epochs=20)`
+- running again with test data `model.fit(x_train, y_train, epochs=10, validation_data=(x_test, y_test))`
+- check the history of the model training:
+
+```
+h=model.history.history # execute
+
+plt.plot(h['accuracy'])
+plt.plot(h['val_accuracy'])
+# generates a graph
+```
+
+- add multiple layers of neurons with trainign data to make a better model - layers can have less and less neurons
+
+```
+model = Sequential()
+
+model.add(Flatten(input_shape=(28,28)))
+model.add(Dense(units=20, activation='relu'))
+model.add(Dense(units=20, activation='relu'))
+model.add(Dense(units=16, activation='relu'))
+model.add(Dense(units=10, activation='softmax'))
+```
+
+---
+
+## Convolution & pooling
