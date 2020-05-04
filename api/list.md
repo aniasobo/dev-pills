@@ -20,6 +20,7 @@
 ## Randomised/fake data
 
 - [Random user generator API](https://randomuser.me/documentation)
+- [Mock API](https://github.com/coryhouse/mock-api-example)
 
 ## Datasets
 
