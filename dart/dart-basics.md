@@ -21,6 +21,10 @@
   - [`switch` and `case`](#switch-and-case)
   - [Loops](#loops)
 - [Classes](#classes)
+  - [Constructors](#constructors)
+  - [Inheritance](#inheritance)
+  - [factories and named constructors](#factories-and-named-constructors)
+  - [Enumerators](#enumerators)
 
 ---
 
@@ -357,3 +361,46 @@ animals.forEach((animal) => animal.makeSound());
 ---
 
 ## Classes
+
+- use the `class` keyword to define a new class
+- keyword `new` is inferred and therefore redundant - it's also a bad practice to use it
+
+```diff
+class Cat {
+  String name;
+  String color;
+}
+
+// instance of Cat:
+- Cat nora = new Cat();
++ Cat nora = Cat();
+
+nora.name = 'Nora';
+nora.color = 'tabby';
+```
+
+### Constructors
+
+```
+  class Animal {
+-    String name;
+-    String type;
++    String name, type;
+
+// default constructor
+-    Animal(String name, String type) {
+-      this.name = name;
+-      this.type = type;
+-    }
++   Animal(this.name, this.type);
+  }
+```
+
+### Inheritance
+
+- `class Cat extends Mammal {}`
+- superclass plus new functionality == class inheritance
+
+### factories and named constructors
+
+### Enumerators
