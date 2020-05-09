@@ -1,4 +1,30 @@
-# Dart notes from Eric Windmill _Flutter in Action_
+# Dart notes from Eric Windmill _Flutter in Action_ <!-- omit in toc -->
+
+- [Basics](#basics)
+- [`main`](#main)
+- [Functions](#functions)
+- [Data structures](#data-structures)
+- [String interpolation](#string-interpolation)
+- [`for` loops](#for-loops)
+- [Lists](#lists)
+- [Libraries](#libraries)
+- [Type system](#type-system)
+- [Comments](#comments)
+- [`null`](#null)
+- [`final`, `const` and `static`](#final-const-and-static)
+- [Operators](#operators)
+- [Null-aware operators](#null-aware-operators)
+  - [`?.`](#)
+  - [`??`](#-1)
+  - [`??=`](#-2)
+- [Control flow](#control-flow)
+  - [`if` and `else`](#if-and-else)
+  - [`switch` and `case`](#switch-and-case)
+  - [Loops](#loops)
+
+---
+
+## Basics
 
 - strongly typed language:
   - every variable should have a type
@@ -10,6 +36,8 @@
 - everything is an object and inherits from the Object class - that includes numbers; there are no primitives in Dart
 - support for top-level functions and variables, often called _library members_
 - Dart is _lexically_ scoped
+
+---
 
 ## `main`
 
@@ -25,11 +53,15 @@ void main() {
 - `void` means the function won't return anything
 - `print` is a function that always prints to console
 
+---
+
 ## Functions
 
 - Must have return type declared
 - expression surrounded by `{}`
 - statements end with `;`
+
+---
 
 ## Data structures
 
@@ -37,11 +69,15 @@ void main() {
 - `String` - surrounded by single quotes?
 - `int`
 
+---
+
 ## String interpolation
 
 `print('Hello, $name');`
 
 Also done with `${}`
+
+---
 
 ## `for` loops
 
@@ -51,19 +87,21 @@ for (var myVar in myList) {
 }
 ```
 
+---
+
 ## Lists
 
 ```
 List<String> listName = ['one', 'two',];
 ```
 
+---
+
 ## Libraries
 
 - `dart:core` is loaded by default
 
 ---
-
-# Dart intro
 
 ## Type system
 
@@ -105,6 +143,8 @@ dynamic myNum = 'Hello'; // this could be anything
 
 - dynamic typing is mostly used for Maps, for example when working on JSONs: `Map<String, dynamic> json;`
 
+---
+
 ## Comments
 
 ```
@@ -120,10 +160,144 @@ it's against Dart convention to use them
 */
 ```
 
+---
+
 ## `null`
 
 - `null` is an object
 - any type var can be assinged to `null`
 - unassigned but instantiated objects point to `null` by default
 
+---
+
 ## `final`, `const` and `static`
+
+- keywords for variable types
+- `final` and `const` are immutable
+- `final` variables can be declared before they're set at the class level - usually in the constructor
+- `const` variables won't be declared before they're assigned, but they're always the same/immutable at compile time
+
+```
+// acceptable:
+
+const String name = 'Anna';
+
+// not acceptable, because value could change at compile time:
+
+const String name = 'Anna $lastname';
+```
+
+- `const` use is encouraged due to performance benefits
+- `static` modifier is used only in classes
+
+---
+
+## Operators
+
+| Description              | Operators                                                            |
+| ------------------------ | -------------------------------------------------------------------- |
+| Arithmetic               | `*` `/` `%` `~/` `+` `-`                                             |
+| Relational and type test | `>=` `>` `<=` `<` `as` `is` `is!`                                    |
+| Equality                 | `==` `!=`                                                            |
+| Logical and/or           | `&&` `||`                                                            |
+| Assignment               | `=` `*=` `/=` `~/=` `%=` `+=` `-=` `<<=` `>>=` `&=` `^=` `|=` `??=`  |
+| Unary                    | `expr++` `expr--` `.` `?.` `-expr` `!expr` `~expr` `++expr` `--expr` |
+
+- `~/` integer division operator; never returns a decimal, but rounds up to the nearest int
+- `as` is a keyword that typecasts
+- `is` and `is!` check that objects are the same type; equivalent to `==` and `!=`
+- the keyword `expr` can be ignored - only for readability purposes
+
+---
+
+## Null-aware operators
+
+- operators that bypass `null` values without throwing errors
+- `?.`, `??` and `??=`
+
+### `?.`
+
+- assign to `null` without throwing an error
+- will be an error to call on `null` without this operator
+
+```diff
+  void getUserAge(String username) async {
+    final request = UserRequest(username);
+    final response = await request.get();
+    User user = new User.fromResponse(response);
+-   if (user != null) {
+-     this.userAge = user.age;
+-   }
++   this.userAge = user?.age;
+  // etc
+}
+```
+
+### `??`
+
+- assign fallback/default value
+- use the fallback value if `null`
+
+```
+void getUserAge(String username) async {
+  final request = new UserRequest(username);
+  final response = request.get();
+  User user = new User.fromResponse(response);
+  this.userAge = user.age ?? 18; // if user age is null, fall back to 18
+// etc
+}
+```
+
+### `??=`
+
+- assign this value if the object is `null`
+- if not `null`, return the object as is
+- makes code more concise
+
+```
+int x = 5;
+
+// will not be reassinged because x already has value
+x ??= 3;
+```
+
+---
+
+## Control flow
+
+### `if` and `else`
+
+- Dart supports `if`, `else if` and `else`
+- use `&&` and `||` for conditions
+- explicit `true` and `false`
+
+### `switch` and `case`
+
+- `switch` for many conditions for the same value
+- compare `int`s and `String`s with `==`
+- compare values of the same type
+- always end `case` with explicit `break` or `return` statement
+- omit explicit `break` to go through many cases in order
+- `return` immediately ends the execution and breaks out of the `switch` statement
+- `throw` will throw an error and exit
+- `continue` with a label - additional logic:
+
+```
+String animal = 'tiger';
+
+switch(animal) {
+  case 'tiger:
+    print('its a tiger');
+    continue alsoCat;
+  case 'lion':
+    print('its a lion');
+    continue alsoCat;
+  alsoCat:
+  case 'cat':
+    print('its a cat');
+    break;
+    // the string 'its a cat' will be printed out with each case
+}
+```
+
+### Loops
