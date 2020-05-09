@@ -5,7 +5,6 @@
 - [Functions](#functions)
 - [Data structures](#data-structures)
 - [String interpolation](#string-interpolation)
-- [`for` loops](#for-loops)
 - [Lists](#lists)
 - [Libraries](#libraries)
 - [Type system](#type-system)
@@ -21,6 +20,7 @@
   - [`if` and `else`](#if-and-else)
   - [`switch` and `case`](#switch-and-case)
   - [Loops](#loops)
+- [Classes](#classes)
 
 ---
 
@@ -35,7 +35,7 @@
 - supports single inheritance
 - everything is an object and inherits from the Object class - that includes numbers; there are no primitives in Dart
 - support for top-level functions and variables, often called _library members_
-- Dart is _lexically_ scoped
+- Dart is _lexically_ scoped - each code block has access to the variables "above" it
 
 ---
 
@@ -61,6 +61,43 @@ void main() {
 - expression surrounded by `{}`
 - statements end with `;`
 
+Basic function:
+
+```
+void main() {
+
+}
+```
+
+- function signature follows this pattern: `ReturnType functionName(ArgumentType arg)`
+- function with only one expression can be written as a single-line arrow function: `String makeGreeting(String name) => 'Hello, $name';`
+- parameters:
+  - positional parameters (optional, denoted by being inside a pair of `[]`)
+  - named parameters (optional by default unless `@required`)
+  - optional positional and named parameters
+  - combination of the above
+  - default parameter value denoted by `=`
+
+```
+// two named parameters in a function call:
+debugger(message: 'A bug!', lineNum: 44);
+
+// named parameters in a function declaration:
+void debugger({String message, int lineNum}) {
+  // bla
+}
+
+// non-optional named parameters:
+Widget build({@required Widget child}) { // use a Dart library called meta to use @required
+  // bla
+}
+
+// default value of 5
+addSomeNums(int x, int y, [int z = 5]) => x + y + z;
+```
+
+- Dart supports higher-order functions (functions that take functions as parameters and/or return functions)
+
 ---
 
 ## Data structures
@@ -76,16 +113,6 @@ void main() {
 `print('Hello, $name');`
 
 Also done with `${}`
-
----
-
-## `for` loops
-
-```
-for (var myVar in myList) {
-  myFunction(myVar);
-}
-```
 
 ---
 
@@ -301,3 +328,32 @@ switch(animal) {
 ```
 
 ### Loops
+
+```
+for (var myVar in myList) {
+  myFunction(myVar);
+}
+```
+
+- `for`
+- `for-in`
+- `while`
+- `do while`
+- `forEach`:
+  - method for iterables, like Lists
+  - creates new scope
+  - cannot use return values
+  - best for modifying objects
+  - is a higher-order function
+
+```
+List<String> animals = ['dog', 'cat', 'monkey'];
+
+animals.forEach((animal) => animal.makeSound());
+```
+
+- loops in Dart use the `break` and `continue` keywords
+
+---
+
+## Classes
