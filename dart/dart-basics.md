@@ -381,7 +381,7 @@ nora.color = 'tabby';
 
 ### Constructors
 
-```
+```diff
   class Animal {
 -    String name;
 -    String type;
