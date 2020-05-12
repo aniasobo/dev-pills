@@ -18,6 +18,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
   - [Vim](#vim)
 - [APIs](#apis)
 - [JavaScript](#javascript)
+  - [Web APIs](#web-apis)
 - [Typescript](#typescript)
 - [Node.js](#nodejs)
 - [JavaScript frameworks and libraries](#javascript-frameworks-and-libraries)
@@ -130,8 +131,8 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 - [JS basics and overview](javascript/js-basics.md)
 - [Functional programming sample](javascript/export-functions.md)
+- [Pure functions](cs/pure-functions.md)
 - [JS resources](javascript/js-resources.md)
-- [JS for React](javascript/js-react.md)
 - [Logical operators in JS](javascript/logical-operators.md)
 - [Prototyping and inheritance](javascript/inheritance.md)
 - [OO and inheritance in JS](javascript/oo.md)
@@ -139,21 +140,25 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Destructuring](javascript/destructuring.md)
 - [ES6 functions and destructuring](javascript/es6-fun.md)
 - [ES6 Rest & Spread](javascript/rest-spread.md)
+- [Arrow functions](javascript/arrow.md)
 - [Nested functions](javascript/nested-functions.md)
+- [Fetching data with axios vs fetch()](javascript/axios-fetch.md)
 - [Currying](javascript/currying.md)
 - [Hoisting](javascript/hoisting.md)
 - [Closures](javascript/closures.md)
-- [JS Date module](javascript/date.md)
-- [Debugging JS](javascript/debugging.md)
-- [Arrow functions](javascript/arrow.md)
-- [Error handling](javascript/error-handling.md)
 - [Promises](javascript/promises.md)
-- [Query selectors](javascript/query-selectors.md)
-- [Pure functions](cs/pure-functions.md)
+- [Debugging JS](javascript/debugging.md)
+- [Error handling](javascript/error-handling.md)
 - [Export-import cheatsheet](javascript/exports-cheatsheet.md)
-- [Fetching data with axios vs fetch()](javascript/axios-fetch.md)
 - [`const`, `let` and `var`](javascript/const-let-var.md)
 - [`Set` object](javascript/set.md)
+- [JS Date module](javascript/date.md)
+- [JS for React](javascript/js-react.md)
+
+## Web APIs
+
+- [Query selectors](javascript/query-selectors.md)
+- [`window.location`](javascript/window-location.md)
 
 ---
 
