@@ -454,6 +454,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Naming good practice](misc/naming.md)
 - [Documenting projects](misc/documentation.md)
 - [Folder structure conventions](misc/folder-structure-conventions.md)
+- [Headless CMS](misc/headless-cms.md)
 - [Web Design](misc/design.md)
 - [Environment fixes](misc/environment-fixes.md)
 - [READMEs](misc/readmes.md)
