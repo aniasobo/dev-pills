@@ -6,6 +6,7 @@
 - [Emvi](https://emvi.com/)
 - [React Styleguidist](https://react-styleguidist.js.org/)
 - [Docusaurus](https://docusaurus.io/)
+- [Slate - static API documentation generator](https://github.com/slatedocs/slate)
 
 ## Wikis:
 
