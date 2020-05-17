@@ -35,6 +35,7 @@
 
 ## Form handling
 
+- [React Hook Form](https://react-hook-form.com/)
 * [Formik](https://github.com/jaredpalmer/formik)
 
 
