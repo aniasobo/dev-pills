@@ -21,3 +21,4 @@
 
 - [Gridsome - a Vue-based framework](https://gridsome.org/)
 - [eleventy - static site generator](https://www.11ty.dev/)
+- [Vuesome - Vue-powered Static Site Generator](https://vuepress.vuejs.org/)
