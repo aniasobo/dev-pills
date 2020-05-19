@@ -6,6 +6,7 @@
 - [BassCSS](https://basscss.com/) `<link href="https://unpkg.com/basscss@8.0.2/css/basscss.min.css" rel="stylesheet">`
 - [Tailwind](https://tailwindcss.com/) `<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">` - **recommended installation via npm**
 - [Water CSS](https://watercss.netlify.app/)
+- [New.css - a classless css framework](https://github.com/xz/new.css)
 
 **other**
 
