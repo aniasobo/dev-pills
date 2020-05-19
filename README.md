@@ -41,6 +41,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
   - [Miscallaneous tips and tricks](#miscallaneous-tips-and-tricks)
   - [CSS resources](#css-resources)
 - [Postgres](#postgres)
+- [Go](#go)
 - [Rust](#rust)
 - [WebAssembly](#webassembly)
 - [Mobile developent](#mobile-developent)
@@ -337,6 +338,12 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Postgres
 
 - [Command line postgres](postgres/commands.md)
+
+---
+
+# Go
+
+- [Learning resources](go/learning-go.md)
 
 ---
 
