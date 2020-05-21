@@ -26,3 +26,4 @@
 ## Datasets
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
