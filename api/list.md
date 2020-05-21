@@ -3,6 +3,7 @@
 ## The mega source:
 
 - [Aggregator of public APIs](https://public-apis.xyz/)
+- also good source but smaller: [collection of unofficial APIs](https://github.com/Rolstenhouse/unofficial-apis)
 
 ## Random APIs to use for fun side projects
 
