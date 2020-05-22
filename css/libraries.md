@@ -7,6 +7,7 @@
 - [Tailwind](https://tailwindcss.com/) `<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">` - **recommended installation via npm**
 - [Water CSS](https://watercss.netlify.app/)
 - [New.css - a classless css framework](https://github.com/xz/new.css)
+- [Blunt - simple layouts only](https://github.com/f-prime/Blunt)
 
 **other**
 
