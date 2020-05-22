@@ -12,6 +12,7 @@
 - [List of animal APIs](https://www.programmableweb.com/category/animals/api)
 - [Jservice](http://jservice.io/) (Jeopardy trivia)
 - [Studio Ghibli API](https://ghibliapi.herokuapp.com/)
+- [Indian Cities API](https://github.com/fayazara/Indian-Cities-API) - all Indian cities in a clean JSON
 
 ## Cool API repos to check out for API creation
 
