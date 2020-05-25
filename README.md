@@ -278,6 +278,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Controllers writeup](rails/controllers.md)
 - [Controller - standard CRUD implementation](rails/controller_template.rb)
 - [ActiveRecord Models](rails/model.md)
+- [Service objects](rails/services.md)
 
 ---
 
