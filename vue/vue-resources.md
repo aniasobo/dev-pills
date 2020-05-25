@@ -27,6 +27,7 @@ _resources sourced from [this tutorial](https://product.voxmedia.com/2018/3/1/16
 - [Gridsome - a Vue-based framework](https://gridsome.org/)
 - [eleventy - static site generator](https://www.11ty.dev/)
 - [Vuesome - Vue-powered Static Site Generator](https://vuepress.vuejs.org/)
+- [Nuxt - a Vue framework](https://github.com/nuxt)
 
 ## with Python
 
