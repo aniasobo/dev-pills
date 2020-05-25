@@ -275,6 +275,9 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [`respond_to format.js` API](rails/respond-to.md)
 - [Active Record - `scope`](rails/active-record-scope.md)
 - [Calling things on Active Record models](rails/active-record-model-calls.md)
+- [Controllers writeup](rails/controllers.md)
+- [Controller - standard CRUD implementation](rails/controller_template.rb)
+- [ActiveRecord Models](rails/model.md)
 
 ---
 
