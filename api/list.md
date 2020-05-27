@@ -1,9 +1,10 @@
 # List of cool RESTful APIs
 
-## The mega source:
+## The mega sources:
 
 - [Aggregator of public APIs](https://public-apis.xyz/)
 - also good source but smaller: [collection of unofficial APIs](https://github.com/Rolstenhouse/unofficial-apis)
+- [Public APIs to use in software development](https://github.com/public-apis/public-apis)
 
 ## Random APIs to use for fun side projects
 
