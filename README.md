@@ -342,6 +342,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Postgres
 
 - [Command line postgres](postgres/commands.md)
+- [Query performance](postgres/performance.md)
 
 ---
 
