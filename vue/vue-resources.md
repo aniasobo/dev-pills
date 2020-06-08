@@ -15,6 +15,12 @@
 
 _resources sourced from [this tutorial](https://product.voxmedia.com/2018/3/1/16801140/building-a-modern-single-page-app-with-vue-and-rails) on building a single-page app in Vue and Rails_
 
+### Vue Mastery
+
+- [Begginer path](https://www.vuemastery.com/courses-path/beginner/)
+- [Intermediate path](https://www.vuemastery.com/courses-path/intermediate/)
+- [Advanced path](https://www.vuemastery.com/courses-path/advanced/)
+
 ### Elsewhere:
 
 - [A friendly introduction to Vue](https://appendto.com/2016/11/a-friendly-introduction-to-vue-js/)
