@@ -392,6 +392,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Python setup - best practices](setup/python.md)
 - [Full-stack demo](setup/medium-demo.md)
 - [Python with Vue frontend - links at the bottom](vue/vue-resources.md)
+- [ML projects](setup/ml.md)
 
 ---
 
