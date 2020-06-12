@@ -1,5 +1,19 @@
 # Vue.JS resources
 
+- [Vue.JS resources](#vuejs-resources)
+  - [Learning Vue](#learning-vue)
+    - [Free Laracasts courses:](#free-laracasts-courses)
+    - [On Frontend Masters:](#on-frontend-masters)
+    - [Vue Mastery](#vue-mastery)
+    - [Elsewhere:](#elsewhere)
+  - [Libraries and frameworks:](#libraries-and-frameworks)
+  - [Vue and Python projects](#vue-and-python-projects)
+  - [Misc Vue stuff](#misc-vue-stuff)
+
+---
+
+## Learning Vue
+
 **[Official Vue getting started docs](https://vuejs.org/v2/guide/)**
 
 ### Free Laracasts courses:
@@ -28,6 +42,8 @@ _resources sourced from [this tutorial](https://product.voxmedia.com/2018/3/1/16
 - [Vue.js Essentials - 3 Course Bundle on Udemy](https://www.udemy.com/course/vuejs-2-essentials/)
 - [Vue JS Essentials with Vuex and Vue Router on Udemy](https://www.udemy.com/course/vue-js-course/)
 
+---
+
 ## Libraries and frameworks:
 
 - [Gridsome - a Vue-based framework](https://gridsome.org/)
@@ -35,9 +51,17 @@ _resources sourced from [this tutorial](https://product.voxmedia.com/2018/3/1/16
 - [Vuesome - Vue-powered Static Site Generator](https://vuepress.vuejs.org/)
 - [Nuxt - a Vue framework](https://github.com/nuxt)
 
-## with Python
+---
+
+## Vue and Python projects
 
 - [Developing a single-page app with Flask and Vue](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/)
 - [flask-vue-spa](https://github.com/oleg-agapov/flask-vue-spa)
 - [Build a CRUD app using Vue and Django](https://codesource.io/build-a-crud-application-vue-and-django/)
 - [Building modern applications with Django and Vue](https://auth0.com/blog/building-modern-applications-with-django-and-vuejs/)
+
+---
+
+## Misc Vue stuff
+
+- [Awesome Vue 3 - a curated list of awesome things related to Vue 3](https://github.com/blacksonic/awesome-vue-3)
