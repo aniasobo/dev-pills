@@ -6,6 +6,8 @@
 - [FastAI](https://github.com/fastai/fastai) - Linux only, works with PyTorch
 - > PyTorch and FastAI are deeply connected—you can’t become really proficient at using fastai if you don’t know PyTorch well, too - [Source](https://course.fast.ai/)
 
+---
+
 ## Keras tutorials
 
 - [Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
@@ -14,13 +16,17 @@
 
 - [Udemy course](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/)
 
-## For NLP, Computer Vision and Audio
+## PyTorch
+
+- [The Incredible PyTorch - curated list of resources](https://github.com/ritchieng/the-incredible-pytorch)
+
+## NLP, Computer Vision and Audio
 
 - Object detection: [Detectron](https://github.com/facebookresearch/Detectron)
 - computer vision: [SimpleCV](http://simplecv.org/)
 - optical language recognition: [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-## For reinforcement learning and training models
+## Reinforcement learning and training models
 
 - [Open AI Gym](https://gym.openai.com/)
 - [Unity ML Agents](https://unity3d.com/how-to/unity-machine-learning-agents)
