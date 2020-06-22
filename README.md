@@ -443,6 +443,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [RegEx](cs/regex.md)
 - [Finite State Machine pattern](cs/finite-state-machine.md)
 - [State as a concept](cs/state.md)
+- [Design patterns](cs/design-patterns.md)
 
 ---
 
