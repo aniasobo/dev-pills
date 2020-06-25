@@ -14,6 +14,7 @@
 - [Jservice](http://jservice.io/) (Jeopardy trivia)
 - [Studio Ghibli API](https://ghibliapi.herokuapp.com/)
 - [Indian Cities API](https://github.com/fayazara/Indian-Cities-API) - all Indian cities in a clean JSON
+- [Package tracking API for Canada Post, FedEx, USPS, UPS and SkyNet](https://package.place/)
 
 ## Cool API repos to check out for API creation
 
