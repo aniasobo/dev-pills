@@ -113,6 +113,10 @@ project structure
 │   │      nestedFile.js
 ```
 
+        ┌─────────┐
+          Box drawing chars
+        └─────────┘
+
 [MORE HERE](https://learnxinyminutes.com/docs/markdown/)
 
 [EVEN MORE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
