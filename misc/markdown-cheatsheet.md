@@ -93,7 +93,6 @@ also:
 ---
 
 ```
-project structure
 │   README.md
 │   .env
 │   .gitignore
@@ -113,9 +112,9 @@ project structure
 │   │      nestedFile.js
 ```
 
-        ┌─────────┐
-          Box drawing chars
-        └─────────┘
+┌────────────────────┐
+│ Box drawing chars │
+└────────────────────┘
 
 [MORE HERE](https://learnxinyminutes.com/docs/markdown/)
 
