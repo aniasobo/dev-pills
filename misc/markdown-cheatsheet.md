@@ -41,10 +41,38 @@ code with edits highlighted
 + good code
 ```
 
+Another way to make a code block in Markdown is to indent every line of the
+block by at least 4 spaces or 1 tab.
+
+This is a normal paragraph:
+
+    This is a code block.
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+
+A code block continues until it reaches a line that is not indented
+(or the end of the article).
+
 > this is a blockquote
 >
 > > OMG a nested blockquote!
 > > and back to what I was just quoting
+
+Blockquotes can contain other Markdown elements, including headers, lists,
+and code blocks:
+
+> ## Header in a quote can you believe that shit
+>
+> 1.  Firstly
+> 2.  Lastly
+>
+> Here's some code wow:
+>
+>     return shell_exec("echo $input | $markdown_script");
 
 ~strikethrough~
 ~~another way to strikethrough with two tildes~~
@@ -117,5 +145,7 @@ also:
 └────────────────────┘
 
 [MORE HERE](https://learnxinyminutes.com/docs/markdown/)
+
+[AND MORE](https://raw.githubusercontent.com/mxstbr/markdown-test-file/master/TEST.md)
 
 [EVEN MORE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
