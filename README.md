@@ -495,3 +495,4 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [How to remove duplicate values from an array?](tech-interviews/remove-duplicates-from-array.md)
 - [Kate's interview form](tech-interviews/interview-form.md)
 - [Advanced software architecture interviews](tech-interviews/scaling-systems.md)
+- [Researching the employers](tech-interviews/research.md)
