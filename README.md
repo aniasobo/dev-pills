@@ -64,6 +64,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 - [Chrome dev tools](testing/chrome-dev-tools.md)
 - [London vs Chicago schools of TDD](testing/schools.md)
+- [Examples of testing systems](testing/examples.md)
 
 ## RSpec & testing Ruby
 
