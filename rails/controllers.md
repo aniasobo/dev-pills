@@ -30,3 +30,7 @@ Source: Beautiful Controllers in _Growing Rails Applications in Practice_ by Hen
 
 - use ActiveModel-based model classes
 - move code from controller into class inheriting from ActiveType
+
+## Organising controllers to be RESTful
+
+- source: [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
