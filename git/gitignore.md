@@ -26,12 +26,22 @@ node_modules/
 # SimpleCov
 /coverage
 coverage/**/*
+
+# Firebase and Firestore funcs
+functions/*
+!functions/src
+!functions/test
+!functions/jest.config.js
+!functions/package.json
+!functions/tsconfig.json
+!functions/tslint.json
+*.log
 ```
 
 ## Make it global!
 
 1. pick your choices
-2. add them to global configuration `~/.gitignore_global`  
+2. add them to global configuration `~/.gitignore_global`
 3. add it to your fresh git config with `git config --global core.excludesfile ~/.gitignore_global`
 
 ## Remove DS_Store post-push:
