@@ -157,6 +157,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [`Set` object](javascript/set.md)
 - [JS Date module](javascript/date.md)
 - [JS for React](javascript/js-react.md)
+- [Handy JS and TS libraries](javascript/libraries.md)
 
 ## Web APIs
 
