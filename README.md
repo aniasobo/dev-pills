@@ -485,6 +485,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [RESTful APIs](misc/rest.md)
 - [Get a list of browsers from npx](misc/browsers.md)
 - Process: [Example Mapping](misc/example-mapping.md)
+- [Serverless functions](misc/serverless-functions.md)
 
 ---
 
