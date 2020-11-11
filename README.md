@@ -492,6 +492,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 # Tech interviews
 
+- [Preparing for interviews](tech-interviews/interview-prep.md)
 - [Tech interview questions](tech-interviews/questions.md)
 - [Tech test checklist](tech-interviews/tech-test-checklist.md)
 - [Tech test tips](tech-interviews/tech-test-tips.md)
