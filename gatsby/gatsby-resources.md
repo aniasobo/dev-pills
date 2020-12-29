@@ -22,3 +22,4 @@
 - [Gridsome - a Vue-based framework](https://gridsome.org/)
 - [eleventy - static site generator](https://www.11ty.dev/)
 - [Vuesome - Vue-powered Static Site Generator](https://vuepress.vuejs.org/)
+- [nextein - A static site generator based in Next.js](https://github.com/elmasse/nextein)

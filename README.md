@@ -236,7 +236,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ## Next.js
 
-- [Next.js Resources](next/resources.md)
+- [Next.js resources](next/resources.md)
 
 ---
 
