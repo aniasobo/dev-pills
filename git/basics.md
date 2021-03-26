@@ -12,13 +12,13 @@
 
 ### 🔂 Create a branch and switch to it with `git checkout -b branch-name`
 
-### Add current master to your branch:
+### Add current main to your branch:
 
-1. `git checkout master`
+1. `git checkout main`
 2. `git pull`
 3. `git checkout branch-name`
-4. `git merge master`
-   (go the other way to merge your branch to your local master)
+4. `git merge main`
+   (go the other way to merge your branch to your local main)
 
 ### 📌 Pull everything to local repo for offline work with `git fetch origin`
 
@@ -56,17 +56,17 @@ Procedure:
 
 **git rebase tip:**
 
-run `git rebase master` from your branch to move it forward in time. commit first.
+run `git rebase main` from your branch to move it forward in time. commit first.
 
-`git checkout master^` - checks out the parent of master.
+`git checkout main^` - checks out the parent of main.
 
-`git checkout master^^` - checks out the grandparent of master.
+`git checkout main^^` - checks out the grandparent of main.
 
 `git checkout HEAD^` - move back/up a level in the commit tree (ie go back in time with commits).
 
 `git checkout HEAD~4` - move back four times.
 
-reassign a branch to a commit in the past: `git branch -f master HEAD~4` - forces master to the commit that is 4 parents behind HEAD.
+reassign a branch to a commit in the past: `git branch -f main HEAD~4` - forces main to the commit that is 4 parents behind HEAD.
 
 `git reset HEAD~1` - moves branch back a commit as if the changes never happened; good solution for **local branches**
 
@@ -76,10 +76,10 @@ reassign a branch to a commit in the past: `git branch -f master HEAD~4` - force
 
 interactive rebase: `git rebase -i HEAD~4` - vim window with the last 4 commits behind HEAD opens up and allows you to drag/drop commits to rearrange commit history
 
-moving only one commit to master (ex. result of bug fix without the whole debugging history):
+moving only one commit to main (ex. result of bug fix without the whole debugging history):
 `git rebase -i` followed by `git cherry-pick`, example:
-`git checkout master` - moves from branch to master
-`git cherry-pick <commit>` - adds the chosen commit only to master
+`git checkout main` - moves from branch to main
+`git cherry-pick <commit>` - adds the chosen commit only to main
 
 mark commits that are milestones with git tags: `git tag <tag> <commit hash>`
 
