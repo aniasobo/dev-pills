@@ -6,7 +6,7 @@ to initialise your project: `git clone <app url>`
 
 to create a new heroku project: `heroku create`  
 
-to deploy: `git push heroku master`  
+to deploy: `git push heroku main`  
 
 to open your app in browser: `heroku open`  
 
@@ -48,6 +48,6 @@ to connect to your PG db and execute queries: `heroku pg:psql`
 
 `worker` and `release` are Heroku processes (dyno-dependent)
 
-**[Notes on running Rails apps on Heroku](https://github.com/aniasobo/dev-pills/blob/master/ruby/rails.md)**
+**[Notes on running Rails apps on Heroku](https://github.com/aniasobo/dev-pills/blob/main/ruby/rails.md)**
 
 
