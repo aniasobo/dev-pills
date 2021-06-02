@@ -47,7 +47,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Mobile developent](#mobile-developent)
   - [Flutter & Dart](#flutter--dart)
 - [Project setups](#project-setups)
-- [DevOps](#devops)
+- [DevOps/SRE](#devopssre)
 - [Machine learning](#machine-learning)
 - [Authentication](#authentication)
 - [Computer science](#computer-science)
@@ -401,18 +401,23 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 ---
 
-# DevOps
+# DevOps/SRE
 
 - [Basics of network engineering](devops/network.md)
 - [HTTP](devops/http.md)
 - [Webhooks](devops/webhooks.md)
 - [Servers](devops/servers.md)
 - [Web performance checklist](devops/web-performance-checklist.md)
+- [SQL vs NoSQL databases](devops/sql-nosql.md)
+- [Master-Slave Architecture](devops/master-slave.md)
+- [Event Driven Architecture](devops/event-driven.md)
+- [Publisher-Subscriber Model](devops/publisher-subscriber.md)
 - [Heroku](devops/heroku.md)
 - [Rake](devops/rake.md)
 - [CI/CD setup](devops/ci-cd.md)
 - [CRC cards for db models](devops/db-modelling.md)
 - [Travis](devops/travis.md)
+- [Antipatterns of db use](devops/antipatterns.md)
 
 ---
 
