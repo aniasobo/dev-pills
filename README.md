@@ -409,6 +409,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 - [Servers](devops/servers.md)
 - [Web performance checklist](devops/web-performance-checklist.md)
 - [SQL vs NoSQL databases](devops/sql-nosql.md)
+- [Master-Slave Architecture](devops/master-slave.md)
 - [Heroku](devops/heroku.md)
 - [Rake](devops/rake.md)
 - [CI/CD setup](devops/ci-cd.md)
