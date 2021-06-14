@@ -30,8 +30,8 @@ Availability vs consistency: you get more availability with non-relational but y
 
 **TYPES:**
 
-- key-value
-- wide column
+- key-value (Redis, memecached)
+- wide column (Cassandra)
 - document based (JSON)
 - graph based
 
