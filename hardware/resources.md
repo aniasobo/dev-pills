@@ -15,6 +15,7 @@
 
 - [Adafruit Circuit Playground intro](https://learn.adafruit.com/adafruit-circuit-playground-express)
 - [Adafruit Raspberry Pi lessons](https://learn.adafruit.com/series/learn-raspberry-pi)
+- [TinyGo - Go compiler for microcontrollers](https://github.com/tinygo-org/tinygo)
 
 ## Raspberry Pi as a local server for self hosting applications
 
