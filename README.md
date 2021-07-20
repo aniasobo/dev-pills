@@ -353,6 +353,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 # Go
 
 - [Learning resources](go/learning-go.md)
+- [Standard package layout](go/go-package-layout.md)
 
 ---
 
