@@ -6,7 +6,7 @@
 -  [ ] [go proverbs](https://go-proverbs.github.io/)
 -  [x] [go idioms](https://youtu.be/MzTcsI6tn-0)
 -  [ ] [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
--  [ ] [Practical Go presentation](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
+-  [x] [Practical Go presentation](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
 
 ## Resources linked to from the above resources:
 
@@ -14,7 +14,7 @@
 
 ## Books:
 
--  [ ] __Go Programming Language__ by Alan Donavan
+-  [x] __Go Programming Language__ by Alan Donavan
 -  [ ] __Go In Action__ by William Kennedy, Brian Ketelsen, Erik St. Martin
 -  [ ] __Concurrency in Go__ by Katherine Cox–buday
 
