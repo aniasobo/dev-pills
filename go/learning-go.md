@@ -15,7 +15,7 @@
 ## Books:
 
 -  [x] __Go Programming Language__ by Alan Donavan
--  [ ] __Go In Action__ by William Kennedy, Brian Ketelsen, Erik St. Martin
+-  [x] __Go In Action__ by William Kennedy, Brian Ketelsen, Erik St. Martin
 -  [ ] __Concurrency in Go__ by Katherine Cox–buday
 
 ## A little more advanced:
