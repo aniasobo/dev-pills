@@ -53,3 +53,7 @@
 - [ ] Hadoop/Spark and HDFS
 
 [SOURCE](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2) plus more links
+
+## Basics
+
+- [Numbers everyone should know](https://web.archive.org/web/20210207060829/https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/) - also accompanying [keynote from google](https://web.archive.org/web/20210308032622/https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
