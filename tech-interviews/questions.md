@@ -46,3 +46,33 @@
 ## Behavioural 😒
 
 * [45 behavioural interview questions](https://www.pathrise.com/guides/45-behavioral-interview-questions/)
+* Tell me about a time when you came up with an innovative solution to a challenge or issue.
+  * What was your idea? How did you develop it?
+  * How did you gain support for your idea?
+  * How did your idea help a customer/stakeholder? How did you evaluate success?
+  * If you diverted from the original plan, describe what it is that led to the change?
+* Tell me about a time when you received difficult feedback from a manager or peer.
+  * What were the circumstances?
+  * What was your reaction to the feedback? Did you agree?
+  * How did you seek to understand the feedback?
+  * What did you change, and how did you respond to the feedback?
+* Describe a time you coached someone to develop their skills.
+  * How did you come to coach this person?
+  * What did you do to coach them?
+  * How did you see your role in the process?
+  * What was the result?
+  * What did you learn from it?
+* Give me an example of a time when you were successful in selling an idea to a group of people that did not initially support your idea
+  * What were you trying to influence?
+  * Did you have changes to your original idea once you started to implement it?
+  * What was it that you did to change their minds?
+  * If you made a change along the way, what was it that prompted you to do this?
+
+
+
+Additional:
+
+What are your engineering best practices?
+Can you give an example of how you practice these each day?
+How did you form these practices?
+Have have they changed over time?
