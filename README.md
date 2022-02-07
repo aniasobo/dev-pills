@@ -354,6 +354,7 @@ A collection of my tips and tricks learnt over the course of the Makers Academy 
 
 - [Learning resources](go/learning-go.md)
 - [Go best practice](go/best-practice.md)
+- [Features - minimal working examples of Go](go/features.go)
 - [Standard package layout](go/go-package-layout.md)
 - [Go frameworks](go/frameworks.md)
 
